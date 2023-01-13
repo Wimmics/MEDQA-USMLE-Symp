@@ -25,16 +25,3 @@ paper:
 
 Santiago Marro, Benjamin Molinet, Elena Cabrio and Serena Villata (2023) Natural Language Explanatory Arguments for Correct and Incorrect
 Diagnoses of Clinical Cases. In ICAART (1) (pp. XX-XX)., Lisbon, Portugal.
-
-```
-@inproceedings{marro2023natural,
-  title =  {Natural Language Explanatory Arguments for Correct and Incorrect Diagnoses of Clinical Cases.},
-  author = {Santiago Marro and 
-            Benjamin Molinet and
-            Elena Cabrio and
-            Serena Villata},
-  booktitle = {ICAART (1)},
-  pages = {XX--XX},
-  year = {2023}
-}
-```
