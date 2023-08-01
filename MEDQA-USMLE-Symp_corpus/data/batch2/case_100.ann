@@ -1,0 +1,14 @@
+T1	Age_Group 2 13	64-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 74 83	dizziness
+T4	Temporal_Concept 54 73	several episodes of
+T5	Temporal_Concept 84 105	during the last month
+T6	Temporal_Concept 133 146	30–40 seconds
+T7	Temporal_Concept 151 170	during the episodes
+T8	Sign_or_Symptom 171 206	she feels as though she is spinning
+T9	No_Symptom_Occurence 402 408	nausea
+T10	Temporal_Concept 410 420	Last month
+T11	Sign_or_Symptom 433 466	upper respiratory tract infection
+T12	Sign_or_Symptom 504 516	hypertension
+T14	No_Finding_Occurence 609 699	lateralization when a vibrating 512 Hz tuning fork is placed in the middle of the forehead
+T13	No_Finding_Occurence 582 595	abnormalities

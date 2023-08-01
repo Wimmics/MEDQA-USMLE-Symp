@@ -1,0 +1,14 @@
+A 44-year-old woman presents to the emergency department with confusion starting this morning. Her husband states that she initially complained of abdominal pain, diarrhea, and fatigue after eating. She has vomited 3 times and progressively became more confused. Her past medical history is notable for morbid obesity, diabetes, hypertension, dyslipidemia, a sleeve gastrectomy 1 month ago, and depression with multiple suicide attempts. Her temperature is 98.0°F (36.7°C), blood pressure is 104/54 mmHg, pulse is 120/min, respirations are 15/min, and oxygen saturation is 98% on room air. Her physical exam is notable for generalized confusion. Laboratory values are ordered as seen below.
+
+Serum:
+Na+: 139 mEq/L
+Cl-: 100 mEq/L
+K+: 3.9 mEq/L
+HCO3-: 24 mEq/L
+BUN: 22 mg/dL
+Glucose: 41 mg/dL
+Creatinine: 1.1 mg/dL
+Ca2+: 10.2 mg/dL
+C-peptide level: normal
+
+Which of the following is the most likely diagnosis?

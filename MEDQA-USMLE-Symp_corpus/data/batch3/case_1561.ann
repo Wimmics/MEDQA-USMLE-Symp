@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	67-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 54 61	2-month
+T4	Sign_or_Symptom 73 92	generalized fatigue
+T5	Sign_or_Symptom 121 125	pale
+T6	Sign_or_Symptom 148 181	pinpoint, red, nonblanching spots
+T7	Location 189 200	extremities
+T8	Sign_or_Symptom 206 238	spleen is significantly enlarged
+T9	Finding 266 302	hemoglobin concentration of 8.3 g/dL
+T10	Finding 306 335	leukocyte count of 81,000/mm3
+T11	Finding 343 371	platelet count of 35,600/mm3
+T12	Location 375 397	peripheral blood smear
+T13	Sign_or_Symptom 404 507	immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cytoplasmic inclusions

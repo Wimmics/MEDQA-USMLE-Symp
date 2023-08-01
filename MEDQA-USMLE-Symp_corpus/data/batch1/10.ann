@@ -1,0 +1,33 @@
+T1	Relevant_symptoms 249 257	headache
+T2	Relevant_symptoms 147 154	seizure
+T3	Relevant_symptoms 166 173	seizure
+T4	Relevant_symptoms 270 275	fever
+T5	Sign_or_Symptom 259 264	cough
+T6	Relevant_symptoms 183 191	confused
+T7	Relevant_symptoms 460 468	confused
+T14	Relevant_symptoms 408 421	hyperreflexia
+T16	Age_Group 21 32	22-year-old
+T12	Temporal_Concept 103 119	20 minutes after
+R1	Related Ent1:T2 Ent2:T12	
+T10	Relevant_symptoms 200 219	difficulty thinking
+T18	Temporal_Concept 276 286	for 3 days
+R2	Related Ent1:T1 Ent2:T18	
+R3	Related Ent1:T5 Ent2:T18	
+R4	Related Ent1:T4 Ent2:T18	
+T15	Finding 340 369	temperature is 38.9°C (102°F)
+T9	Relevant_symptoms 477 503	short-term memory deficits
+T11	Relevant_symptoms 513 574	difficulty naming objects and makes literal paraphasic errors
+T8	Sign_or_Symptom 602 629	bitemporal hyperintensities
+T19	Finding 696 724	erythrocyte count of 340/mm3
+T20	Finding 729 772	leukocyte count of 121/mm3  (88% monocytes)
+T21	Finding 780 813	protein concentration of 78 mg/dL
+T13	Population_Group 175 178	she
+#1	AnnotatorNotes T2	seizure
+#2	AnnotatorNotes T3	seizure
+#3	AnnotatorNotes T6	Reduced consciousness/confusion
+#4	AnnotatorNotes T10	Reduced consciousness/confusion
+#5	AnnotatorNotes T1	headache
+#6	AnnotatorNotes T4	fever
+#7	AnnotatorNotes T14	hyperreflexia
+#8	AnnotatorNotes T7	Reduced consciousness/confusion
+#9	AnnotatorNotes T11	Reduced consciousness/confusion

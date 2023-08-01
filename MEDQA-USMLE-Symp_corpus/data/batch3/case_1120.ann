@@ -1,0 +1,18 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 57 79	inappropriate behavior
+T4	Temporal_Concept 80 101	for the past 6 months
+T5	Sign_or_Symptom 115 154	making inappropriate comments and jokes
+T6	Sign_or_Symptom 234 258	trying to kiss strangers
+T7	Temporal_Concept 216 227	3 weeks ago
+T8	Sign_or_Symptom 281 353	no interest in talking to his daughter or playing with his grandchildren
+T9	Sign_or_Symptom 394 446	strong desire for chocolate pudding and potato chips
+T10	Sign_or_Symptom 455 475	gained 10 kg (22 lb)
+T11	Sign_or_Symptom 488 495	unkempt
+T12	No_Finding_Occurence 497 508	Vital signs
+T13	No_Symptom_Occurence 559 571	unremarkable
+T14	Sign_or_Symptom 605 611	apathy
+T15	Sign_or_Symptom 618 630	blunt affect
+T16	Sign_or_Symptom 635 661	avoids answering questions
+T17	Finding 730 774	Mini-Mental State Examination score is 28/30
+T18	No_Finding_Occurence 787 862	blood count and serum concentrations of glucose, creatine, and electrolytes

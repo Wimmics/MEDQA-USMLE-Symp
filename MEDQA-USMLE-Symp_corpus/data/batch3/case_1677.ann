@@ -1,0 +1,20 @@
+T1	Age_Group 3 13	8-year-old
+T2	Population_Group 14 18	girl
+T3	Temporal_Concept 71 76	2-day
+T4	Sign_or_Symptom 88 103	low-grade fever
+T5	Sign_or_Symptom 106 115	tchy rash
+T6	Sign_or_Symptom 121 143	generalized joint pain
+T7	Location 179 211	antecubital and popliteal fossae
+T8	Location 235 240	trunk
+T9	Location 245 263	distal extremities
+T10	Temporal_Concept 265 277	One week ago
+T11	Sign_or_Symptom 302 317	acute sinusitis
+T12	Finding 399 427	immunizations are up-to-date
+T13	Finding 433 463	temperature is 37.5°C (99.5°F)
+T14	Finding 465 480	pulse is 90/min
+T15	Finding 486 516	blood pressure is 110/70 mm Hg
+T16	Sign_or_Symptom 545 562	periorbital edema
+T17	Sign_or_Symptom 567 623	multiple erythematous, annular plaques of variable sizes
+T18	Location 633 644	entire body
+T19	Sign_or_Symptom 646 725	One of the lesions in the right popliteal fossa has an area of central clearing
+T20	No_Finding_Occurence 817 823	normal

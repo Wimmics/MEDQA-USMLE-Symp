@@ -1,0 +1,17 @@
+T1	Age_Group 2 13	23-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 63 72	knee pain
+T4	Temporal_Concept 104 113	yesterday
+T5	Temporal_Concept 422 426	past
+T6	Sign_or_Symptom 446 473	polycystic ovarian syndrome
+T7	Finding 528 558	temperature is 98.5°F (36.9°C)
+T8	Finding 560 589	blood pressure is 137/88 mmHg
+T9	Finding 591 606	pulse is 90/min
+T10	Finding 608 631	respirations are 12/min
+T11	Finding 637 661	oxygen saturation is 98%
+T12	Sign_or_Symptom 700 705	obese
+T13	Sign_or_Symptom 717 728	facial hair
+T14	Sign_or_Symptom 759 769	tenderness
+T15	Location 811 866	medial aspect of the tibia just inferior to the patella
+T16	Finding 872 888	BMI is 37 kg/m^2
+T17	No_Finding_Occurence 941 951	remarkable

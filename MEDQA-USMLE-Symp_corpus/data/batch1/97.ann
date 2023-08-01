@@ -1,0 +1,45 @@
+T1	Relevant_symptoms 86 118	generalized tonic-clonic seizure
+T2	Sign_or_Symptom 179 199	eyes rolled backward
+T3	Relevant_symptoms 317 324	seizure
+T4	Sign_or_Symptom 451 475	7-kg (15-lb) weight loss
+T5	Sign_or_Symptom 618 630	hypertension
+T6	Relevant_symptoms 159 167	confused
+T7	Sign_or_Symptom 283 305	loss of consciousness.
+T8	Finding 381 418	vital signs were within normal limits
+T9	Finding 1015 1034	Creatinine 0.6 mg/d
+T10	Temporal_Concept 59 75	30 minutes after
+T11	Sign_or_Symptom 225 257	uncontrollable jerking movements
+T12	Temporal_Concept 430 445	6-month history
+T14	Sign_or_Symptom 683 688	awake
+T15	No_Symptom_Occurence 487 506	changes in appetite
+T16	No_Finding_Occurence 874 887	abnormalities
+T18	Age_Group 2 13	67-year-old
+T19	Population_Group 14 19	woman
+R1	Related Ent1:T1 Ent2:T10	
+T20	Sign_or_Symptom 330 342	passed urine
+T21	Sign_or_Symptom 347 361	bit her tongue
+T23	Sign_or_Symptom 538 558	small cell carcinoma
+T24	Temporal_Concept 571 580	last week
+R2	Related Ent1:T23 Ent2:T24	
+T25	Location 566 570	lung
+R3	Related Ent1:T23 Ent2:T25	
+R4	Related Ent1:T4 Ent2:T12	
+R5	Related Ent1:T15 Ent2:T12	
+T17	Relevant_symptoms 698 727	not respond to verbal stimuli
+T26	No_Symptom_Occurence 743 751	distress
+T27	Finding 757 785	temperature is 37°C (98.6°F)
+T28	Finding 787 802	pulse is 70/min
+T29	Finding 808 851	blood pressure is 130/88 mm Hg while supine
+T30	Finding 914 933	Serum Na+ 115 mEq/L
+T31	Finding 934 945	K + 4 mEq/L
+T32	Finding 946 958	Cl− 81 mEq/L
+T33	Finding 959 974	HCO3 − 25 mEq/L
+T34	Finding 975 996	Urea nitrogen 9 mg/dL
+T35	Finding 997 1014	Glucose 102 mg/dL
+T36	Finding 1036 1057	Urine Sodium 60 mEq/L
+T37	Finding 1058 1076	Potassium 20 mEq/L
+T38	Finding 1077 1101	Osmolality 900 mOsmol/kg
+T13	Location 265 269	arms
+T39	Location 274 278	legs
+R7	Related Ent1:T11 Ent2:T13	
+R8	Related Ent1:T11 Ent2:T39	

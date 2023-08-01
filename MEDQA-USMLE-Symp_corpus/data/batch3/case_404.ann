@@ -1,0 +1,12 @@
+T1	Age_Group 2 12	5-year-old
+T2	Population_Group 13 16	boy
+T3	No_Symptom_Occurence 105 109	well
+T4	Finding 143 202	born at 39 weeks gestation via spontaneous vaginal delivery
+T5	Finding 210 236	up to date on all vaccines
+T6	Finding 244 280	meeting all developmental milestones
+T7	Finding 322 374	right upper extremity blood pressure of 150/80 mm Hg
+T8	Finding 376 417	2+ radial pulses and trace femoral pulses
+T9	Finding 459 506	regular rate and rhythm with a normal S1 and S2
+T10	Location 578 597	left sternal border
+T11	Location 602 606	back
+T12	Sign_or_Symptom 510 563	2/6 long systolic murmur with systolic ejection click

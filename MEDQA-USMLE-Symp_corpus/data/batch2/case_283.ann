@@ -1,0 +1,25 @@
+T1	Age_Group 2 13	65-year-old
+T2	Population_Group 14 25	Asian woman
+T3	Sign_or_Symptom 134 146	night sweats
+T4	Temporal_Concept 123 133	occasional
+T5	Temporal_Concept 147 171	during the past 2 months
+T6	No_Symptom_Occurence 189 195	fevers
+T7	No_Symptom_Occurence 199 210	weight loss
+T8	Temporal_Concept 212 227	Seven months ag
+T9	Sign_or_Symptom 241 268	acute myocardial infarction
+T10	Sign_or_Symptom 334 346	hypertension
+T11	Sign_or_Symptom 348 362	hyperlipidemia
+T12	Sign_or_Symptom 368 399	gastroesophageal reflux disease
+T13	Finding 557 581	178 cm (5 ft 10 in) tall
+T14	Finding 586 608	weighs 89 kg (207 lbs)
+T15	Finding 610 627	BMI is 29.7 kg/m2
+T16	Finding 633 663	temperature is 37.4°C (99.3°F)
+T17	Finding 665 680	pulse is 84/min
+T18	Finding 682 705	respirations are 18/min
+T19	Finding 711 741	blood pressure is 145/80 mm Hg
+T20	Location 747 752	lungs
+T21	No_Finding_Occurence 766 778	auscultation
+T22	Finding 780 811	Cardiac examination shows an S4
+T23	Sign_or_Symptom 824 845	nontender skin lesion
+T24	Location 846 874	near the right large toenail
+T25	No_Finding_Occurence 955 968	abnormalities

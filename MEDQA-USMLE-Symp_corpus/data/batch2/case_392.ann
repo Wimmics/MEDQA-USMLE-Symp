@@ -1,0 +1,25 @@
+T1	Age_Group 21 32	60-year-old
+T2	Population_Group 33 36	man
+T3	Sign_or_Symptom 85 114	worsening shortness of breath
+T4	Temporal_Concept 115 136	for the past 2 months
+T5	No_Symptom_Occurence 161 180	shortness of breath
+T6	Sign_or_Symptom 217 226	dry cough
+T7	No_Symptom_Occurence 243 248	fever
+T8	No_Symptom_Occurence 250 256	chills
+T9	No_Symptom_Occurence 261 273	night sweats
+T10	Finding 434 457	183 cm (6 ft 0 in) tall
+T11	Finding 462 484	weighs 66 kg (145 lbs)
+T12	Finding 486 503	BMI is 19.7 kg/m2
+T13	Finding 509 537	temperature is 37°C (98.6°F)
+T14	Finding 539 554	pulse is 94/min
+T15	Finding 556 579	respirations are 21/min
+T16	Finding 585 615	blood pressure is 136/88 mm Hg
+T17	Temporal_Concept 181 188	at rest
+T18	Sign_or_Symptom 645 671	prolonged expiratory phase
+T19	Sign_or_Symptom 676 699	end-expiratory wheezing
+T20	Finding 779 806	total lung capacity of 125%
+T21	Finding 747 771	FEV1 of 60% of predicted
+T22	Finding 721 725	FEV1
+T23	Finding 726 742	FVC ratio of 62%
+T24	Finding 825 875	diffusion capacity of the lung (DLCO) is decreased
+T25	Temporal_Concept 198 210	occasionally

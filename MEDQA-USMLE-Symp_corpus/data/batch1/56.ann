@@ -1,0 +1,20 @@
+T1	Relevant_symptoms 103 127	frequent bowel movements
+T2	Relevant_symptoms 85 101	heat intolerance
+T3	Relevant_symptoms 135 161	6.8-kg (15-lb) weight loss
+T4	Relevant_symptoms 230 252	enlarged thyroid gland
+T5	Relevant_symptoms 57 69	irritability
+T6	Relevant_symptoms 71 83	palpitations
+T7	Sign_or_Symptom 177 186	neck mass
+T9	Temporal_Concept 26 41	6-month history
+T12	Temporal_Concept 191 209	more than 10 years
+T13	Finding 276 306	increased and decreased uptake
+T14	Age_Group 2 13	65-year-old
+T15	Population_Group 14 19	woman
+R1	Related Ent1:T5 Ent2:T9	
+R2	Related Ent1:T6 Ent2:T9	
+R3	Related Ent1:T2 Ent2:T9	
+R4	Related Ent1:T1 Ent2:T9	
+R5	Related Ent1:T3 Ent2:T9	
+R6	Related Ent1:T7 Ent2:T12	
+T8	Location 258 272	multiple areas
+R7	Related Ent1:T13 Ent2:T8	

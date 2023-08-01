@@ -1,0 +1,11 @@
+T1	Population_Group 18 32	female newborn
+T2	Finding 2 17	3000-g (6.6-lb)
+T3	Population_Group 71 88	primigravid woman
+T4	Age_Group 59 70	23-year-old
+T6	No_Finding_Occurence 127 147	Immunization records
+T7	Sign_or_Symptom 195 218	continuous heart murmur
+T8	Sign_or_Symptom 238 252	bluish macules
+T9	Location 260 264	skin
+T10	Sign_or_Symptom 327 340	cloudy lenses
+T11	Location 349 353	eyes
+T12	Sign_or_Symptom 367 409	does not pass his auditory screening tests

@@ -1,0 +1,26 @@
+T1	Age_Group 2 12	7-year-old
+T2	Population_Group 13 16	boy
+T3	Sign_or_Symptom 94 103	dry scalp
+T4	Sign_or_Symptom 108 117	hair loss
+T5	Sign_or_Symptom 134 146	scaling spot
+T6	Location 154 159	scalp
+T7	Temporal_Concept 177 189	2 months ago
+T8	Sign_or_Symptom 253 262	bald spot
+T9	No_Symptom_Occurence 499 503	pain
+T10	No_Symptom_Occurence 507 516	itchiness
+T11	Sign_or_Symptom 561 581	scratching his scalp
+T12	Sign_or_Symptom 676 696	increase in his tics
+T13	Sign_or_Symptom 707 725	excessive blinking
+T14	Sign_or_Symptom 730 753	clearing of his throat.
+T15	Sign_or_Symptom 803 809	asthma
+T16	Sign_or_Symptom 811 828	allergic rhinitis
+T17	Sign_or_Symptom 834 876	attention deficient hyperactivity disorder
+T18	Population_Group 1029 1041	older sister
+T19	Sign_or_Symptom 992 1021	obsessive compulsive disorder
+T20	Population_Group 1071 1077	father
+T21	Sign_or_Symptom 1084 1101	debilitating skin
+T22	Sign_or_Symptom 1106 1120	joint disorder
+T23	Sign_or_Symptom 1147 1167	swollen lymph glands
+T24	Location 1175 1201	back of the patient's ears
+T25	Location 1206 1210	neck
+T26	Sign_or_Symptom 1226 1272	residual black dots within a patch of alopecia

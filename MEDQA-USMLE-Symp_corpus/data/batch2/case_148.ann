@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	65-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 63 85	change in his behavior
+T4	Temporal_Concept 86 110	over the past few months
+T5	Sign_or_Symptom 192 205	foul language
+T6	Sign_or_Symptom 210 238	grabbing people unexpectedly
+T7	Sign_or_Symptom 151 175	behaving inappropriately
+T8	Sign_or_Symptom 265 288	worsening of his memory
+T9	Sign_or_Symptom 293 319	trouble caring for himself
+T10	Finding 325 355	temperature is 98.1°F (36.7°C)
+T11	Finding 357 387	blood pressure is 162/103 mmHg
+T12	Finding 389 404	pulse is 83/min
+T13	Finding 406 429	respirations are 13/min
+T14	Finding 435 459	oxygen saturation is 98%
+T15	Sign_or_Symptom 521 543	laughs inappropriately
+T16	Temporal_Concept 544 552	at times
+T17	Sign_or_Symptom 566 580	poor historian
+T18	Sign_or_Symptom 630 653	word finding difficulty
+T19	Sign_or_Symptom 668 679	inattentive

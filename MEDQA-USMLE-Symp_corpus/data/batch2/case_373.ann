@@ -1,0 +1,15 @@
+T1	No_Symptom_Occurence 198 210	asymptomatic
+T2	Age_Group 2 13	45-year-old
+T3	Population_Group 14 17	man
+T4	Temporal_Concept 57 62	1-day
+T5	Sign_or_Symptom 86 90	pain
+T6	Sign_or_Symptom 95 108	blurry vision
+T7	Location 116 125	right eye
+T8	Sign_or_Symptom 133 160	struggling to open this eye
+T9	Sign_or_Symptom 244 260	bronchial asthma
+T10	Population_Group 308 328	kindergarten teacher
+T11	Finding 355 382	temperature 37.0°C (98.6°F)
+T12	Finding 384 396	pulse 85/min
+T13	Finding 402 429	blood pressure 135/75 mm Hg
+T14	Finding 455 493	visual acuity in the left eye of 20/25
+T15	Finding 502 553	ability to count fingers at 3 feet in the right eye

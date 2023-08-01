@@ -1,0 +1,20 @@
+T1	Age_Group 2 13	60-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 78 101	painless loss of vision
+T4	Temporal_Concept 70 76	sudden
+T5	Temporal_Concept 133 147	30 minutes ago
+T6	Location 109 118	right eye
+T7	Sign_or_Symptom 175 198	coronary artery disease
+T8	Sign_or_Symptom 200 212	hypertension
+T9	Sign_or_Symptom 218 242	type 2 diabetes mellitus
+T10	Finding 304 334	blood pressure is 160/85 mm Hg
+T11	Finding 354 366	20/50 vision
+T12	Location 374 382	left eye
+T13	Sign_or_Symptom 387 409	no perception of light
+T14	Location 417 426	right eye
+T15	Finding 546 624	Intraocular pressure is 16 mm Hg in the left eye and 18 mm Hg in the right eye
+T16	Sign_or_Symptom 428 507	Direct pupillary reflex is present in the left eye, but absent in the right eye
+T17	Sign_or_Symptom 509 545	Accommodation is intact bilaterally.
+T18	Sign_or_Symptom 675 734	pale, white retina with a bright red area within the macula
+T19	Location 657 666	right eye
+T20	No_Symptom_Occurence 740 750	optic disc

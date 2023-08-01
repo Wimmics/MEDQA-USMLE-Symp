@@ -1,0 +1,11 @@
+T1	Age_Group 2 13	48-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 67 83	left breast mass
+T4	Temporal_Concept 101 112	4 weeks ago
+T5	No_Finding_Occurence 167 178	Vital signs
+T6	Sign_or_Symptom 223 242	large dense breasts
+T7	Sign_or_Symptom 246 280	6-cm, nontender, multinodular mass
+T8	Location 300 339	upper outer quadrant of the left breast
+T9	No_Symptom_Occurence 354 383	changes in the skin or nipple
+T10	No_Symptom_Occurence 406 437	cervical or axillary adenopathy
+T11	Sign_or_Symptom 459 484	smooth polylobulated mass

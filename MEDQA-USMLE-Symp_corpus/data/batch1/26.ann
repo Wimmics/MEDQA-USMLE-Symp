@@ -1,0 +1,21 @@
+T3	Relevant_symptoms 201 234	shortness of breath with exertion
+T5	No_Symptom_Occurence 329 344	serious illness
+T11	Temporal_Concept 412 419	history
+T13	No_Finding_Occurence 640 653	abnormalities
+T16	Age_Group 2 13	50-year-old
+T17	Population_Group 14 19	woman
+T8	Temporal_Concept 53 68	3-month history
+T7	Location 74 80	facial
+T18	Sign_or_Symptom 81 85	rash
+R1	Related Ent1:T18 Ent2:T7	
+R2	Related Ent1:T18 Ent2:T8	
+T9	Temporal_Concept 182 197	6-month history
+R3	Related Ent1:T3 Ent2:T9	
+T1	Relevant_symptoms 239 258	nonproductive cough
+R4	Related Ent1:T1 Ent2:T9	
+T2	Temporal_Concept 318 325	history
+R5	Related Ent1:T5 Ent2:T2	
+T10	No_Symptom_Occurence 423 429	trauma
+R6	Related Ent1:T10 Ent2:T11	
+T6	No_Finding_Occurence 515 526	Vital signs
+#1	AnnotatorNotes T3	Dyspnea

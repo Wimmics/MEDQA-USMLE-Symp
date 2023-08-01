@@ -1,0 +1,23 @@
+T1	Relevant_symptoms 68 76	headache
+T3	Relevant_symptoms 200 230	unresponsive to verbal stimuli
+T4	Sign_or_Symptom 180 192	hypertension
+T6	Relevant_symptoms 81 113	decreased level of consciousness
+T7	Sign_or_Symptom 405 418	Babinski sign
+T10	Location 437 442	right
+R1	Related Ent1:T7 Ent2:T10	
+T12	Relevant_symptoms 377 403	reacts sluggishly to light
+T14	Temporal_Concept 143 158	20-year history
+R4	Related Ent1:T4 Ent2:T14	
+T9	Temporal_Concept 123 132	past hour
+R5	Related Ent1:T6 Ent2:T9	
+R6	Related Ent1:T1 Ent2:T9	
+T2	Finding 337 372	left pupil is larger than the right
+T5	Sign_or_Symptom 474 497	large hyperintense mass
+T8	Location 505 523	left basal ganglia
+R2	Related Ent1:T5 Ent2:T8	
+T11	Sign_or_Symptom 529 540	compression
+T13	Location 548 570	left lateral ventricle
+R3	Related Ent1:T11 Ent2:T13	
+T15	Sign_or_Symptom 575 580	shift
+T16	Location 588 606	midline structures
+R7	Related Ent1:T15 Ent2:T16	

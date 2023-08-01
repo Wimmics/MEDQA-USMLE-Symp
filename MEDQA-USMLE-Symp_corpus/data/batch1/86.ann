@@ -1,0 +1,14 @@
+T1	Finding 200 225	collapse of left lung
+T4	Age_Group 2 13	16-year-old
+T5	Population_Group 14 17	boy
+T2	Sign_or_Symptom 71 82	knife wound
+T6	Location 90 112	left side of his chest
+R1	Related Ent1:T2 Ent2:T6	
+T7	Sign_or_Symptom 145 160	air-fluid level
+T8	Location 168 190	left side of the chest
+R2	Related Ent1:T7 Ent2:T8	
+T9	Sign_or_Symptom 192 208	partial collapse
+T10	Location 216 225	left lung
+R3	Related Ent1:T9 Ent2:T10	
+T11	Sign_or_Symptom 231 262	elevation of the stomach bubble
+T12	Finding 268 297	mediastinum is in the midline

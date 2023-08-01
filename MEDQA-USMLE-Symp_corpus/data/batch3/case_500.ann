@@ -1,0 +1,26 @@
+T1	Population_Group 48 60	male newborn
+T2	Finding 28 47	3050-g (6-lb 12-oz)
+T3	Sign_or_Symptom 78 97	feeding intolerance
+T4	Sign_or_Symptom 122 138	bilious vomiting
+T5	Temporal_Concept 0 24	Six hours after delivery
+T6	Temporal_Concept 102 121	several episodes of
+T7	Age_Group 173 184	35-year-old
+T8	Population_Group 185 190	woman
+T9	Sign_or_Symptom 147 159	born at term
+T10	Sign_or_Symptom 203 226	normal vaginal delivery
+T11	No_Symptom_Occurence 246 259	uncomplicated
+T12	Sign_or_Symptom 381 397	pyloric stenosis
+T13	Temporal_Concept 404 410	infant
+T14	Population_Group 345 358	older brother
+T15	No_Finding_Occurence 412 423	Vital signs
+T16	Sign_or_Symptom 477 504	epicanthus, upward slanting
+T17	Location 512 519	eyelids
+T18	Sign_or_Symptom 521 533	low-set ears
+T19	Sign_or_Symptom 541 572	single transverse palmar crease
+T20	No_Finding_Occurence 597 609	auscultation
+T21	Location 578 583	lungs
+T22	Sign_or_Symptom 613 642	grade 2/6 holosystolic murmur
+T23	Location 659 691	left mid to lower sternal border
+T24	Sign_or_Symptom 723 746	distended upper abdomen
+T25	Sign_or_Symptom 753 781	concave-shaped lower abdomen
+T26	No_Symptom_Occurence 795 807	organomegaly

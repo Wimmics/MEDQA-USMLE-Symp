@@ -1,0 +1,27 @@
+T1	Age_Group 2 13	28-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 62 81	shortness of breath
+T4	Sign_or_Symptom 86 96	chest pain
+T5	No_Symptom_Occurence 246 251	alert
+T6	No_Symptom_Occurence 256 264	oriented
+T7	Sign_or_Symptom 272 303	Glasgow Coma Scale rating of 14
+T8	Finding 309 339	temperature is 37.3°C (99.1°F)
+T9	Finding 341 357	pulse is 103/min
+T10	Finding 359 382	respirations are 33/min
+T11	Finding 387 417	blood pressure is 132/88 mm Hg
+T12	Finding 455 479	oxygen saturation of 94%
+T13	Sign_or_Symptom 499 517	multiple abrasions
+T14	Location 527 534	abdomen
+T15	Location 539 550	extremities
+T16	Sign_or_Symptom 563 587	2.5-cm (1-in) laceration
+T17	Location 595 618	left side of the chest.
+T18	Sign_or_Symptom 629 652	decreased breath sounds
+T19	Location 662 671	left base
+T20	No_Finding_Occurence 702 715	abnormalities
+T21	No_Symptom_Occurence 721 736	abdomen is soft
+T22	Sign_or_Symptom 750 773	tenderness to palpation
+T23	Location 783 802	left upper quadrant
+T24	No_Symptom_Occurence 804 816	Bowel sounds
+T25	Finding 833 870	hemoglobin concentration is 13.6 g/dL
+T26	Finding 872 900	leukocyte count is 9,110/mm3
+T27	Finding 906 935	platelet count is 190,000/mm3

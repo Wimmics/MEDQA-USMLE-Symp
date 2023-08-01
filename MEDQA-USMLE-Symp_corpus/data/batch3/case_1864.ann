@@ -1,0 +1,26 @@
+T1	Age_Group 2 13	17-year-old
+T2	Population_Group 14 18	girl
+T3	Sign_or_Symptom 69 76	fatigue
+T4	Temporal_Concept 77 98	for the past 6 months
+T5	Sign_or_Symptom 134 159	5-kg (11-lbs) weight loss
+T6	No_Symptom_Occurence 282 297	serious illness
+T7	Population_Group 303 309	mother
+T8	Sign_or_Symptom 314 339	major depressive disorder
+T9	Finding 378 404	25th percentile for height
+T10	Finding 406 432	10th percentile for weight
+T11	Finding 438 461	20th percentile for BMI
+T12	Finding 467 478	BMI is 19.0
+T13	Finding 484 512	temperature is 37°C (98.6°F)
+T14	Finding 514 529	pulse is 65/min
+T15	Finding 535 565	blood pressure is 110/70 mm Hg
+T16	Sign_or_Symptom 585 593	dry skin
+T17	Sign_or_Symptom 595 608	brittle nails
+T18	Sign_or_Symptom 614 622	calluses
+T19	Location 630 638	knuckles
+T20	No_Finding_Occurence 682 695	abnormalities
+T21	Finding 722 742	Hemoglobin 12.3 g/dL
+T22	Finding 749 762	Na+ 133 mEq/L
+T23	Finding 763 775	Cl- 90 mEq/L
+T24	Finding 776 788	K+ 3.2 mEq/L
+T25	Finding 789 803	HCO3- 30 mEq/L
+T26	Finding 804 818	Ca+2 7.8 mg/dL

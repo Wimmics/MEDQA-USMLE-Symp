@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	27-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 218 235	sinus tachycardia
+T4	Finding 241 271	temperature is 99.5°F (37.5°C)
+T5	Finding 273 302	blood pressure is 107/58 mmHg
+T6	Finding 304 320	pulse is 120/min
+T7	Finding 322 345	respirations are 17/min
+T8	Finding 351 375	oxygen saturation is 98%
+T9	Sign_or_Symptom 507 568	pulmonary capillary wedge pressure and troponins are elevated
+T10	Sign_or_Symptom 610 620	chest pain
+T11	Sign_or_Symptom 654 677	uncomfortable young man
+T12	Sign_or_Symptom 683 691	bruising
+T13	Location 701 711	chest wall

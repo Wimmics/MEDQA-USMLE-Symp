@@ -1,0 +1,11 @@
+T4	Sign_or_Symptom 99 105	lesion
+T8	Age_Group 2 13	72-year-old
+T9	Population_Group 14 17	man
+T1	Location 113 117	face
+R1	Related Ent1:T4 Ent2:T1	
+T2	Relevant_symptoms 161 208	6-mm, red, ulcerated lesion with heaped borders
+T3	Relevant_symptoms 248 282	atypical, dysplastic keratinocytes
+T5	Location 294 303	epidermis
+T6	Location 308 314	dermis
+R2	Related Ent1:T3 Ent2:T5	
+R3	Related Ent1:T3 Ent2:T6	

@@ -1,0 +1,23 @@
+T1	Relevant_symptoms 71 87	cold intolerance
+T2	Relevant_symptoms 54 66	sluggishness
+T3	Finding 424 468	Thyroid-stimulating hormone 1 μU/mL 10 μU/mL
+T8	Age_Group 2 13	40-year-old
+T9	Population_Group 14 19	woman
+T10	Temporal_Concept 88 100	for 3 months
+R1	Related Ent1:T1 Ent2:T10	
+R2	Related Ent1:T2 Ent2:T10	
+T11	Temporal_Concept 102 116	Five years ago
+T12	Sign_or_Symptom 134 159	thyroid gland enlargement
+R3	Related Ent1:T12 Ent2:T11	
+T13	Temporal_Concept 208 222	One year later
+T5	Finding 240 259	gland had decreased
+R4	Related Ent1:T5 Ent2:T13	
+T14	No_Finding_Occurence 349 371	palpable thyroid gland
+T15	Temporal_Concept 410 423	5 Years Later
+T16	Finding 469 503	Thyroxine (T4) 5.5 μg/dL 3.2 μg/dL
+T4	Finding 504 555	Thyroid-peroxidase antibody 8 IU/mL (N=0–2) 9 IU/mL
+R5	Related Ent1:T3 Ent2:T15	
+R6	Related Ent1:T16 Ent2:T15	
+R7	Related Ent1:T4 Ent2:T15	
+T6	Finding 269 289	gained 10 kg (22 lb)
+T7	Temporal_Concept 301 313	past 5 years

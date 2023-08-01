@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	17-year-old
+T2	Population_Group 14 17	boy
+T3	Sign_or_Symptom 69 84	right knee pain
+T4	Temporal_Concept 57 68	progressive
+T5	Temporal_Concept 85 106	for the past 3 months
+T6	No_Symptom_Occurence 204 210	trauma
+T7	Location 218 222	knee
+T8	No_Symptom_Occurence 239 247	problems
+T9	Location 257 263	joints
+T10	Temporal_Concept 230 238	previous
+T11	No_Finding_Occurence 269 280	vital signs
+T12	Sign_or_Symptom 343 398	mild swelling and tenderness without warmth or erythema
+T13	Sign_or_Symptom 404 430	range of motion is limited
+T14	Sign_or_Symptom 449 462	antalgic gait
+T15	Finding 491 522	alkaline phosphatase of 180 U/L
+T16	Finding 530 571	erythrocyte sedimentation rate of 80 mm/h

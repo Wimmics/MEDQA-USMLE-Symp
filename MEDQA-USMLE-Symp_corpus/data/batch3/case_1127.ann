@@ -1,0 +1,9 @@
+T1	Age_Group 2 13	65-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 56 63	2-month
+T4	Sign_or_Symptom 75 112	intermittent bleeding from her vagina
+T5	No_Symptom_Occurence 136 151	serious illness
+T6	Sign_or_Symptom 204 232	thickened endometrial stripe
+T7	Sign_or_Symptom 239 256	left adnexal mass
+T8	Sign_or_Symptom 285 319	well-differentiated adenocarcinoma
+T9	Finding 345 374	increased levels of inhibin B

@@ -1,0 +1,20 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 52 81	bilateral wrist and knee pain
+T4	Temporal_Concept 104 125	for the last 10 years
+T5	Population_Group 145 165	professional athlete
+T6	Sign_or_Symptom 203 220	morning stiffness
+T7	Location 228 234	joints
+T8	Temporal_Concept 246 264	approx. 50 minutes
+T9	No_Symptom_Occurence 276 290	joint swelling
+T10	No_Symptom_Occurence 292 319	color changes in his digits
+T11	No_Symptom_Occurence 321 348	dryness of mucous membranes
+T12	No_Symptom_Occurence 354 377	constitutional symptoms
+T13	No_Symptom_Occurence 386 391	fever
+T14	No_Symptom_Occurence 396 402	chills
+T15	Sign_or_Symptom 450 468	non-tender nodules
+T16	Location 476 528	left 1st, 3rd, and 4th distal interphalangeal joints
+T17	Location 577 596	base of both thumbs
+T18	Sign_or_Symptom 544 569	tenderness with palpation
+T19	Sign_or_Symptom 612 643	knees are enlarged, bilaterally
+T20	Sign_or_Symptom 656 700	pain and crepitus on passive range of motion

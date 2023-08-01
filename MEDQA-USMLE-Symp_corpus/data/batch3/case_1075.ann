@@ -1,0 +1,11 @@
+T1	Age_Group 2 13	53-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 54 61	3-month
+T4	Sign_or_Symptom 73 78	cough
+T5	Sign_or_Symptom 97 139	worsening difficulty walking up the stairs
+T6	Sign_or_Symptom 261 289	4.6-kg (10.1-lb) weight loss
+T7	Temporal_Concept 290 312	over the past 6 months
+T8	Sign_or_Symptom 389 409	dry mucous membranes
+T9	Sign_or_Symptom 415 461	pupils are equal and react sluggishly to light
+T10	Finding 584 605	achilles reflex is 1+
+T11	Finding 463 578	Muscle strength in the proximal lower extremity is initially 3/5 but increases to 5/5 after repeated muscle tapping

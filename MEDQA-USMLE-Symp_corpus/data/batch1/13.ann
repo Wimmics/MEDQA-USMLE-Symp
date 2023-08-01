@@ -1,0 +1,63 @@
+T1	Sign_or_Symptom 552 561	lethargic
+T6	Relevant_symptoms 543 547	weak
+T7	Relevant_symptoms 1046 1066	generalized weakness
+T8	Relevant_symptoms 68 76	weakness
+T10	Relevant_symptoms 83 107	purple-red discoloration
+T12	No_Finding_Occurence 396 406	tick bites
+T16	Age_Group 2 12	9-year-old
+T21	Population_Group 13 16	boy
+T19	Location 117 123	cheeks
+T2	Location 134 141	eyelids
+T22	Temporal_Concept 151 163	past 8 weeks
+R3	Related Ent1:T8 Ent2:T22	
+R4	Related Ent1:T10 Ent2:T19	
+R5	Related Ent1:T10 Ent2:T2	
+R6	Related Ent1:T10 Ent2:T22	
+T9	Relevant_symptoms 228 250	unable to climb stairs
+T13	No_Finding_Occurence 410 438	exposure to poisonous plants
+T15	Sign_or_Symptom 505 530	scaly patches of the skin
+T4	Temporal_Concept 697 709	9 months ago
+T5	No_Finding_Occurence 649 669	change in his weight
+R7	Related Ent1:T5 Ent2:T4	
+T18	Finding 576 602	75th percentile for height
+T20	Finding 607 633	25th percentile for weight
+T23	Finding 715 745	temperature is 37.7°C (99.8°F)
+T24	Finding 747 777	blood pressure is 110/68 mm Hg
+T25	Finding 779 795	pulse is 105/min
+T26	Finding 801 824	respirations are 28/min
+T3	Relevant_symptoms 1071 1078	atrophy
+T11	Location 1086 1102	proximal muscles
+R8	Related Ent1:T3 Ent2:T11	
+R9	Related Ent1:T7 Ent2:T11	
+T14	Relevant_symptoms 858 882	purple-red discoloration
+T17	Location 892 898	cheeks
+T27	Location 903 910	eyelids
+R10	Related Ent1:T14 Ent2:T17	
+R11	Related Ent1:T14 Ent2:T27	
+T28	Sign_or_Symptom 912 929	periorbital edema
+T29	Relevant_symptoms 931 951	erythematous plaques
+T30	Relevant_symptoms 956 962	scales
+T31	Location 972 978	elbows
+T32	Location 983 988	knees
+T33	Location 1027 1035	knuckles
+T34	Relevant_symptoms 1006 1017	red papules
+R12	Related Ent1:T34 Ent2:T33	
+R13	Related Ent1:T30 Ent2:T31	
+R14	Related Ent1:T30 Ent2:T32	
+R15	Related Ent1:T29 Ent2:T31	
+R16	Related Ent1:T29 Ent2:T32	
+T35	Relevant_symptoms 252 271	walk long distances
+T36	Relevant_symptoms 273 286	comb his hair
+T37	Relevant_symptoms 291 304	dress himself
+#1	AnnotatorNotes T8	Proximal muscle weakness
+#2	AnnotatorNotes T10	Abnormal eyelid morphology
+#3	AnnotatorNotes T9	Proximal muscle weakness
+#4	AnnotatorNotes T35	Proximal muscle weakness
+#5	AnnotatorNotes T36	Proximal muscle weakness
+#6	AnnotatorNotes T37	Proximal muscle weakness
+#7	AnnotatorNotes T14	Abnormal eyelid morphology
+#8	AnnotatorNotes T29	 Erythema
+#9	AnnotatorNotes T34	Papule
+#10	AnnotatorNotes T7	Proximal muscle weakness
+#11	AnnotatorNotes T3	Proximal muscle weakness
+#12	AnnotatorNotes T6	Proximal muscle weakness

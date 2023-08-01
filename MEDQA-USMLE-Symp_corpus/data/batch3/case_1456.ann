@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	57-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 34 45	large wound
+T4	Location 53 68	right lower leg
+T5	Temporal_Concept 91 103	for 6 months
+T6	Sign_or_Symptom 140 164	chronically swollen legs
+T7	Temporal_Concept 165 183	for over 10 years.
+T8	Population_Group 188 194	mother
+T9	Population_Group 199 206	brother
+T10	Sign_or_Symptom 211 227	similar problems
+T11	Location 239 243	legs
+T12	Sign_or_Symptom 265 291	deep vein thrombosis (DVT)
+T13	Location 299 311	affected leg
+T14	Temporal_Concept 312 327	5 years earlier
+T15	Finding 377 401	blood pressure of 126/84
+T16	Finding 406 426	heart rate of 62/min

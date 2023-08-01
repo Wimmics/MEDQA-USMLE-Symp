@@ -1,0 +1,18 @@
+T1	Age_Group 2 13	28-year-old
+T2	Finding 14 18	G2P1
+T3	Population_Group 19 24	woman
+T4	Finding 28 46	29 weeks gestation
+T5	Sign_or_Symptom 91 100	red spots
+T7	Temporal_Concept 122 140	over the past week
+T8	Sign_or_Symptom 146 183	vaginal bleeding has not been painful
+T6	Finding 238 281	previous child was born by cesarean section
+T9	No_Symptom_Occurence 358 373	fetal movements
+T10	Finding 379 409	temperature is 98.9°F (37.2°C)
+T11	Finding 411 440	blood pressure is 120/84 mmHg
+T12	Finding 442 457	pulse is 88/min
+T13	Finding 459 482	respirations are 17/min
+T14	Finding 488 512	oxygen saturation is 99%
+T15	No_Symptom_Occurence 557 570	gravid uterus
+T16	No_Symptom_Occurence 575 593	non-tender abdomen
+T17	No_Symptom_Occurence 619 637	closed cervical os
+T18	Sign_or_Symptom 644 665	small amount of blood

@@ -1,0 +1,11 @@
+T1	Age_Group 2 13	63-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 65 76	skin lesion
+T4	Location 84 89	chest
+T5	Temporal_Concept 119 131	2 months ago
+T6	No_Symptom_Occurence 189 222	lesion is not painful or pruritic
+T7	Sign_or_Symptom 231 255	type 2 diabetes mellitus
+T8	Sign_or_Symptom 257 277	hypercholesterolemia
+T9	Sign_or_Symptom 283 291	glaucoma
+T10	No_Finding_Occurence 501 512	Vital signs
+T11	Sign_or_Symptom 543 622	lesion is partly elevated on palpation and does not change its form on pinching

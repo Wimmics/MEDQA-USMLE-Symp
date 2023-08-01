@@ -1,0 +1,24 @@
+T1	Age_Group 2 13	56-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 98 107	mild pain
+T4	Location 115 125	left groin
+T5	Temporal_Concept 126 137	for 2 weeks
+T6	Sign_or_Symptom 187 208	myocardial infarction
+T7	Temporal_Concept 171 182	1 month ago
+T8	Sign_or_Symptom 257 266	occlusion
+T9	Location 274 305	left anterior descending artery
+T10	Sign_or_Symptom 353 365	hypertension
+T11	Sign_or_Symptom 370 390	hypercholesterolemia
+T12	Finding 578 606	temperature is 36.7°C (98°F)
+T13	Finding 608 623	pulse is 88/min
+T14	Finding 629 659	blood pressure is 130/84 mm Hg
+T15	Sign_or_Symptom 681 718	3-cm (1.2-in), tender, pulsatile mass
+T16	Location 726 765	left thigh, below the inguinal ligament
+T17	Sign_or_Symptom 776 789	mild erythema
+T18	Location 797 811	overlying skin
+T19	Sign_or_Symptom 815 826	loud murmur
+T20	No_Finding_Occurence 902 915	abnormalities
+T21	No_Symptom_Occurence 929 934	edema
+T22	Location 942 953	lower limbs
+T23	No_Symptom_Occurence 955 1004	Femoral and pedal pulses are palpable bilaterally
+T24	No_Finding_Occurence 1038 1052	focal findings

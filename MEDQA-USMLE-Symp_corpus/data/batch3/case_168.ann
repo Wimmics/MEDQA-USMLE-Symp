@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	24-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 64 76	active labor
+T4	Finding 80 98	40 weeks gestation
+T5	Sign_or_Symptom 110 126	prolonged course
+T6	Sign_or_Symptom 224 242	uterine tenderness
+T7	Sign_or_Symptom 247 269	decreased bowel sounds
+T8	Sign_or_Symptom 290 320	been urinating more frequently
+T9	Finding 334 363	temperature is 102°F (38.9°C)
+T10	Finding 365 394	blood pressure is 118/78 mmHg
+T11	Finding 396 412	pulse is 111/min
+T12	Finding 414 437	respirations are 17/min
+T13	Finding 443 467	oxygen saturation is 98%
+T14	Sign_or_Symptom 512 533	non-distended abdomen
+T15	Sign_or_Symptom 540 553	tender uterus
+T16	Sign_or_Symptom 578 602	minor bibasilar crackles

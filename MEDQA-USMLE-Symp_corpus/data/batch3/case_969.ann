@@ -1,0 +1,30 @@
+T1	Age_Group 2 11	2-day old
+T2	Population_Group 12 24	male newborn
+T3	Finding 25 56	delivered vaginally at 36 weeks
+T4	Age_Group 62 73	29-year-old
+T5	Population_Group 74 79	woman
+T6	Finding 81 90	gravida 3
+T7	Finding 92 98	para 2
+T8	Sign_or_Symptom 104 127	generalized convulsions
+T9	Temporal_Concept 128 145	lasting 2 minutes
+T10	Sign_or_Symptom 177 195	difficulty feeding
+T11	Sign_or_Symptom 204 213	lethargic
+T12	Finding 258 283	Apgar scores were 7 and 8
+T13	Temporal_Concept 287 316	1 and 5 minutes, respectively
+T14	Finding 477 505	immunizations are up-to-date
+T15	Population_Group 468 476	mother's
+T16	Sign_or_Symptom 526 533	icteric
+T17	Population_Group 511 517	infant
+T18	No_Finding_Occurence 539 550	vital signs
+T19	Finding 590 633	weight and length are at the 5th percentile
+T20	Finding 643 704	head circumference at the 99th percentile for gestational age
+T21	Population_Group 581 589	infant's
+T22	Sign_or_Symptom 716 731	several purpura
+T23	Location 739 743	skin
+T24	Sign_or_Symptom 770 787	posterior uveitis
+T25	Sign_or_Symptom 801 843	does not pass his auditory screening tests
+T26	Sign_or_Symptom 875 897	ventricular dilatation
+T27	Sign_or_Symptom 910 926	hyperechoic foci
+T28	Location 938 944	cortex
+T29	Location 946 959	basal ganglia
+T30	Location 965 987	periventricular region

@@ -1,0 +1,17 @@
+T1	Age_Group 2 12	5-year-old
+T2	Population_Group 13 16	boy
+T3	Sign_or_Symptom 90 111	loss of consciousness
+T4	Temporal_Concept 83 89	sudden
+T5	Sign_or_Symptom 120 126	asthma
+T6	Sign_or_Symptom 184 208	type 2 diabetes mellitus
+T7	Population_Group 173 179	mother
+T8	Sign_or_Symptom 216 225	somnolent
+T9	Sign_or_Symptom 230 241	diaphoretic
+T10	Finding 264 297	glucose concentration of 22 mg/dL
+T11	Finding 304 340	potassium concentration of 2.4 mEq/L
+T12	Sign_or_Symptom 547 570	decreased consciousness
+T13	Temporal_Concept 510 519	Overnight
+T14	Finding 618 651	glucose concentration of 19 mg/dL
+T15	Finding 656 703	insulin concentration of 108 mIU/L (N=2.6–24.9)
+T16	Finding 711 761	C-peptide concentration of 0.3 ng/mL (N = 0.8–3.1)
+T17	Temporal_Concept 592 610	during the episode

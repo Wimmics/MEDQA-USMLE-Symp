@@ -1,0 +1,34 @@
+T1	Sign_or_Symptom 241 252	sore throat
+T2	Relevant_symptoms 99 106	fatigue
+T3	Relevant_symptoms 108 127	shortness of breath
+T4	Sign_or_Symptom 216 226	rhinorrhea
+T5	Sign_or_Symptom 228 233	cough
+T8	No_Symptom_Occurence 325 340	serious illness
+T10	Sign_or_Symptom 594 602	crackles
+T15	Relevant_symptoms 385 389	pale
+T18	No_Finding_Occurence 811 824	abnormalities
+T9	Age_Group 2 13	13-year-old
+T12	Population_Group 14 17	boy
+T13	Temporal_Concept 70 83	3-day history
+T7	Relevant_symptoms 133 161	difficulty walking up stairs
+R1	Related Ent1:T2 Ent2:T13	
+R2	Related Ent1:T3 Ent2:T13	
+R3	Related Ent1:T7 Ent2:T13	
+T11	Temporal_Concept 186 196	1 week ago
+R4	Related Ent1:T4 Ent2:T11	
+R5	Related Ent1:T5 Ent2:T11	
+R6	Related Ent1:T1 Ent2:T11	
+T20	Relevant_symptoms 406 426	respiratory distress
+T21	Finding 428 444	Pulse is 120/min
+T22	Finding 446 469	respirations are 25/min
+T23	Finding 475 504	blood pressure is 80/40 mm Hg
+T24	Finding 542 566	oxygen saturation of 91%
+T25	Location 628 632	lung
+R7	Related Ent1:T10 Ent2:T25	
+T26	Relevant_symptoms 667 673	gallop
+T27	Finding 684 694	S1 is soft
+T6	Sign_or_Symptom 698 741	grade 2/6, high-pitched holosystolic murmur
+T17	Location 763 767	apex
+R8	Related Ent1:T6 Ent2:T17	
+#1	AnnotatorNotes T3	Dyspnea
+#2	AnnotatorNotes T2	Fatigue

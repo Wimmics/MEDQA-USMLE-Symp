@@ -1,0 +1,22 @@
+T1	Age_Group 2 12	4-year-old
+T2	Population_Group 13 16	boy
+T3	Sign_or_Symptom 58 74	progressive rash
+T4	Temporal_Concept 75 85	for 2 days
+T5	Location 104 119	behind the ears
+T6	Location 141 146	trunk
+T7	Location 151 162	extremities
+T8	Sign_or_Symptom 197 213	mild sore throat
+T9	Sign_or_Symptom 215 230	red, itchy eyes
+T10	Sign_or_Symptom 236 244	headache
+T11	Temporal_Concept 164 184	Over the past 4 days
+T12	Sign_or_Symptom 320 331	tonsillitis
+T13	Temporal_Concept 298 319	recurrent episodes of
+T14	Sign_or_Symptom 347 361	asthma attacks
+T15	Temporal_Concept 336 346	occasional
+T16	No_Finding_Occurence 507 526	immunization status
+T17	Sign_or_Symptom 559 563	weak
+T18	Sign_or_Symptom 568 577	lethargic
+T19	Finding 583 612	temperature is 38°C (100.4°F)
+T20	Finding 614 630	pulse is 100/min
+T21	Finding 636 666	blood pressure is 100/60 mm Hg
+T22	Sign_or_Symptom 686 732	postauricular and suboccipital lymphadenopathy

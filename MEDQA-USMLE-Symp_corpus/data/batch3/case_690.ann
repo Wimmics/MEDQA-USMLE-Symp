@@ -1,0 +1,26 @@
+T1	Age_Group 2 13	16-year-old
+T2	Population_Group 14 18	girl
+T3	Sign_or_Symptom 73 109	has not had her menstrual period yet
+T4	Sign_or_Symptom 143 164	partial labial fusion
+T5	Sign_or_Symptom 169 182	clitoromegaly
+T6	Temporal_Concept 111 119	At birth
+T7	Population_Group 188 194	mother
+T8	Sign_or_Symptom 245 265	abnormal hair growth
+T9	Location 273 277	chin
+T10	Sign_or_Symptom 292 303	severe acne
+T11	Population_Group 283 287	girl
+T12	Sign_or_Symptom 350 362	minor trauma
+T13	Temporal_Concept 305 320	Three years ago
+T14	Sign_or_Symptom 326 341	broke her wrist
+T15	Temporal_Concept 342 347	after
+T16	Temporal_Concept 364 373	Last year
+T17	Sign_or_Symptom 391 418	spinal compression fracture
+T18	Finding 541 567	97th percentile for height
+T19	Finding 572 598	50th percentile for weight
+T20	Sign_or_Symptom 627 653	numerous inflamed pustules
+T21	Location 661 665	face
+T22	Location 670 680	upper back
+T23	Finding 682 721	Breast development is at Tanner stage I
+T24	Sign_or_Symptom 812 826	multiple cysts
+T25	Location 799 806	ovaries
+T26	No_Symptom_Occurence 833 846	normal uterus

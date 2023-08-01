@@ -1,0 +1,9 @@
+T1	Age_Group 2 13	19-year-old
+T2	Population_Group 14 19	woman
+T3	Finding 21 30	gravida 1
+T4	Finding 32 38	para 0
+T5	Finding 43 62	21 weeks’ gestation
+T6	Temporal_Concept 125 133	previous
+T7	Finding 151 197	serum α-fetoprotein concentration was elevated
+T8	No_Symptom_Occurence 305 355	uterus consistent in size with a 21-week gestation
+T9	No_Symptom_Occurence 379 434	fetal viscera suspended freely into the amniotic cavity

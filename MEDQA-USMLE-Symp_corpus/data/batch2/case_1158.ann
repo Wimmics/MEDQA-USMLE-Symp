@@ -1,0 +1,9 @@
+T1	Age_Group 2 13	23-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 49 56	6-month
+T4	Sign_or_Symptom 68 77	dry cough
+T5	Sign_or_Symptom 79 89	hoarseness
+T6	Sign_or_Symptom 95 105	chest pain
+T7	No_Finding_Occurence 178 191	abnormalities
+T8	Sign_or_Symptom 223 227	mass
+T9	Location 242 264	across the right hilum

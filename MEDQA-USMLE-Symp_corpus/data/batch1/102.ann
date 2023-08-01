@@ -1,0 +1,17 @@
+T1	Relevant_symptoms 78 89	sore throat
+T2	Relevant_symptoms 178 185	fatigue
+T3	Relevant_symptoms 94 99	fever
+T4	Sign_or_Symptom 272 275	ill
+T6	Relevant_symptoms 368 387	pharyngeal erythema
+T10	Temporal_Concept 166 177	progressive
+T13	Age_Group 2 13	14-year-old
+T14	Population_Group 14 17	boy
+T7	Temporal_Concept 59 72	2-day history
+R1	Related Ent1:T1 Ent2:T7	
+R2	Related Ent1:T3 Ent2:T7	
+T8	Temporal_Concept 148 162	1-week history
+R3	Related Ent1:T2 Ent2:T10	
+R4	Related Ent1:T2 Ent2:T8	
+T11	Finding 281 310	temperature is 39°C (102.2°F)
+T12	Relevant_symptoms 395 409	creamy exudate
+T9	Relevant_symptoms 339 363	cervical lymphadenopathy

@@ -1,0 +1,25 @@
+T1	Relevant_symptoms 114 128	abdominal pain
+T2	Relevant_symptoms 84 89	fever
+T3	Location 249 283	left lower quadrant of the abdomen
+T5	Finding 346 364	Hemoglobin 13 g/dL
+T8	Temporal_Concept 65 80	12-hour history
+T10	Relevant_symptoms 218 229	tender mass
+T11	Finding 410 436	Platelet count 200,000/mm3
+T12	No_Finding_Occurence 518 531	abnormalities
+T13	Age_Group 2 13	76-year-old
+T14	Population_Group 14 17	man
+T6	Location 94 113	left lower quadrant
+R1	Related Ent1:T1 Ent2:T6	
+R2	Related Ent1:T2 Ent2:T8	
+R3	Related Ent1:T1 Ent2:T8	
+T15	Relevant_symptoms 137 155	not passed a stool
+T16	Temporal_Concept 160 177	the past 36 hours
+R4	Related Ent1:T15 Ent2:T16	
+T17	Finding 183 214	temperature is 38.3°C (100.9°F)
+R5	Related Ent1:T10 Ent2:T3	
+T18	No_Finding_Occurence 307 319	occult blood
+T7	Finding 285 290	Stool
+T19	Finding 365 409	Leukocyte count 17,000/mm3 (84% neutrophils)
+T20	Finding 437 458	Serum amylase 115 U/L
+T21	Finding 459 484	Urinalysis 0 to 1 WBC/hpf
+T22	Finding 488 508	x-ray of the abdomen

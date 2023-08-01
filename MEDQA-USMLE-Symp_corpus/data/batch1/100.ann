@@ -1,0 +1,25 @@
+T1	Relevant_symptoms 75 79	rash
+T2	No_Symptom_Occurence 346 350	pain
+T3	Relevant_symptoms 250 258	weakness
+T4	No_Finding_Occurence 352 363	Vital signs
+T10	Relevant_symptoms 268 285	difficulty rising
+T11	Temporal_Concept 238 249	progressive
+T12	Age_Group 2 13	62-year-old
+T13	Population_Group 14 19	woman
+T7	Temporal_Concept 56 69	3-day history
+R1	Related Ent1:T1 Ent2:T7	
+T14	Location 89 93	face
+R2	Related Ent1:T1 Ent2:T14	
+T15	Location 98 103	hands
+R3	Related Ent1:T1 Ent2:T15	
+R4	Related Ent1:T3 Ent2:T11	
+T6	Temporal_Concept 218 234	1- month history
+R5	Related Ent1:T3 Ent2:T6	
+T8	Finding 426 448	Muscle strength is 3/5
+T5	Relevant_symptoms 302 324	reaching over her head
+#1	AnnotatorNotes T3	Proximal muscle weakness
+#2	AnnotatorNotes T10	fatigue
+#3	AnnotatorNotes T5	fatigue
+#4	AnnotatorNotes T1	Pruritus
+T9	Location 456 492	proximal upper and lower extremities
+R6	Related Ent1:T8 Ent2:T9	

@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	40-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 87 93	weaker
+T4	Sign_or_Symptom 109 125	lost some weight
+T5	No_Symptom_Occurence 142 156	urinary issues
+T6	Finding 162 209	BUN at her last visit 4 months ago was 45 mg/dL
+T7	Finding 219 243	creatinine was 2.0 mg/dL
+T8	Finding 296 314	Hemoglobin: 8 g/dL
+T9	Finding 315 330	Hematocrit: 29%
+T10	Finding 331 383	Leukocyte count: 9,500/mm^3 with normal differential
+T11	Finding 384 412	Platelet count: 197,000/mm^3
+T12	Finding 421 435	Na+: 139 mEq/L
+T13	Finding 436 450	Cl-: 100 mEq/L
+T14	Finding 451 464	K+: 5.9 mEq/L
+T15	Finding 465 480	HCO3-: 17 mEq/L
+T16	Finding 481 494	BUN: 59 mg/dL
+T17	Finding 495 512	Glucose: 99 mg/dL
+T18	Finding 513 534	Creatinine: 2.3 mg/dL
+T19	Finding 535 550	Ca2+: 9.0 mg/dL

@@ -1,0 +1,24 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 30	male bodybuilder
+T3	Sign_or_Symptom 73 81	weakness
+T4	Location 89 98	right arm
+T5	Temporal_Concept 153 168	for a few weeks
+T6	Sign_or_Symptom 276 284	diabetes
+T7	Temporal_Concept 252 256	past
+T8	Sign_or_Symptom 441 455	lost 17 pounds
+T9	Temporal_Concept 503 514	1 month ago
+T10	Finding 520 550	temperature is 99.5°F (37.5°C)
+T11	Temporal_Concept 456 461	since
+T12	Finding 552 582	blood pressure is 177/108 mmHg
+T13	Finding 584 599	pulse is 90/min
+T14	Finding 601 624	respirations are 17/min
+T15	Finding 630 654	oxygen saturation is 98%
+T16	Sign_or_Symptom 690 709	decreased sensation
+T17	Location 717 726	right arm
+T18	Finding 731 743	2/5 strength
+T19	Location 751 760	right arm
+T20	Finding 765 777	5/5 strength
+T21	Location 788 796	left arm
+T22	Sign_or_Symptom 843 871	dull aching and burning pain
+T23	Location 879 888	right arm
+T24	Temporal_Concept 889 904	during the exam

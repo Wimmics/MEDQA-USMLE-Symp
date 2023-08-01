@@ -1,0 +1,12 @@
+T1	Relevant_symptoms 89 100	weight loss
+T2	Relevant_symptoms 79 87	diarrhea
+T3	Sign_or_Symptom 147 166	atrial fibrillation
+T4	Sign_or_Symptom 171 182	tachycardia
+T6	Sign_or_Symptom 106 114	weakness
+T7	Location 122 138	proximal muscles
+T5	Age_Group 2 13	66-year-old
+T8	Population_Group 14 17	man
+T9	Sign_or_Symptom 42 56	short-tempered
+R1	Related Ent1:T6 Ent2:T7	
+#1	AnnotatorNotes T2	Diarrhea
+#2	AnnotatorNotes T1	Weight loss

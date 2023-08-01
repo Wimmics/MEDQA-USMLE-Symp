@@ -1,0 +1,24 @@
+T1	Age_Group 21 32	17-year-old
+T2	Population_Group 33 36	boy
+T3	Sign_or_Symptom 206 214	bleeding
+T4	Location 224 248	teeth's surrounding gums
+T5	Location 143 155	wisdom teeth
+T6	Sign_or_Symptom 334 347	easy bruising
+T7	Population_Group 369 376	brother
+T8	Sign_or_Symptom 381 397	similar problems
+T9	Sign_or_Symptom 468 481	easy bruising
+T10	Sign_or_Symptom 486 500	joint swelling
+T11	Finding 540 568	temperature is 37°C (98.6°F)
+T12	Finding 570 585	pulse is 90/min
+T13	Finding 591 621	blood pressure is 108/74 mm Hg
+T14	Finding 648 662	Hematocrit 35%
+T15	Finding 663 688	Leukocyte count 8,500/mm3
+T16	Finding 689 715	Platelet count 160,000/mm3
+T17	Finding 716 739	Prothrombin time 15 sec
+T18	Finding 740 774	Partial thromboplastin time 60 sec
+T19	Finding 775 794	Bleeding time 6 min
+T20	Finding 795 825	Fibrin split products negative
+T21	Finding 832 854	Urea nitrogen 20 mg/dL
+T22	Finding 855 875	Creatinine 1.0 mg/dL
+T23	Finding 919 947	Lactate dehydrogenase 90 U/L
+T24	No_Finding_Occurence 977 999	normal-sized platelets

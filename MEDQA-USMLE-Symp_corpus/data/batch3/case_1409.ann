@@ -1,0 +1,14 @@
+T1	Age_Group 2 13	70-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 76 88	hand tremors
+T4	Location 140 149	left hand
+T5	Temporal_Concept 150 160	1 year ago
+T6	Sign_or_Symptom 126 132	tremor
+T7	Sign_or_Symptom 215 251	can hardly relax when trying to read
+T8	Sign_or_Symptom 490 502	hypertension
+T9	Sign_or_Symptom 552 565	schizophrenia
+T10	Population_Group 541 547	mother
+T11	Sign_or_Symptom 662 675	speaks softly
+T12	Sign_or_Symptom 684 710	reduced facial expressions
+T13	Sign_or_Symptom 721 761	resting tremor that is worse on the left
+T14	Sign_or_Symptom 770 825	resists manipulation of his bilateral upper extremities

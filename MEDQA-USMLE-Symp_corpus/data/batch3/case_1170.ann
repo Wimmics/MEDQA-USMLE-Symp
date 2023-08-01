@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	33-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 60 81	altered mental status
+T4	Sign_or_Symptom 224 236	appendectomy
+T5	Temporal_Concept 237 255	several months ago
+T6	Sign_or_Symptom 295 308	schizophrenia
+T7	Sign_or_Symptom 380 388	epilepsy
+T8	Temporal_Concept 271 275	past
+T9	Sign_or_Symptom 434 441	anxiety
+T10	Sign_or_Symptom 446 461	hyperthyroidism
+T11	Finding 467 496	temperature is 106°F (41.1°C)
+T12	Finding 498 527	blood pressure is 109/62 mmHg
+T13	Finding 529 545	pulse is 170/min
+T14	Finding 547 570	respirations are 23/min
+T15	Finding 576 600	oxygen saturation is 95%
+T16	Finding 665 689	Glasgow Coma Scale of 10
+T17	Sign_or_Symptom 698 717	minimal muscle tone
+T18	Sign_or_Symptom 725 760	incoherent when answering questions
+T19	Sign_or_Symptom 777 802	covered in sweat and dirt

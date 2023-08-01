@@ -1,0 +1,22 @@
+T1	Age_Group 2 13	27-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 65 84	shortness of breath
+T4	Sign_or_Symptom 106 111	cough
+T5	Temporal_Concept 112 124	for 2 months
+T6	Sign_or_Symptom 139 177	unable to perform her daily activities
+T7	Sign_or_Symptom 191 198	malaise
+T8	Sign_or_Symptom 203 223	bilateral ankle pain
+T9	Temporal_Concept 224 242	during this period
+T10	Finding 488 517	temperature is 37.8°C (100°F)
+T11	Finding 519 535	pulse is 100/min
+T12	Finding 537 560	respirations are 24/min
+T13	Finding 566 596	blood pressure is 112/72 mm Hg
+T14	Finding 634 658	oxygen saturation of 94%
+T15	No_Symptom_Occurence 681 717	cervical or axillary lymphadenopathy
+T16	Location 723 728	lungs
+T17	No_Finding_Occurence 742 754	auscultation
+T18	Sign_or_Symptom 784 801	ciliary injection
+T19	Sign_or_Symptom 806 817	photophobia
+T20	Location 760 768	left eye
+T21	No_Finding_Occurence 861 874	abnormalities
+T22	No_Finding_Occurence 878 898	complete blood count

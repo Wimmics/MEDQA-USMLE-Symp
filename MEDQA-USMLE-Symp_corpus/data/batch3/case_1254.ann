@@ -1,0 +1,17 @@
+T1	Age_Group 2 13	60-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 69 90	severe vulvar itching
+T4	Temporal_Concept 125 142	for the past year
+T5	Sign_or_Symptom 317 341	type 2 diabetes mellitus
+T6	Sign_or_Symptom 346 358	hypertension
+T7	Sign_or_Symptom 393 402	Menopause
+T8	Temporal_Concept 415 430	52 years of age
+T9	Sign_or_Symptom 505 543	severe pain during vaginal intercourse
+T10	Sign_or_Symptom 578 614	dry, thin, white plaque-like lesions
+T11	Location 622 633	vulvar area
+T12	Sign_or_Symptom 639 646	atrophy
+T13	Location 654 666	labia minora
+T14	Sign_or_Symptom 672 698	clitoris appears retracted
+T15	Sign_or_Symptom 726 730	pale
+T16	Sign_or_Symptom 735 743	wrinkled
+T17	Location 704 717	perianal skin

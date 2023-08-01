@@ -1,0 +1,34 @@
+T1	Age_Group 2 13	44-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 79 85	1-week
+T4	Sign_or_Symptom 97 115	right leg weakness
+T5	Sign_or_Symptom 117 130	unsteady gait
+T6	Sign_or_Symptom 136 150	multiple falls
+T7	Sign_or_Symptom 197 206	forgetful
+T8	Temporal_Concept 152 176	During the past 6 months
+T9	Sign_or_Symptom 280 328	difficulties operating simple kitchen appliances
+T10	Sign_or_Symptom 225 259	lost his way along familiar routes
+T11	Sign_or_Symptom 410 418	paranoid
+T12	Sign_or_Symptom 420 428	agitated
+T13	Sign_or_Symptom 434 442	restless
+T14	Sign_or_Symptom 451 454	HIV
+T15	Sign_or_Symptom 456 468	hypertension
+T16	Sign_or_Symptom 474 498	type 2 diabetes mellitus
+T17	Finding 612 644	temperature is 37.2 °C (99.0 °F)
+T18	Finding 646 676	blood pressure is 152/68 mm Hg
+T19	Finding 678 693	pulse is 98/min
+T20	Finding 699 722	respirations are 14/min
+T21	Sign_or_Symptom 730 739	somnolent
+T22	Sign_or_Symptom 753 761	confused
+T23	Sign_or_Symptom 769 810	oriented to person, but not place or time
+T24	Sign_or_Symptom 821 887	mild lymphadenopathy in the cervical, axillary, and inguinal areas
+T25	No_Finding_Occurence 975 995	other focal deficits
+T26	Sign_or_Symptom 920 967	right lower extremity weakness with normal tone
+T27	Finding 1022 1041	Hemoglobin 9.2 g/dL
+T28	Finding 1042 1066	Leukocyte count 3600/mm3
+T29	Finding 1067 1093	Platelet count 140,000/mm3
+T30	Finding 1094 1110	CD4+ count 56/μL
+T31	Finding 1111 1145	HIV viral load > 100,000 copies/mL
+T32	No_Finding_Occurence 1152 1172	Cryptococcal antigen
+T33	Finding 1182 1203	Toxoplasma gondii IgG
+T34	Sign_or_Symptom 1239 1307	disseminated, nonenhancing white matter lesions with no mass effect.

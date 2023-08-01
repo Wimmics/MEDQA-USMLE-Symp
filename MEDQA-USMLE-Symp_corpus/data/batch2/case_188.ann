@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	44-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 69 79	chest pain
+T4	Temporal_Concept 62 68	sudden
+T5	Sign_or_Symptom 84 104	difficulty breathing
+T6	Temporal_Concept 105 125	for the past 3 hours
+T7	Location 151 168	retrosternal area
+T8	Location 192 213	left shoulder and arm
+T9	Finding 290 310	heart rate is 61/min
+T10	Finding 312 338	respiratory rate is 16/min
+T11	Finding 340 370	temperature is 36.5°C (97.7°F)
+T12	Finding 376 406	blood pressure is 115/78 mm Hg
+T13	No_Finding_Occurence 438 451	abnormalities
+T14	Sign_or_Symptom 453 477	Pericardial friction rub
+T15	Finding 528 609	elevated erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) levels
+T16	Sign_or_Symptom 218 240	worsens on inspiration

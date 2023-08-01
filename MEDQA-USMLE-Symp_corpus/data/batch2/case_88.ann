@@ -1,0 +1,24 @@
+T1	Age_Group 2 13	26-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 191 200	lethargic
+T4	Sign_or_Symptom 205 215	incoherent
+T5	Sign_or_Symptom 225 250	severe facial lacerations
+T6	Sign_or_Symptom 261 281	respiratory distress
+T7	Finding 287 303	pulse is 130/min
+T8	Finding 305 328	respirations are 29/min
+T9	Finding 334 363	blood pressure is 90/58 mm Hg
+T10	Finding 401 425	oxygen saturation of 70%
+T11	Sign_or_Symptom 445 472	multiple facial lacerations
+T12	Sign_or_Symptom 483 505	dullness to percussion
+T13	Sign_or_Symptom 510 533	decreased breath sounds
+T14	Location 534 557	over the left lung base
+T15	Sign_or_Symptom 587 633	diffuse tenderness with no guarding or rebound
+T16	No_Symptom_Occurence 652 658	normal
+T17	No_Finding_Occurence 702 715	abnormalities
+T18	Finding 721 758	hemoglobin concentration is 12.1 g/dL
+T19	Sign_or_Symptom 790 815	fractured left second rib
+T20	Sign_or_Symptom 817 827	depression
+T21	Location 835 857	left mainstem bronchus
+T22	Sign_or_Symptom 859 868	deviation
+T23	Location 876 905	nasogastric tube to the right
+T24	Sign_or_Symptom 913 932	widened mediastinum

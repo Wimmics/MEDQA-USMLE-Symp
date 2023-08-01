@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	26-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 56 82	persistent epigastric pain
+T4	Temporal_Concept 83 104	for the past 2 months
+T5	Population_Group 170 176	father
+T6	Sign_or_Symptom 181 197	similar symptoms
+T7	Sign_or_Symptom 125 164	pain is worse a few hours after he eats
+T8	Temporal_Concept 199 203	Past
+T9	No_Symptom_Occurence 223 236	insignificant
+T10	Finding 309 336	blood pressure 120/90 mm Hg
+T11	Finding 338 355	heart rate 83/min
+T12	Finding 361 388	temperature 37.0°C (98.6°F)
+T13	No_Symptom_Occurence 414 427	insignificant
+T14	Sign_or_Symptom 439 465	mild epigastric tenderness
+T15	Finding 508 530	Serum sodium 136 mEq/L
+T16	Finding 531 556	Serum potassium 4.2 mEq/L
+T17	Finding 557 575	Calcium 13.2 mg/dL
+T18	Finding 576 596	Bicarbonate 26 mEq/L
+T19	Sign_or_Symptom 638 662	multiple duodenal ulcers

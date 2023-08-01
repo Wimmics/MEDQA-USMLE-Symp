@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	25-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 61 66	fever
+T4	Sign_or_Symptom 71 85	abdominal pain
+T5	Temporal_Concept 148 157	past week
+T6	Sign_or_Symptom 115 138	pain has been worsening
+T7	Sign_or_Symptom 218 231	IV drug abuse
+T8	Finding 278 307	temperature is 102°F (38.9°C)
+T9	Finding 309 337	blood pressure is 94/54 mmHg
+T10	Finding 339 355	pulse is 133/min
+T11	Finding 357 380	respirations are 22/min
+T12	Finding 386 411	oxygen saturation is 100%
+T13	Sign_or_Symptom 456 462	murmur
+T14	Location 472 497	left upper sternal border
+T15	Sign_or_Symptom 522 552	left upper quadrant tenderness
+T16	Finding 600 619	Hemoglobin: 15 g/dL
+T17	Finding 620 635	Hematocrit: 44%
+T18	Finding 636 664	Leukocyte count: 16,700/mm^3
+T19	Finding 665 693	Platelet count: 299,000/mm^3

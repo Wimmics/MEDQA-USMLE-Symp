@@ -1,0 +1,21 @@
+T1	No_Symptom_Occurence 165 191	history of severe headache
+T2	Relevant_symptoms 108 118	stiff neck
+T5	No_Symptom_Occurence 139 153	other symptoms
+T7	Relevant_symptoms 200 212	hypertension
+T8	Sign_or_Symptom 217 248	gastroesophageal reflux disease
+T12	No_Symptom_Occurence 320 355	oriented to person, place, and time
+T14	Age_Group 2 13	47-year-old
+T15	Population_Group 14 17	man
+T16	Temporal_Concept 41 55	12 hours after
+R3	Related Ent1:T2 Ent2:T16	
+T10	Finding 361 391	temperature is 36.7°C (98.1°F)
+T17	Finding 393 409	pulse is 100/min
+T18	Finding 415 445	blood pressure is 160/90 mm Hg
+T19	Sign_or_Symptom 447 499	Range of motion of the neck is decreased due to pain
+T4	Relevant_symptoms 78 103	severe occipital headache
+R1	Related Ent1:T4 Ent2:T16	
+#1	AnnotatorNotes T4	Headache
+#2	AnnotatorNotes T7	Hypertension
+T3	Temporal_Concept 60 75	sudden onset of
+R2	Related Ent1:T4 Ent2:T3	
+R4	Related Ent1:T2 Ent2:T3	

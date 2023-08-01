@@ -1,0 +1,25 @@
+T1	Sign_or_Symptom 63 83	abdominal discomfort
+T2	Sign_or_Symptom 383 400	dry skin and hair
+T3	Relevant_symptoms 54 61	anxiety
+T5	Sign_or_Symptom 282 305	exercise-induced asthma
+T6	Sign_or_Symptom 216 230	hypothyroidism
+T7	Relevant_symptoms 433 440	anxious
+T8	Sign_or_Symptom 624 641	sinus tachycardia
+T9	Relevant_symptoms 85 97	irritability
+T10	Relevant_symptoms 103 127	difficulty concentrating
+T11	Temporal_Concept 26 40	2-week history
+T13	Finding 614 617	ECG
+T16	Age_Group 2 13	45-year-old
+T17	Population_Group 14 19	woman
+T14	Finding 137 157	robbed at knifepoint
+T15	Temporal_Concept 175 186	3 weeks ago
+R1	Related Ent1:T14 Ent2:T15	
+T18	Finding 311 341	blood pressure is 140/80 mm Hg
+T19	Finding 347 363	pulse is 100/min
+T20	Relevant_symptoms 442 465	glancing around quickly
+T21	Finding 513 542	Leukocyte count is 12,000/mm3
+T22	Finding 549 609	serum thyroid-stimulating hormone concentration is 5.0 μU/mL
+R2	Related Ent1:T3 Ent2:T11	
+R3	Related Ent1:T1 Ent2:T11	
+R4	Related Ent1:T9 Ent2:T11	
+R5	Related Ent1:T10 Ent2:T11	

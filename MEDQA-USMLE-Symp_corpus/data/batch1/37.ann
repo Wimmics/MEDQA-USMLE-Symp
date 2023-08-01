@@ -1,0 +1,30 @@
+T1	No_Symptom_Occurence 523 542	psychiatric illness
+T3	No_Symptom_Occurence 1291 1305	hallucinations
+T4	Sign_or_Symptom 964 977	labile affect
+T5	No_Symptom_Occurence 1278 1287	delusions
+T7	Relevant_symptoms 60 108	difficulty focusing on tasks at work and at home
+T9	Relevant_symptoms 465 501	needs only 4 hours of sleep nightly.
+T10	Relevant_symptoms 300 313	stops working
+T18	Sign_or_Symptom 939 954	mood as "good."
+T21	No_Finding_Occurence 877 890	abnormalities
+T24	Temporal_Concept 120 133	past 2 months
+T27	Age_Group 2 13	32-year-old
+T28	Population_Group 14 17	man
+T29	Population_Group 150 169	automobile mechanic
+R1	Related Ent1:T7 Ent2:T24	
+T11	Relevant_symptoms 220 230	distracted
+T13	Relevant_symptoms 406 440	delighted with his newfound energy
+T8	Sign_or_Symptom 983 1006	speech is rapid in rate
+T26	No_Symptom_Occurence 1011 1027	normal in rhythm
+T15	No_Symptom_Occurence 1037 1065	thought process is organized
+T25	No_Symptom_Occurence 1107 1143	Attention and concentration are fair
+T30	No_Symptom_Occurence 1157 1193	errors when performing serial sevens
+T31	No_Symptom_Occurence 1206 1262	repeat seven digits forward and five in reverse sequence
+T16	No_Symptom_Occurence 1067 1105	Short- and long-term memory are intact
+T33	Temporal_Concept 289 299	frequently
+R7	Related Ent1:T10 Ent2:T33	
+T2	Temporal_Concept 211 216	often
+R8	Related Ent1:T11 Ent2:T2	
+T34	Finding 764 792	temperature is 37°C (98.6°F)
+T35	Finding 794 809	pulse is 60/min
+T36	Finding 815 845	blood pressure is 125/80 mm Hg

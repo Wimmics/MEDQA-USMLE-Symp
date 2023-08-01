@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	65-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 60 69	back pain
+T4	Sign_or_Symptom 243 251	numbness
+T5	Sign_or_Symptom 256 264	weakness
+T6	Location 272 276	legs
+T7	Sign_or_Symptom 449 461	osteoporosis
+T8	Sign_or_Symptom 463 475	dyslipidemia
+T9	Sign_or_Symptom 481 489	diabetes
+T10	Finding 574 604	temperature is 99.5°F (37.5°C)
+T11	Finding 606 636	blood pressure is 157/108 mmHg
+T12	Finding 638 653	pulse is 90/min
+T13	Finding 655 678	respirations are 17/min
+T14	Finding 684 708	oxygen saturation is 98%
+T15	Sign_or_Symptom 102 131	gradually worsening back pain
+T16	No_Symptom_Occurence 753 810	non-tender spine with normal mobility in all 4 directions

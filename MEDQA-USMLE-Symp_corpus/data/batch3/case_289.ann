@@ -1,0 +1,20 @@
+T1	Age_Group 2 13	32-year-old
+T2	Population_Group 14 19	woman
+T3	Finding 21 30	gravida 2
+T4	Finding 32 38	para 1
+T5	Finding 43 62	38 weeks' gestation
+T6	Sign_or_Symptom 108 124	vaginal bleeding
+T7	Temporal_Concept 125 142	for the past hour
+T8	Sign_or_Symptom 178 190	contractions
+T9	Temporal_Concept 191 209	prior to the onset
+T10	Sign_or_Symptom 235 282	contractions stopped after the bleeding started
+T11	Sign_or_Symptom 297 318	severe abdominal pain
+T12	Sign_or_Symptom 408 438	nonreassuring fetal heart rate
+T13	Population_Group 324 335	first child
+T14	Finding 340 394	delivered by lower segment transverse cesarean section
+T15	Finding 444 460	pulse is 110/min
+T16	Finding 462 485	respirations are 17/min
+T17	Finding 491 520	blood pressure is 90/60 mm Hg
+T18	Sign_or_Symptom 540 596	diffuse abdominal tenderness with no rebound or guarding
+T19	No_Symptom_Occurence 601 613	contractions
+T20	Sign_or_Symptom 628 683	fetal heart rate shows recurrent variable decelerations

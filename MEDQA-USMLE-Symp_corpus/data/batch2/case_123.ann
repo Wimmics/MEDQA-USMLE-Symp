@@ -1,0 +1,25 @@
+T1	Age_Group 141 152	80-year-old
+T2	Population_Group 153 158	woman
+T3	Sign_or_Symptom 177 184	dyspnea
+T4	Sign_or_Symptom 52 83	displaced femoral neck fracture
+T5	Location 91 99	left hip
+T6	Temporal_Concept 126 136	day before
+T7	Sign_or_Symptom 389 401	hypertension
+T8	Sign_or_Symptom 403 415	osteoporosis
+T9	Sign_or_Symptom 421 435	osteoarthritis
+T10	Location 443 453	right knee
+T12	Sign_or_Symptom 543 551	cyanotic
+T13	Sign_or_Symptom 553 559	drowsy
+T14	Sign_or_Symptom 568 591	oriented only to person
+T15	Finding 597 628	temperature is 38.6°C (101.5°F)
+T16	Finding 630 649	pulse is 135/minute
+T17	Finding 651 674	respirations are 36/min
+T18	Finding 680 710	blood pressure is 155/95 mm Hg
+T19	Finding 748 772	oxygen saturation of 81%
+T11	Sign_or_Symptom 792 811	scattered petechiae
+T20	Location 819 838	anterior chest wall
+T21	Finding 866 903	hemoglobin concentration of 10.5 g/dL
+T22	Finding 907 935	leukocyte count of 9,000/mm3
+T23	Finding 939 968	platelet count of 145,000/mm3
+T24	Finding 976 1002	creatine kinase of 190 U/L
+T25	Sign_or_Symptom 1017 1034	sinus tachycardia

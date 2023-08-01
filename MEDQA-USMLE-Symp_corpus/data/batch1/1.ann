@@ -1,0 +1,42 @@
+T1	Relevant_symptoms 88 96	headache
+T2	Sign_or_Symptom 355 375	jaundice of the skin
+T3	Relevant_symptoms 78 83	fever
+T4	Relevant_symptoms 420 429	petechiae
+T6	Sign_or_Symptom 380 392	conjunctivae
+T8	Relevant_symptoms 299 307	confused
+T10	Finding 550 596	Test of the stool for occult blood is positive
+T11	Finding 793 823	Fibrin split products negative
+T12	No_Finding_Occurence 950 987	Blood and urine cultures are negative
+T14	Finding 708 733	Platelet count 20,000/mm3
+T17	Relevant_symptoms 312 335	oriented only to person
+T18	Finding 853 873	Creatinine 3.0 mg/dL
+T9	Location 439 444	trunk
+T19	Location 449 453	back
+T20	Age_Group 21 32	34-year-old
+T21	Population_Group 33 38	woman
+T22	Temporal_Concept 97 107	for 1 week
+T7	Finding 180 211	temperature is 39.3°C (102.8°F)
+T23	Finding 213 229	pulse is 104/min
+T24	Finding 231 254	respirations are 24/min
+T25	Finding 260 290	blood pressure is 135/88 mm Hg
+T15	Finding 623 707	Hematocrit 32% with fragmented and nucleated erythrocytes Leukocyte count 12,500/mm3
+T26	Finding 734 757	Prothrombin time 10 sec
+T27	Finding 758 792	Partial thromboplastin time 30 sec
+T28	Finding 824 852	Serum Urea nitrogen 35 mg/dL
+T29	Finding 874 900	Bilirubin  Total 3.0 mg/dL
+T30	Finding 902 918	Direct 0.5 mg/dL
+T31	Finding 919 949	Lactate dehydrogenase 1000 U/L
+R1	Related Ent1:T4 Ent2:T9	
+R2	Related Ent1:T4 Ent2:T19	
+R3	Related Ent1:T3 Ent2:T22	
+R4	Related Ent1:T1 Ent2:T22	
+T5	No_Symptom_Occurence 467 482	lymphadenopathy
+T13	No_Finding_Occurence 535 548	abnormalities
+T32	No_Symptom_Occurence 141 148	disease
+#1	AnnotatorNotes T3	fever
+#2	AnnotatorNotes T1	headache
+#3	AnnotatorNotes T8	confusion
+#4	AnnotatorNotes T17	delirium
+#5	AnnotatorNotes T4	petechiae
+#6	AnnotatorNotes T5	Lymphadenopathy
+T16	No_Finding_Occurence 1020 1033	abnormalities

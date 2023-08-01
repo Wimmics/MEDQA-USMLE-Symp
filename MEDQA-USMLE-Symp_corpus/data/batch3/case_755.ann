@@ -1,0 +1,17 @@
+T1	Age_Group 2 13	42-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 54 63	stiffness
+T4	Sign_or_Symptom 68 72	pain
+T5	Location 76 91	multiple joints
+T6	Sign_or_Symptom 111 192	fingers on both of her hands have become increasingly stiff and difficult to move
+T7	Temporal_Concept 193 215	over the past 8 months
+T8	Sign_or_Symptom 239 278	nails that break easily and look spotty
+T9	Sign_or_Symptom 290 307	chronic back pain
+T10	Sign_or_Symptom 319 342	urinary tract infection
+T11	Temporal_Concept 345 353	year ago
+T12	No_Finding_Occurence 470 476	vitals
+T13	Sign_or_Symptom 554 617	multiple, well-demarcated red plaques with silvery-white scales
+T14	Location 627 632	shins
+T15	Location 637 641	back
+T16	No_Finding_Occurence 673 690	rheumatoid factor
+T17	No_Finding_Occurence 695 698	ANA

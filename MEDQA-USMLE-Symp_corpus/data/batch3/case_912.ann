@@ -1,0 +1,18 @@
+T1	Finding 387 416	temperature is 101°F (38.3°C)
+T2	Finding 418 447	blood pressure is 137/98 mmHg
+T3	Finding 449 465	pulse is 120/min
+T4	Finding 467 490	respirations are 23/min
+T5	Finding 496 520	oxygen saturation is 99%
+T6	Sign_or_Symptom 566 575	irritable
+T7	Age_Group 2 13	24-year-old
+T8	Population_Group 14 17	man
+T9	Sign_or_Symptom 78 109	aggressive and unusual behavior
+T10	Sign_or_Symptom 216 225	reclusive
+T11	Sign_or_Symptom 268 277	irritable
+T12	Sign_or_Symptom 286 330	yelling at his computer prior to breaking it
+T13	Sign_or_Symptom 623 634	tachycardia
+T14	Sign_or_Symptom 639 668	bilateral clear breath sounds
+T15	Sign_or_Symptom 696 710	dilated pupils
+T16	Sign_or_Symptom 735 746	diaphoretic
+T17	Sign_or_Symptom 751 770	speaks very rapidly
+T18	Sign_or_Symptom 803 813	aggressive

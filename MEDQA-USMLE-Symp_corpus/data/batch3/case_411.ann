@@ -1,0 +1,9 @@
+T1	Age_Group 2 12	4-year-old
+T2	Population_Group 13 17	male
+T3	Sign_or_Symptom 35 53	frequent epistaxis
+T4	Sign_or_Symptom 58 82	mucous membrane bleeding
+T5	Sign_or_Symptom 111 128	diffuse petechiae
+T6	Location 146 164	distal extremities
+T7	Sign_or_Symptom 198 226	absence of platelet clumping
+T8	Finding 264 318	platelet surfaces are deficient in GIIb/IIIa receptors
+T9	No_Symptom_Occurence 320 340	Serum platelet count

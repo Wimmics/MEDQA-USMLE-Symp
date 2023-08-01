@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	22-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 52 61	headaches
+T4	Sign_or_Symptom 66 79	blurry vision
+T5	Temporal_Concept 80 101	for the past 6 months
+T6	Sign_or_Symptom 140 148	vomiting
+T7	Temporal_Concept 119 139	frequent episodes of
+T8	Temporal_Concept 149 168	over the last month
+T9	Population_Group 174 180	father
+T10	Sign_or_Symptom 193 213	renal cell carcinoma
+T11	Temporal_Concept 221 236	age of 37 years
+T12	Finding 256 280	20/40 vision bilaterally
+T13	Sign_or_Symptom 312 341	bilateral optic disc swelling
+T14	Sign_or_Symptom 346 373	growth of capillary vessels
+T15	Location 381 407	temporal peripheral retina
+T16	Sign_or_Symptom 438 457	infratentorial mass

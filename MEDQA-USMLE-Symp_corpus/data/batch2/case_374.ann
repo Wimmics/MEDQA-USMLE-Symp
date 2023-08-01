@@ -1,0 +1,35 @@
+T1	Age_Group 2 13	50-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 49 62	chronic cough
+T4	Sign_or_Symptom 64 77	aching joints
+T5	Location 85 89	hips
+T6	Location 94 104	lower back
+T7	Sign_or_Symptom 110 117	malaise
+T8	Temporal_Concept 118 140	over the past 2 months
+T9	Temporal_Concept 192 198	before
+T10	No_Symptom_Occurence 173 190	generally healthy
+T11	Sign_or_Symptom 246 258	hypertension
+T12	Population_Group 318 325	parents
+T13	No_Symptom_Occurence 335 339	well
+T14	Finding 582 613	temperature is 38.6°C (101.4°F)
+T15	Finding 615 636	heart rate is 102/min
+T16	Finding 638 661	respirations are 20/min
+T17	Finding 667 697	blood pressure is 120/82 mm Hg
+T18	Sign_or_Symptom 728 741	mild fremetus
+T19	Sign_or_Symptom 746 770	dullness with percussion
+T20	Location 778 788	right side
+T21	Finding 1292 1313	Hemoglobin 12.9 mg/dL
+T22	Finding 1314 1339	Leukocyte count 9,300/mm3
+T23	Finding 1340 1366	Platelet count 167,000/mm3
+T24	Finding 1367 1406	Erythrocyte sedimentation rate 43 mm/hr
+T25	Finding 1407 1450	Periodic acid-Schiff and silver methenamine
+T26	No_Finding_Occurence 1460 1475	Acid-fast stain
+T27	Sign_or_Symptom 1117 1184	necrotic granulomatous inflammation with multinucleated giant cells
+T28	Sign_or_Symptom 1189 1214	spherules with endospores
+T29	Location 1222 1241	surrounding tissues
+T30	Finding 887 930	irregular opacity measuring 3.8 cm x 3.0 cm
+T31	Location 938 980	sub-plural region of the right middle lobe
+T32	Sign_or_Symptom 984 1018	small right-sided pleural effusion
+T33	Sign_or_Symptom 1024 1057	mild right-sided hilar adenopathy
+T34	Sign_or_Symptom 812 837	right-sided consolidation
+T35	Location 845 861	lower right lung

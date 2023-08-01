@@ -1,0 +1,20 @@
+T1	Age_Group 2 13	10-year-old
+T2	Population_Group 14 17	boy
+T3	Sign_or_Symptom 57 62	fever
+T4	Sign_or_Symptom 67 82	bloody diarrhea
+T5	Temporal_Concept 83 104	for the past few days
+T6	Sign_or_Symptom 157 166	lethargic
+T7	Sign_or_Symptom 171 180	irritable
+T8	Finding 186 217	temperature is 38.6°C (101.4°F)
+T9	Finding 219 235	pulse is 102/min
+T10	Finding 241 264	respirations are 22/min
+T11	No_Finding_Occurence 293 308	medical history
+T12	Sign_or_Symptom 432 438	pallor
+T13	Sign_or_Symptom 443 448	edema
+T14	Location 452 461	both legs
+T15	Finding 504 524	Hemoglobin 8.9 gm/dL
+T16	Finding 525 550	Leukocyte count 9,300/mm3
+T17	Finding 551 576	Platelet count 67,000/mm3
+T18	Finding 577 605	Blood urea nitrogen 43 mg/dL
+T19	Finding 606 633	Serum creatinine 2.46 mg/dL
+T20	No_Finding_Occurence 634 645	Coombs test

@@ -1,0 +1,8 @@
+A 25-year-old man presents to the emergency department for a fever and abdominal pain. The patient states that his pain has been worsening over the past week in the setting of a fever. He has a past medical history of IV drug abuse and multiple admissions for septic shock. His temperature is 102°F (38.9°C), blood pressure is 94/54 mmHg, pulse is 133/min, respirations are 22/min, and oxygen saturation is 100% on room air. Physical exam is notable for a murmur over the left upper sternal border. Abdominal exam reveals left upper quadrant tenderness. Laboratory values are ordered as seen below.
+
+Hemoglobin: 15 g/dL
+Hematocrit: 44%
+Leukocyte count: 16,700/mm^3
+Platelet count: 299,000/mm^3
+
+Which of the following is the most likely diagnosis?

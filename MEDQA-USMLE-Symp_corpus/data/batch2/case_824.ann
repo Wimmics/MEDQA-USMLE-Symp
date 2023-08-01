@@ -1,0 +1,14 @@
+T1	Age_Group 2 13	34-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 61 77	vaginal swelling
+T4	Sign_or_Symptom 82 92	discomfort
+T5	Temporal_Concept 110 131	over the past 2 weeks
+T6	Sign_or_Symptom 148 156	swelling
+T7	Location 164 175	right labia
+T8	Sign_or_Symptom 235 258	discomfort when walking
+T9	No_Symptom_Occurence 271 289	abnormal discharge
+T10	No_Symptom_Occurence 293 337	bleeding from the swelling or from the vulva
+T11	No_Symptom_Occurence 451 457	trauma
+T12	No_Finding_Occurence 547 585	vaccine for human papillomavirus (HPV)
+T13	Sign_or_Symptom 616 635	fluctuant, swelling
+T14	Location 643 699	right labia, most prominently at the posterior vestibule

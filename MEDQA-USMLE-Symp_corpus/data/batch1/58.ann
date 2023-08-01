@@ -1,0 +1,18 @@
+T1	Relevant_symptoms 47 56	petechiae
+T2	Finding 120 140	Hemoglobin 13.1 g/dL
+T4	Finding 261 286	Platelet count 20,000/mm3
+T5	Age_Group 21 32	26-year-old
+T6	Population_Group 33 38	woman
+T7	Location 64 68	legs
+T8	Temporal_Concept 69 93	during the last 24 hours
+R1	Related Ent1:T1 Ent2:T7	
+R2	Related Ent1:T1 Ent2:T8	
+T9	No_Symptom_Occurence 13 20	healthy
+T10	Finding 141 157	Hematocrit 39.7%
+T11	Finding 158 182	Leukocyte count 8500/mm3
+T12	Finding 183 198	Neutrophils 65%
+T13	Finding 199 214	Lymphocytes 30%
+T14	Finding 215 227	Monocytes 5%
+T15	Finding 228 260	Mean corpuscular volume 82.2 μm3
+T17	No_Finding_Occurence 318 344	normal red cell morphology
+T16	Finding 372 405	mature megakaryocytic hyperplasia

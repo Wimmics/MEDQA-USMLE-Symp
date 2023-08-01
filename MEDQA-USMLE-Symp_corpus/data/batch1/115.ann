@@ -1,0 +1,46 @@
+T1	Relevant_symptoms 132 136	pain
+T2	Sign_or_Symptom 362 383	last menstrual period
+T3	No_Symptom_Occurence 192 209	vaginal discharge
+T4	Sign_or_Symptom 149 165	loss of appetite
+T7	Relevant_symptoms 138 143	fever
+T8	Location 718 738	right lower quadrant
+T9	Sign_or_Symptom 270 278	cystitis
+T10	Relevant_symptoms 874 891	motion tenderness
+T11	No_Finding_Occurence 752 762	distention
+T21	Age_Group 21 32	17-year-old
+T22	Population_Group 33 37	girl
+T12	Location 111 131	right lower quadrant
+R1	Related Ent1:T1 Ent2:T12	
+T15	Temporal_Concept 85 98	3-day history
+R2	Related Ent1:T1 Ent2:T15	
+R3	Related Ent1:T7 Ent2:T15	
+R4	Related Ent1:T4 Ent2:T15	
+T14	Temporal_Concept 211 226	Four months ago
+R5	Related Ent1:T9 Ent2:T14	
+T19	No_Finding_Occurence 303 314	medications
+T20	Temporal_Concept 340 356	28-day intervals
+T23	Sign_or_Symptom 316 322	Menses
+R6	Related Ent1:T23 Ent2:T20	
+T18	Temporal_Concept 388 399	10 days ago
+R7	Related Ent1:T2 Ent2:T18	
+T25	Finding 511 542	Temperature is 38.5°C (101.3°F)
+T26	Finding 544 560	pulse is 105/min
+T27	Finding 562 585	respirations are 14/min
+T28	Finding 591 621	blood pressure is 127/82 mm Hg
+T5	Sign_or_Symptom 764 790	Bowel sounds are decreased
+T13	Sign_or_Symptom 651 661	tenderness
+T16	Location 682 697	lower quadrants
+R8	Related Ent1:T13 Ent2:T16	
+T17	Sign_or_Symptom 703 710	rebound
+R9	Related Ent1:T17 Ent2:T8	
+T6	Sign_or_Symptom 817 839	blood-tinged discharge
+T29	Location 849 857	cervical
+R10	Related Ent1:T6 Ent2:T29	
+T30	Location 865 873	cervical
+R11	Related Ent1:T10 Ent2:T30	
+T31	Sign_or_Symptom 904 913	5-cm mass
+T32	Location 921 941	right adnexal region
+R12	Related Ent1:T31 Ent2:T32	
+#1	AnnotatorNotes T7	Fever
+T33	Temporal_Concept 332 339	regular
+R13	Related Ent1:T23 Ent2:T33	

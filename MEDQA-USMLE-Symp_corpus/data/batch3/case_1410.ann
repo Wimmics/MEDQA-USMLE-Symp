@@ -1,0 +1,10 @@
+T1	Age_Group 2 13	69-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 56 62	3-week
+T4	Sign_or_Symptom 74 82	headache
+T5	Sign_or_Symptom 87 103	worsening vision
+T6	Finding 140 206	visual acuity of 20/120 in the right eye and 20/80 in the left eye
+T7	No_Finding_Occurence 244 257	abnormalities
+T8	Finding 285 308	hemoglobin of 14.2 g/dL
+T9	Finding 313 345	total serum calcium of 9.9 mg/dL
+T10	Finding 431 485	increased concentration of a pentameric immunoglobulin

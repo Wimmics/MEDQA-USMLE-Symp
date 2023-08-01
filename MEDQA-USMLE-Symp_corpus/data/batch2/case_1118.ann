@@ -1,0 +1,17 @@
+T1	Age_Group 2 13	70-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 68 84	severe back pain
+T4	Temporal_Concept 122 132	1 hour ago
+T5	Sign_or_Symptom 179 200	severe right hip pain
+T6	Temporal_Concept 148 154	2-year
+T7	Sign_or_Symptom 229 252	tenderness to palpation
+T8	Location 260 271	lower spine
+T9	Sign_or_Symptom 283 291	erythema
+T10	Location 299 322	skin over the right hip
+T11	Sign_or_Symptom 353 370	decreased hearing
+T12	Location 378 386	left ear
+T13	Finding 392 429	Weber test localizes to the left side
+T14	Finding 453 498	alkaline phosphatase concentration of 410 U/L
+T15	Finding 500 534	calcium concentration of 9.5 mg/dL
+T16	Finding 540 578	parathyroid hormone level of 322 pg/mL
+T17	Sign_or_Symptom 610 637	fracture of the L4 vertebra

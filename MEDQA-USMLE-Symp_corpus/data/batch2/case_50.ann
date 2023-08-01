@@ -1,0 +1,17 @@
+T1	Sign_or_Symptom 204 213	lethargic
+T2	Age_Group 2 13	38-year-old
+T3	Population_Group 14 19	woman
+T4	Sign_or_Symptom 77 85	headache
+T5	Sign_or_Symptom 87 100	blurry vision
+T6	Sign_or_Symptom 106 112	nausea
+T7	Temporal_Concept 113 122	for 1 day
+T8	Sign_or_Symptom 164 190	right middle ear infection
+T9	Temporal_Concept 124 137	Four days ago
+T10	Finding 219 250	temperature is 39.1°C (102.3°F)
+T11	Finding 256 286	blood pressure is 148/95 mm Hg
+T12	Sign_or_Symptom 321 339	bilateral swelling
+T13	Location 347 357	optic disc
+T14	Sign_or_Symptom 363 405	corneal reflex in the right eye is absent.
+T15	Sign_or_Symptom 406 435	Sensation to touch is reduced
+T16	Location 443 471	upper right side of the face
+T17	Finding 492 547	increased concentrations of fibrin degradation products

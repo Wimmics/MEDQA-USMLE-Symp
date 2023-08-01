@@ -1,0 +1,44 @@
+T1	Age_Group 2 13	37-year-old
+T2	Population_Group 14 19	woman
+T3	Finding 21 30	gravida 4
+T4	Finding 32 38	para 3
+T5	Finding 43 62	35 weeks' gestation
+T6	Sign_or_Symptom 94 106	active labor
+T7	Finding 142 216	three children were delivered by lower segment transverse cesarean section
+T8	Sign_or_Symptom 241 255	acute distress
+T9	Finding 261 276	pulse is 98/min
+T10	Finding 278 301	respirations are 15/min
+T11	Finding 307 337	blood pressure is 130/80 mm Hg
+T12	No_Symptom_Occurence 343 363	abdomen is nontender
+T13	Finding 368 380	contractions
+T14	No_Symptom_Occurence 395 430	fetus is in a cephalic presentation
+T15	No_Symptom_Occurence 436 486	fetal heart rate is reactive with no decelerations
+T16	Sign_or_Symptom 529 554	placenta is not delivered
+T17	Sign_or_Symptom 599 623	profuse vaginal bleeding
+T18	No_Symptom_Occurence 627 657	firm, nontender uterine fundus
+T19	Location 677 699	level of the umbilicus
+T20	Age_Group 755 766	32-year-old
+T21	Population_Group 767 773	female
+T22	Sign_or_Symptom 825 851	acute onset abdominal pain
+T23	Sign_or_Symptom 938 952	abdominal pain
+T24	Location 927 937	left-sided
+T25	Sign_or_Symptom 998 1007	chlamydia
+T26	Temporal_Concept 958 962	past
+T27	Sign_or_Symptom 1078 1095	menstrual periods
+T28	Temporal_Concept 1102 1125	regularly every 30 days
+T29	Sign_or_Symptom 1131 1152	last menstrual period
+T30	Temporal_Concept 1159 1169	2 days ago
+T31	Finding 1185 1213	temperature is 99°F (37.2°C)
+T32	Finding 1215 1244	blood pressure is 110/68 mmHg
+T33	Finding 1246 1261	pulse is 88/min
+T34	Finding 1267 1290	respirations are 14/min
+T35	Finding 1299 1323	oxygen saturation of 98%
+T36	Sign_or_Symptom 1376 1402	lower abdominal tenderness
+T37	Sign_or_Symptom 1407 1415	guarding
+T38	Location 1364 1374	left-sided
+T39	Sign_or_Symptom 1567 1588	large amount of fluid
+T40	Sign_or_Symptom 1451 1463	clear mucous
+T41	Location 1471 1488	vaginal introitus
+T42	Sign_or_Symptom 1493 1503	tenderness
+T43	Location 1511 1522	left adnexa
+T44	Location 1596 1614	rectouterine pouch

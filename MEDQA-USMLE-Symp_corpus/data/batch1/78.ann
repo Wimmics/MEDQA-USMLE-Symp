@@ -1,0 +1,32 @@
+T1	Relevant_symptoms 89 111	colicky abdominal pain
+T2	Relevant_symptoms 116 146	diarrhea with occasional blood
+T3	Sign_or_Symptom 213 219	sepsis
+T4	Sign_or_Symptom 396 410	thickened loop
+T5	Relevant_symptoms 490 499	thickened
+T6	Temporal_Concept 71 85	6-week history
+T9	Age_Group 2 13	30-year-old
+T10	Population_Group 14 17	man
+T12	Temporal_Concept 148 174	Three days after admission
+T13	Sign_or_Symptom 197 208	peritonitis
+R1	Related Ent1:T1 Ent2:T6	
+R2	Related Ent1:T2 Ent2:T6	
+R4	Related Ent1:T13 Ent2:T12	
+R5	Related Ent1:T3 Ent2:T12	
+T8	Sign_or_Symptom 250 254	dies
+T14	Sign_or_Symptom 288 305	fibrinous exudate
+T15	Location 315 325	peritoneal
+T16	Location 330 337	serosal
+R6	Related Ent1:T14 Ent2:T15	
+R7	Related Ent1:T14 Ent2:T16	
+T17	Sign_or_Symptom 354 370	punctate opening
+T18	Location 414 429	small intestine
+R8	Related Ent1:T4 Ent2:T18	
+R9	Related Ent1:T17 Ent2:T18	
+T20	Location 431 480	Several lengths of the small and large intestines
+R10	Related Ent1:T5 Ent2:T20	
+T21	Relevant_symptoms 504 559	adherent to one another, with marked areas of narrowing
+R12	Related Ent1:T21 Ent2:T20	
+#1	AnnotatorNotes T1	 Abdominal pain
+#2	AnnotatorNotes T2	Diarrhea
+#3	AnnotatorNotes T21	Intestinal obstruction
+#4	AnnotatorNotes T5	Inflammation of the large intestine

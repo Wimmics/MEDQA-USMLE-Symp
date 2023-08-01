@@ -1,0 +1,22 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 65 72	2-month
+T4	Sign_or_Symptom 103 121	left shoulder pain
+T5	Temporal_Concept 84 99	insidious onset
+T6	Sign_or_Symptom 193 232	difficult to sleep on the affected side
+T7	Sign_or_Symptom 261 303	difficulty with activities of daily living
+T8	No_Symptom_Occurence 406 421	shoulder trauma
+T9	No_Symptom_Occurence 423 432	neck pain
+T10	No_Symptom_Occurence 434 451	arm/hand weakness
+T11	No_Symptom_Occurence 453 461	numbness
+T12	No_Symptom_Occurence 466 478	paresthesias
+T13	Sign_or_Symptom 518 542	type 2 diabetes mellitus
+T14	Sign_or_Symptom 624 682	marked decrease in both active and passive range of motion
+T15	Location 690 703	left shoulder
+T16	Finding 710 735	forwarding flexion to 75°
+T17	Finding 737 753	abduction to 75°
+T18	Finding 755 779	external rotation to 45°
+T19	Finding 785 809	internal rotation to 15°
+T20	Sign_or_Symptom 815 831	significant pain
+T21	No_Symptom_Occurence 833 854	Rotator cuff strength
+T22	No_Finding_Occurence 934 940	normal

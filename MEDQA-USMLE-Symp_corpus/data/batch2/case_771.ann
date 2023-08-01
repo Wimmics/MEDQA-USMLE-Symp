@@ -1,0 +1,14 @@
+T1	Age_Group 2 13	77-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 62 89	change in his mental status
+T4	Sign_or_Symptom 276 309	struggled to perform simple tasks
+T5	Sign_or_Symptom 318 341	forgetful while cooking
+T6	Temporal_Concept 243 255	this morning
+T7	Sign_or_Symptom 531 543	hypertension
+T8	Sign_or_Symptom 548 556	diabetes
+T9	Temporal_Concept 507 511	past
+T10	Finding 562 592	temperature is 97.5°F (36.4°C)
+T11	Finding 594 624	blood pressure is 187/118 mmHg
+T12	Finding 626 641	pulse is 90/min
+T13	Finding 643 666	respirations are 16/min
+T14	Finding 672 697	oxygen saturation is 100%

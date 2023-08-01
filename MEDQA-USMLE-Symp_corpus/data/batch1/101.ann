@@ -1,0 +1,34 @@
+T1	Relevant_symptoms 506 518	hot to touch
+T2	Relevant_symptoms 58 62	pain
+T3	Relevant_symptoms 585 638	pain is exacerbated with further flexion or extension
+T4	Sign_or_Symptom 159 186	acute myocardial infarction
+T5	No_Finding_Occurence 408 419	Vital signs
+T8	Finding 751 771	Creatinine 1.0 mg/dL
+T11	Temporal_Concept 46 57	progressive
+T6	Age_Group 15 26	57-year-old
+T12	Population_Group 27 30	man
+R1	Related Ent1:T2 Ent2:T11	
+T10	Location 70 79	left knee
+T13	Temporal_Concept 96 107	2 hours ago
+R2	Related Ent1:T2 Ent2:T10	
+R3	Related Ent1:T2 Ent2:T13	
+T9	Finding 665 679	Hematocrit 40%
+T14	Finding 680 706	Leukocyte count 13,000/mm3
+T15	Finding 707 727	Serum Ca2+ 9.2 mg/dL
+T16	Finding 728 750	Urea nitrogen 15 mg/dL
+T17	Finding 772 788	Albumin 3.6 g/dL
+T18	Finding 821 850	calcification of the synovium
+T19	Location 805 814	left knee
+R4	Related Ent1:T18 Ent2:T19	
+T7	Sign_or_Symptom 523 535	erythematous
+T20	Temporal_Concept 141 151	2 days ago
+R5	Related Ent1:T4 Ent2:T20	
+T21	Sign_or_Symptom 219 228	occlusion
+T22	Location 236 267	left anterior descending artery
+R6	Related Ent1:T21 Ent2:T22	
+T23	Sign_or_Symptom 478 492	large effusion
+T24	Location 465 469	knee
+R7	Related Ent1:T23 Ent2:T24	
+T25	Location 498 502	knee
+R8	Related Ent1:T1 Ent2:T25	
+R9	Related Ent1:T7 Ent2:T25	

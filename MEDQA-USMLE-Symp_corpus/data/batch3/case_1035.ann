@@ -1,0 +1,20 @@
+T1	Age_Group 2 13	25-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 54 61	sadness
+T4	Temporal_Concept 75 88	6 weeks after
+T5	Sign_or_Symptom 273 290	easily distracted
+T6	Sign_or_Symptom 420 429	exhausted
+T7	Sign_or_Symptom 443 468	does not feel hungry much
+T8	Sign_or_Symptom 533 553	gestational diabetes
+T9	Finding 559 596	child was born at 36-weeks' gestation
+T10	Finding 772 795	157 cm (5 ft 1 in) tall
+T11	Finding 800 821	weighs 47 kg (105 lb)
+T12	Finding 823 838	BMI is 20 kg/m2
+T13	No_Finding_Occurence 840 851	Vital signs
+T14	No_Symptom_Occurence 885 890	alert
+T15	No_Symptom_Occurence 895 906	cooperative
+T16	Sign_or_Symptom 911 935	makes little eye contact
+T17	No_Finding_Occurence 967 980	abnormalities
+T18	Age_Group 93 104	9-month-old
+T19	Population_Group 105 113	daughter
+T20	Sign_or_Symptom 239 264	difficulty staying asleep

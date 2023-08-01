@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	16-year-old
+T2	Population_Group 14 17	boy
+T3	Sign_or_Symptom 100 113	pruritic rash
+T4	Location 123 132	shoulders
+T5	Location 137 145	buttocks
+T6	Temporal_Concept 146 167	for the past 6 months
+T7	Sign_or_Symptom 378 430	symmetrically distributed papules 4–8 mm in diameter
+T8	Sign_or_Symptom 432 449	excoriation marks
+T9	Sign_or_Symptom 455 479	patchy hyperpigmentation
+T10	Location 489 498	shoulders
+T11	Location 500 505	waist
+T12	Location 511 519	buttocks
+T13	Sign_or_Symptom 530 564	nontender inguinal lymphadenopathy
+T14	Sign_or_Symptom 569 613	several firm, nontender subcutaneous nodules
+T15	Location 624 641	right iliac crest
+T16	Sign_or_Symptom 801 821	motile microfilariae

@@ -1,0 +1,14 @@
+T1	Finding 10 67	born after the 32nd gestational week by cesarean delivery
+T2	Population_Group 2 6	baby
+T3	Sign_or_Symptom 94 114	gestational diabetes
+T4	Population_Group 73 79	mother
+T5	No_Symptom_Occurence 160 168	diseases
+T6	No_Symptom_Occurence 187 194	healthy
+T7	Population_Group 200 204	baby
+T8	Finding 211 241	blood pressure of 100/58 mm Hg
+T9	Finding 243 264	heart rate of 104/min
+T10	Finding 270 294	oxygen saturation of 88%
+T11	Sign_or_Symptom 310 319	tachypnea
+T12	Sign_or_Symptom 321 358	subcostal and intercostal retractions
+T13	Sign_or_Symptom 360 373	nasal flaring
+T14	Sign_or_Symptom 379 387	cyanosis

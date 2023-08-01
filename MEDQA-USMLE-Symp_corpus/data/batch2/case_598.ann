@@ -1,0 +1,14 @@
+T1	Age_Group 2 13	34-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 134 140	nausea
+T4	Sign_or_Symptom 142 167	3-kg (6.6-lb) weight gain
+T5	Sign_or_Symptom 173 190	urinary frequency
+T6	Sign_or_Symptom 104 132	increasing breast tenderness
+T7	No_Symptom_Occurence 230 251	last menstrual period
+T8	Finding 423 451	temperature is 37.2°C (99°F)
+T9	Finding 453 469	pulse is 100/min
+T10	Finding 475 505	blood pressure is 110/60 mm Hg
+T11	Sign_or_Symptom 534 571	mild, nontender abdominal enlargement
+T12	Sign_or_Symptom 577 598	cervical os is closed
+T13	No_Finding_Occurence 600 611	Urine β-hCG
+T14	No_Finding_Occurence 663 676	abnormalities

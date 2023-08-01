@@ -1,0 +1,30 @@
+T1	Relevant_symptoms 67 80	left ear pain
+T2	Relevant_symptoms 386 396	tenderness
+T3	Location 311 319	left ear
+T4	Location 397 416	behind the left ear
+T5	Relevant_symptoms 57 62	fever
+T6	Relevant_symptoms 155 172	left otitis media
+T7	Sign_or_Symptom 320 365	displaced forward and laterally from the head
+T10	Age_Group 2 12	3-year-old
+T11	Population_Group 13 17	girl
+T12	Temporal_Concept 81 91	for 3 days
+R1	Related Ent1:T1 Ent2:T12	
+R2	Related Ent1:T5 Ent2:T12	
+T9	Temporal_Concept 139 150	past 5 days
+R3	Related Ent1:T6 Ent2:T9	
+T13	Finding 178 209	temperature is 38.5°C (101.3°F)
+T14	Finding 211 228	pulse is 100/min,
+T15	Finding 229 252	respirations are 20/min
+T16	Finding 258 287	blood pressure is 80/60 mm Hg
+R4	Related Ent1:T7 Ent2:T3	
+T17	Relevant_symptoms 376 381	edema
+R5	Related Ent1:T2 Ent2:T4	
+R6	Related Ent1:T17 Ent2:T4	
+T18	Finding 418 439	Otoscopic examination
+T19	Relevant_symptoms 448 451	red
+T20	Sign_or_Symptom 453 457	dull
+T21	Location 459 481	left tympanic membrane
+T22	Relevant_symptoms 487 500	does not move
+R7	Related Ent1:T22 Ent2:T21	
+R8	Related Ent1:T20 Ent2:T21	
+R9	Related Ent1:T19 Ent2:T21	

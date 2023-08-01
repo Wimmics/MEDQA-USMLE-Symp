@@ -1,0 +1,11 @@
+T1	Relevant_symptoms 42 56	abdominal pain
+T2	Location 93 113	right lower quadrant
+T3	Relevant_symptoms 61 69	vomiting
+T4	Sign_or_Symptom 118 142	hyperactive bowel sounds
+T7	Age_Group 2 12	4-year-old
+T8	Population_Group 13 17	girl
+T9	Temporal_Concept 26 32	sudden
+R1	Related Ent1:T1 Ent2:T9	
+R2	Related Ent1:T3 Ent2:T9	
+T10	Relevant_symptoms 81 85	mass
+R3	Related Ent1:T10 Ent2:T2	

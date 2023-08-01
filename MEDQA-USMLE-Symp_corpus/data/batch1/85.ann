@@ -1,0 +1,24 @@
+T1	Relevant_symptoms 387 411	systolic ejection murmur
+T4	Finding 13 20	newborn
+T6	Relevant_symptoms 126 147	sweats during feeding
+T8	Finding 371 380	grade 3/6
+T9	Location 428 453	left upper sternal border
+T10	Age_Group 2 12	2-week-old
+T11	Relevant_symptoms 71 82	turned blue
+T5	Location 61 65	lips
+R1	Related Ent1:T11 Ent2:T5	
+T12	Finding 156 183	born at 38 weeks' gestation
+T13	Finding 188 214	weighed 2466 g (5 lb 7 oz)
+T14	Finding 229 254	weighs 2778 g (6 lb 2 oz)
+T15	Temporal_Concept 219 228	currently
+R2	Related Ent1:T14 Ent2:T15	
+T16	Finding 260 289	temperature is 37.8°C (100°F)
+T17	Finding 291 307	pulse is 170/min
+T18	Finding 309 332	respirations are 44/min
+T19	Finding 338 367	blood pressure is 75/45 mm Hg
+R3	Related Ent1:T1 Ent2:T9	
+R4	Related Ent1:T8 Ent2:T9	
+T2	Sign_or_Symptom 485 508	small boot-shaped heart
+T3	Sign_or_Symptom 513 550	decreased pulmonary vascular markings
+T7	Temporal_Concept 86 116	three occasions during feeding
+R5	Related Ent1:T11 Ent2:T7	

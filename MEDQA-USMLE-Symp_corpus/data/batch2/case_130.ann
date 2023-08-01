@@ -1,0 +1,28 @@
+T1	Age_Group 2 12	4-week-old
+T2	Population_Group 13 19	female
+T3	Sign_or_Symptom 78 87	yellowing
+T4	Location 95 108	eyes and skin
+T5	Temporal_Concept 109 120	for 2 weeks
+T6	Sign_or_Symptom 161 184	stools have become pale
+T7	Temporal_Concept 185 203	over the past week
+T8	No_Finding_Occurence 507 518	Vital signs
+T9	No_Symptom_Occurence 498 505	healthy
+T10	Finding 559 585	50th percentile for length
+T11	Finding 597 623	60th percentile for weight
+T12	Sign_or_Symptom 643 658	scleral icterus
+T13	Sign_or_Symptom 663 671	jaundice
+T14	Finding 677 729	liver is palpated 2 cm below the right costal margin
+T15	No_Finding_Occurence 768 781	abnormalities
+T16	No_Finding_Occurence 815 829	focal findings
+T17	Finding 851 860;861 875;876 893	Bilirubin Total 15 mg/dL Direct 12.3 mg/dL
+T18	Finding 894 923	Alkaline phosphatase 2007 U/L
+T19	Finding 924 934	AST 53 U/L
+T20	Finding 935 945	ALT 45 U/L
+T21	Finding 946 976	γ-glutamyl transferase 154 U/L
+T22	Finding 977 999	Blood group A positive
+T25	Finding 213 222	breastfed
+T26	Temporal_Concept 223 234	since birth
+T27	Finding 267 280	formula feeds
+T28	Temporal_Concept 281 289	recently
+T29	Finding 399 441	delivered vaginally at 38 weeks' gestation
+T30	No_Finding_Occurence 443 465	Pregnancy and delivery

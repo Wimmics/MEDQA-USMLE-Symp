@@ -1,0 +1,11 @@
+T1	Age_Group 2 13	31-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 56 63	5-month
+T4	Sign_or_Symptom 75 98	intermittent flank pain
+T5	Sign_or_Symptom 135 164	five urinary tract infections
+T6	Temporal_Concept 100 121	Over the past 2 years
+T7	Finding 170 200	blood pressure is 150/88 mm Hg
+T8	Sign_or_Symptom 229 272	bilateral, nontender upper abdominal masses
+T9	Finding 295 334	urea nitrogen concentration of 29 mg/dL
+T10	Finding 341 378	creatinine concentration of 1.4 mg/dL
+T11	Sign_or_Symptom 408 478	bilaterally enlarged kidneys with multiple parenchymal anechoic masses

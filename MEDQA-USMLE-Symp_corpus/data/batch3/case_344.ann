@@ -1,0 +1,22 @@
+T1	Age_Group 2 13	17-year-old
+T2	Population_Group 14 17	boy
+T3	Temporal_Concept 65 70	3-day
+T4	Sign_or_Symptom 82 86	pain
+T5	Location 94 104	left wrist
+T6	Sign_or_Symptom 161 167	chills
+T7	Sign_or_Symptom 172 179	malaise
+T8	Temporal_Concept 181 190	Last week
+T9	Sign_or_Symptom 198 227	self-resolving left knee pain
+T10	No_Symptom_Occurence 245 252	healthy
+T11	No_Symptom_Occurence 273 279	trauma
+T12	Location 287 292	wrist
+T13	Finding 440 470	temperature is 37.7°C (99.9°F)
+T14	Sign_or_Symptom 490 542	several painless violaceous vesiculopustular lesions
+T15	Location 550 581	dorsum of both wrists and hands
+T16	Sign_or_Symptom 583 594	two lesions
+T17	Location 614 623	left palm
+T18	Sign_or_Symptom 634 642	swelling
+T19	Sign_or_Symptom 647 655	erythema
+T20	Location 663 673	left wrist
+T21	Sign_or_Symptom 686 709	tenderness to palpation
+T22	Sign_or_Symptom 714 730	passive movement

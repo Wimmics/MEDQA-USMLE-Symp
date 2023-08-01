@@ -1,0 +1,20 @@
+T2	Finding 331 361	Hemoglobin 16.4 g/dL 18.4 g/dL
+T3	Finding 451 481	Creatinine 1.1 mg/dL 1.2 mg/dL
+T4	Sign_or_Symptom 107 116	bedridden
+T1	Age_Group 24 35	75-year-old
+T9	Population_Group 36 39	man
+T10	Temporal_Concept 161 175	During a 3-day
+T11	Finding 188 226	pulse increases from 82/min to 125/min
+T8	Finding 232 290	blood pressure decreases from 124/72 mm Hg to 100/55 mm Hg
+T12	Temporal_Concept 319 330	Day 1 Day 3
+T13	Finding 362 399	Serum Urea nitrogen 18 mg/dL 56 mg/dL
+T14	Finding 400 426	Glucose 100 mg/dL 89 mg/dL
+T15	Finding 427 450	Na+ 135 mEq/L 151 mEq/L
+T5	Sign_or_Symptom 121 159	unable to attend to his personal needs
+R1	Related Ent1:T2 Ent2:T12	
+R2	Related Ent1:T11 Ent2:T10	
+R3	Related Ent1:T8 Ent2:T10	
+R4	Related Ent1:T13 Ent2:T12	
+R5	Related Ent1:T14 Ent2:T12	
+R6	Related Ent1:T15 Ent2:T12	
+R7	Related Ent1:T3 Ent2:T12	

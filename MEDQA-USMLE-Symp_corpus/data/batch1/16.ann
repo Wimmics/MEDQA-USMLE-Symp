@@ -1,0 +1,14 @@
+T2	Relevant_symptoms 212 232	mid-diastolic murmur
+T3	Relevant_symptoms 79 103	systolic ejection murmur
+T6	No_Finding_Occurence 306 319	abnormalities
+T7	Location 123 148	upper left sternal border
+T8	Age_Group 10 20	4-year-old
+T9	Population_Group 21 25	girl
+T1	Finding 150 168	S2 is widely split
+T10	No_Finding_Occurence 182 203	vary with respiration
+T11	Location 252 277	lower left sternal border
+R1	Related Ent1:T3 Ent2:T7	
+R2	Related Ent1:T2 Ent2:T11	
+#1	AnnotatorNotes T3	Heart murmur
+#2	AnnotatorNotes T2	Heart murmur
+T4	Finding 69 78	grade 2/6

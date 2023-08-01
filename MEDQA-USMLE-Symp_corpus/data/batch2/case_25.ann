@@ -1,0 +1,13 @@
+T1	Age_Group 3 14	62-year-old
+T2	Population_Group 15 18	man
+T3	Sign_or_Symptom 64 76	colicky pain
+T4	Location 84 97	lower abdomen
+T5	Sign_or_Symptom 102 122	abdominal distension
+T6	Temporal_Concept 123 144	for the past 12 hours
+T7	Sign_or_Symptom 153 173	chronic constipation
+T8	Finding 228 258	temperature is 37.1°C (98.7°F)
+T9	Finding 260 290	blood pressure is 110/60 mm Hg
+T10	Finding 295 310	pulse is 85/min
+T11	Sign_or_Symptom 346 374	diffuse abdominal distension
+T12	Sign_or_Symptom 379 389	tenderness
+T13	Sign_or_Symptom 395 417	bowel sounds are faint

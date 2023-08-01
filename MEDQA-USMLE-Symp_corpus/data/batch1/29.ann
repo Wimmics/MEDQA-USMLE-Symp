@@ -1,0 +1,26 @@
+T1	Relevant_symptoms 119 129	chest pain
+T2	Relevant_symptoms 91 110	shortness of breath
+T3	No_Symptom_Occurence 174 182	symptoms
+T4	Relevant_symptoms 191 203	hypertension
+T7	Relevant_symptoms 135 143	sweating
+T8	Temporal_Concept 155 162	history
+T15	Age_Group 2 13	47-year-old
+T16	Population_Group 14 17	man
+T5	Temporal_Concept 57 70	2 hours after
+R1	Related Ent1:T2 Ent2:T5	
+R2	Related Ent1:T3 Ent2:T8	
+R3	Related Ent1:T1 Ent2:T5	
+R4	Related Ent1:T7 Ent2:T5	
+T17	Finding 299 315	pulse is 110/min
+T18	Finding 317 340	respirations are 24/min
+T19	Finding 346 376	blood pressure is 110/50 mm Hg
+T9	Sign_or_Symptom 380 415	grade 3/6, diastolic blowing murmur
+T20	Location 434 453	left sternal border
+T21	Location 474 494	right sternal border
+R6	Related Ent1:T9 Ent2:T20	
+R7	Related Ent1:T9 Ent2:T21	
+T12	Relevant_symptoms 556 579	ventricular hypertrophy
+#1	AnnotatorNotes T1	Chest pain
+#2	AnnotatorNotes T2	Paroxysmal dyspnea
+#3	AnnotatorNotes T12	Abnormal left ventricular function
+T6	Finding 496 536	Femoral pulses are decreased bilaterally

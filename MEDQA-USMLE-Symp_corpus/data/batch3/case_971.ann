@@ -1,0 +1,17 @@
+T1	Age_Group 21 31	2-year-old
+T2	Population_Group 32 36	girl
+T3	Sign_or_Symptom 106 135	painless, nonpruritic papules
+T4	Location 143 150	abdomen
+T5	Finding 271 299	immunizations are up-to-date
+T6	Population_Group 305 312	brother
+T7	Sign_or_Symptom 317 327	chickenpox
+T8	Temporal_Concept 328 341	one month ago
+T9	Finding 357 383	50th percentile for height
+T10	Finding 392 418	60th percentile for weight
+T11	No_Finding_Occurence 420 431	Vital signs
+T12	Sign_or_Symptom 476 549	several skin-colored, nontender, pearly papules with central umbilication
+T13	Location 557 564	abdomen
+T14	Location 569 580	extremities
+T15	No_Finding_Occurence 624 637	abnormalities
+T16	Temporal_Concept 209 218	past week
+T17	Sign_or_Symptom 250 265	similar lesions

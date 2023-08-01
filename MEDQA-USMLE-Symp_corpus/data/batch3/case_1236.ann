@@ -1,0 +1,32 @@
+T1	Age_Group 2 13	45-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 64 72	headache
+T4	Sign_or_Symptom 74 86	palpitations
+T5	Sign_or_Symptom 101 112	diaphoresis
+T6	Temporal_Concept 92 100	episodic
+T7	Sign_or_Symptom 137 149	hypertension
+T8	Temporal_Concept 157 161	past
+T9	Sign_or_Symptom 263 287	diffuse thyroid swelling
+T10	Temporal_Concept 288 309	for the past 4 months
+T11	Sign_or_Symptom 328 332	pain
+T12	Location 340 371	long bones of her arms and legs
+T13	Temporal_Concept 372 393	for the past 3 months
+T14	Sign_or_Symptom 426 430	thin
+T15	Sign_or_Symptom 439 446	anxious
+T16	Sign_or_Symptom 451 463	apprehensive
+T17	Sign_or_Symptom 402 416	slightly built
+T18	Sign_or_Symptom 469 491	skin is moist and warm
+T19	Finding 497 522	weight is 45 kg (99.2 lb)
+T20	Finding 527 555	height is 146 cm (4 ft 7 in)
+T21	Finding 557 575	BMI is 21.12 kg/m2
+T22	Finding 581 597	pulse is 116/min
+T23	Finding 603 634	blood pressure is 196/102 mm Hg
+T24	Finding 640 666	respiratory rate is 29/min
+T25	Finding 676 706	temperature is 37.2°C (99.0°F)
+T26	Sign_or_Symptom 708 736	Diffuse and firm thyromegaly
+T27	Sign_or_Symptom 779 816	fine tremors during an anxiety attack
+T28	Location 753 770	upper extremities
+T29	Finding 853 899	elevated 24-hour urinary VMA and metanephrines
+T30	Finding 901 973	Serum epinephrine, calcitonin, and parathormone levels are also elevated
+T31	Finding 975 988	Hypercalcemia
+T32	Finding 993 1006	hyperglycemia

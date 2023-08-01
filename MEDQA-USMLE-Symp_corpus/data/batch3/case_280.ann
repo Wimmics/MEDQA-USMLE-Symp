@@ -1,0 +1,22 @@
+T1	Sign_or_Symptom 353 368	Crohn's disease
+T2	Sign_or_Symptom 370 394	type 2 diabetes mellitus
+T3	Sign_or_Symptom 400 412	hypertension
+T4	Age_Group 2 13	54-year-old
+T5	Population_Group 14 19	woman
+T6	Sign_or_Symptom 56 75	painful skin lesion
+T7	Location 83 92	right leg
+T8	Temporal_Concept 93 104	for 1 month
+T9	Sign_or_Symptom 293 309	anterior uveitis
+T10	Temporal_Concept 310 322	8 months ago
+T11	Sign_or_Symptom 222 230	ant bite
+T12	Location 238 241	leg
+T13	Temporal_Concept 242 247	prior
+T14	Finding 556 584	temperature is 37.6°C (98°F)
+T15	Finding 586 601	pulse is 98/min
+T16	Finding 607 637	blood pressure is 126/88 mm Hg
+T17	Sign_or_Symptom 657 676	pitting pedal edema
+T18	Location 684 701	lower extremities
+T19	No_Finding_Occurence 884 933	Femoral and pedal pulses are palpated bilaterally
+T20	Sign_or_Symptom 841 863	dilated tortuous veins
+T21	Location 867 882	both lower legs
+T22	Sign_or_Symptom 714 829	4-cm tender ulcerative lesion on the anterior right leg with a central necrotic base and purplish irregular borders

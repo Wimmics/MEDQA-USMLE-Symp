@@ -1,0 +1,22 @@
+T1	Age_Group 2 13	67-year-old
+T2	Population_Group 14 17	man
+T3	No_Symptom_Occurence 118 122	well
+T4	Sign_or_Symptom 205 224	abnormally fatigued
+T5	Sign_or_Symptom 247 263	light-headedness
+T6	Sign_or_Symptom 308 315	fainted
+T7	Temporal_Concept 316 320	once
+T8	Sign_or_Symptom 364 380	type II diabetes
+T9	Sign_or_Symptom 382 394	hypertension
+T10	Sign_or_Symptom 400 412	constipation
+T11	Temporal_Concept 340 344	past
+T12	Temporal_Concept 417 425	recently
+T13	Sign_or_Symptom 433 444	throat cold
+T14	Finding 495 525	temperature is 98.9°F (37.2°C)
+T15	Finding 527 556	blood pressure is 167/98 mmHg
+T16	Finding 558 573	pulse is 90/min
+T17	Finding 575 598	respirations are 12/min
+T18	Finding 604 628	oxygen saturation is 99%
+T19	Sign_or_Symptom 666 681	systolic murmur
+T20	Location 703 729	right upper sternal border
+T21	No_Finding_Occurence 771 792	signs of ST elevation
+T22	No_Finding_Occurence 794 811	Cardiac troponins

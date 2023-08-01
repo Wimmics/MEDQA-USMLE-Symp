@@ -1,0 +1,37 @@
+T1	Age_Group 2 13	62-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 77 91	loss of vision
+T4	Temporal_Concept 70 76	sudden
+T5	Location 99 108	right eye
+T6	Temporal_Concept 123 137	50 minutes ago
+T7	No_Symptom_Occurence 157 165	eye pain
+T8	Temporal_Concept 175 194	several episodes of
+T9	Sign_or_Symptom 195 209	loss of vision
+T10	Temporal_Concept 217 221	past
+T11	Sign_or_Symptom 297 320	coronary artery disease
+T12	Sign_or_Symptom 322 334	hypertension
+T13	Sign_or_Symptom 336 360	type 2 diabetes mellitus
+T14	Sign_or_Symptom 366 384	multiple sclerosis
+T15	Sign_or_Symptom 453 474	myocardial infarction
+T16	Temporal_Concept 475 486	5 years ago
+T17	Finding 642 672	temperature is 36.8°C (98.2°F)
+T18	Finding 674 689	pulse is 80/min
+T19	Finding 695 725	blood pressure is 155/88 mm Hg
+T20	Finding 745 757	20/50 vision
+T21	Location 765 773	left eye
+T22	No_Finding_Occurence 781 800	perception of light
+T23	Location 808 817	right eye
+T24	Sign_or_Symptom 823 899	direct pupillary reflex is brisk in the left eye and absent in the right eye
+T25	Sign_or_Symptom 905 983	indirect pupillary reflex is brisk in the right eye but absent in the left eye
+T26	Finding 985 1063	Intraocular pressure is 18 mm Hg in the right eye and 16 mm Hg in the left eye
+T27	Sign_or_Symptom 1067 1083	white, 1-mm ring
+T28	Location 1092 1143	around the circumference of the cornea in both eyes
+T29	No_Symptom_Occurence 1278 1284	normal
+T30	Location 1259 1269	optic disc
+T31	Sign_or_Symptom 1194 1253	pale, white retina with a bright red area within the macula
+T32	Location 1176 1185	right eye
+T33	Sign_or_Symptom 1334 1404	few soft and hard exudates in the superior and nasal retinal quadrants
+T34	Location 1317 1325	left eye
+T35	No_Symptom_Occurence 1439 1445	normal
+T36	Location 1410 1420	optic disc
+T37	Location 1425 1431	macula

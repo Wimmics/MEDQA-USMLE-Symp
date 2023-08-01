@@ -1,0 +1,35 @@
+T1	Relevant_symptoms 350 383	exquisite tenderness to palpation
+T2	Sign_or_Symptom 89 113	severely painful lesions
+T3	Sign_or_Symptom 200 224	type 2 diabetes mellitus
+T4	Relevant_symptoms 546 560	skin breakdown
+T9	Temporal_Concept 181 196	12-year history
+T10	Relevant_symptoms 566 602	bullae containing thick purple fluid
+T12	No_Symptom_Occurence 653 666	abnormalities
+T13	Age_Group 2 13	50-year-old
+T14	Population_Group 14 19	woman
+T5	Temporal_Concept 72 85	3-day history
+R1	Related Ent1:T3 Ent2:T9	
+T6	Finding 270 301	temperature is 39.3°C (102.8°F)
+T7	Location 123 132	right leg
+T15	Finding 137 169	temperatures to 38.7°C (101.7°F)
+R2	Related Ent1:T2 Ent2:T7	
+R3	Related Ent1:T2 Ent2:T5	
+R4	Related Ent1:T15 Ent2:T5	
+T8	Sign_or_Symptom 385 390	edema
+T16	Relevant_symptoms 396 402	warmth
+T17	Location 322 343	right lower extremity
+R5	Related Ent1:T1 Ent2:T17	
+R6	Related Ent1:T8 Ent2:T17	
+R7	Related Ent1:T16 Ent2:T17	
+T18	Sign_or_Symptom 426 431	shiny
+T19	Relevant_symptoms 436 458	diffusely erythematous
+T20	Location 408 417	extremity
+R8	Related Ent1:T18 Ent2:T20	
+R9	Related Ent1:T19 Ent2:T20	
+T21	Location 486 505	subcutaneous tissue
+T22	Sign_or_Symptom 509 513	firm
+R10	Related Ent1:T22 Ent2:T21	
+R11	Related Ent1:T4 Ent2:T21	
+R12	Related Ent1:T10 Ent2:T21	
+T23	Location 623 643	left lower extremity
+R13	Related Ent1:T12 Ent2:T23	

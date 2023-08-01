@@ -1,0 +1,15 @@
+T1	Age_Group 2 13	67-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 103 111	confused
+T4	Temporal_Concept 112 118	lately
+T5	Sign_or_Symptom 126 158	unable to verbalize her symptoms
+T6	Finding 164 193	temperature is 102°F (38.9°C)
+T7	Finding 195 224	blood pressure is 117/65 mmHg
+T8	Finding 226 242	pulse is 110/min
+T9	Finding 244 267	respirations are 19/min
+T10	Finding 273 297	oxygen saturation is 95%
+T11	Sign_or_Symptom 363 367	mass
+T12	Location 342 362	right upper quadrant
+T13	Sign_or_Symptom 433 454	pericholecystic fluid
+T14	Sign_or_Symptom 459 486	gallbladder wall thickening
+T15	No_Symptom_Occurence 499 509	gallstones

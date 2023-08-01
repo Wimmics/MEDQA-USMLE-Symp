@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	53-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 56 81	persistent abdominal pain
+T4	Sign_or_Symptom 105 128	gained 4.5 kg (10.0 lb)
+T5	Sign_or_Symptom 291 297	nausea
+T6	Sign_or_Symptom 230 250	foul-smelling stools
+T7	Sign_or_Symptom 214 228	numerous loose
+T8	Temporal_Concept 251 274	over the last few weeks
+T9	Finding 385 415	blood pressure is 132/76 mm Hg
+T10	Finding 417 443	respiratory rate is 14/min
+T11	Finding 449 469	heart rate is 75/min
+T12	Sign_or_Symptom 500 528	mild tenderness to palpation
+T13	Location 536 549	upper abdomen

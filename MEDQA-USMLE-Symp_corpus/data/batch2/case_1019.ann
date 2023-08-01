@@ -1,0 +1,14 @@
+T1	Age_Group 21 32	52-year-old
+T2	Population_Group 33 36	man
+T3	Temporal_Concept 73 80	2-month
+T4	Sign_or_Symptom 92 104	palpitations
+T5	Sign_or_Symptom 202 233	shortness of breath on exertion
+T6	Temporal_Concept 173 193	For the past 3 weeks
+T7	No_Symptom_Occurence 250 260	chest pain
+T8	No_Symptom_Occurence 262 271	orthopnea
+T9	No_Symptom_Occurence 276 293	nocturnal dyspnea
+T10	Finding 381 411	temperature is 36.5°C (97.7°F)
+T11	Finding 413 429	pulse is 103/min
+T12	Finding 435 465	blood pressure is 138/56 mm Hg
+T13	No_Finding_Occurence 490 502	auscultation
+T14	Location 471 476	lungs

@@ -1,0 +1,9 @@
+T1	Age_Group 2 13	66-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 48 55	4-month
+T4	Sign_or_Symptom 67 91	recurrent crusty lesions
+T5	Location 99 126	dorsal surface of his hands
+T6	Sign_or_Symptom 128 173	When he scrapes off the crusts, they reappear
+T7	Temporal_Concept 174 190	after a few days
+T8	Sign_or_Symptom 196 245	lesions are mildly pruritic and occasionally burn
+T9	Population_Group 261 271	landscaper

@@ -1,0 +1,28 @@
+T1	Age_Group 2 12	4-year-old
+T2	Population_Group 13 16	boy
+T3	Sign_or_Symptom 58 74	generalized rash
+T4	Temporal_Concept 75 85	for 3 days
+T5	Sign_or_Symptom 118 132	severe itching
+T6	Temporal_Concept 87 93	During
+T7	Sign_or_Symptom 141 163	not able to sleep well
+T8	Sign_or_Symptom 181 186	fever
+T9	Sign_or_Symptom 188 196	headache
+T10	Sign_or_Symptom 207 218	muscle pain
+T11	Temporal_Concept 220 233	Five days ago
+T12	Sign_or_Symptom 244 254	runny nose
+T13	Finding 400 426	55th percentile for height
+T14	Finding 438 464	50th percentile for weight
+T15	Finding 470 501	temperature is 38.2°C (100.7°F)
+T16	Finding 503 518	pulse is 97/min
+T17	Finding 524 553	blood pressure is 96/60 mm Hg
+T18	Sign_or_Symptom 593 600	macules
+T19	Sign_or_Symptom 602 609	papules
+T20	Sign_or_Symptom 615 630	crusted lesions
+T21	Location 640 644	face
+T22	Location 646 651	trunk
+T23	Location 657 668	extremities
+T24	Sign_or_Symptom 686 707	fluid-filled vesicles
+T25	Location 717 724	abdomen
+T26	Location 729 733	back
+T27	No_Symptom_Occurence 747 771	cervical lymphadenopathy
+T28	No_Finding_Occurence 815 828	abnormalities

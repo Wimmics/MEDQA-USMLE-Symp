@@ -1,0 +1,23 @@
+T1	Age_Group 2 13	28-year-old
+T3	Population_Group 14 31	primigravid woman
+T4	Sign_or_Symptom 92 113	severe abdominal pain
+T5	Temporal_Concept 114 125	for 3 hours
+T6	No_Symptom_Occurence 169 194	leakage of amniotic fluid
+T7	Finding 223 282	5 contractions in 10 minutes, each lasting 70 to 90 seconds
+T8	Temporal_Concept 196 210	Since arrival,
+T9	Finding 331 381	uterus consistent in size with a 38-week gestation
+T10	Sign_or_Symptom 311 324	closed cervix
+T11	Finding 402 517	single live intrauterine fetus in a breech presentation consistent with a gestational age of approximately 37 weeks
+T12	Finding 523 549	amniotic fluid index is 26
+T13	Finding 558 584	fetal heart rate is 92/min
+T14	Sign_or_Symptom 590 614	placenta is not detached
+T15	Sign_or_Symptom 705 735	nonreassuring fetal heart rate
+T16	Finding 765 793	APGAR score is noted to be 8
+T17	Temporal_Concept 797 805	1 minute
+T18	Population_Group 741 747	infant
+T19	Sign_or_Symptom 831 839	cyanosis
+T20	Location 847 851	lips
+T21	Location 856 867	oral mucosa
+T22	Population_Group 919 925	infant
+T23	Sign_or_Symptom 929 962	foaming at the mouth and drooling
+T24	Sign_or_Symptom 979 996	intractable cough

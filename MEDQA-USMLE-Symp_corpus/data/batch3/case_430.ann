@@ -1,0 +1,12 @@
+T1	Age_Group 2 13	24-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 57 72	increasing pain
+T4	Sign_or_Symptom 77 85	swelling
+T5	Location 93 102	left knee
+T6	Temporal_Concept 103 115	for 2 months
+T7	Sign_or_Symptom 121 155	pain has awoken him from his sleep
+T8	No_Symptom_Occurence 279 294	serious illness
+T9	Population_Group 249 255	family
+T10	No_Finding_Occurence 296 307	Vital signs
+T11	Sign_or_Symptom 354 392	left knee is mildly swollen and tender
+T12	Sign_or_Symptom 394 428	range of motion is limited by pain

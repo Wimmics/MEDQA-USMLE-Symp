@@ -1,0 +1,17 @@
+T1	Sign_or_Symptom 64 72	fainting
+T2	Relevant_symptoms 158 166	fatigued
+T3	Sign_or_Symptom 103 136	difficulty performing daily tasks
+T8	Temporal_Concept 199 211	12 years ago
+T9	Age_Group 2 13	54-year-old
+T10	Population_Group 14 17	man
+T11	Temporal_Concept 73 85	for 3 months
+T4	Sign_or_Symptom 177 198	myocardial infarction
+R1	Related Ent1:T1 Ent2:T11	
+R2	Related Ent1:T4 Ent2:T8	
+T12	Finding 217 232	pulse is 40/min
+T13	Finding 234 257	respirations are 18/min
+T14	Finding 263 293	blood pressure is 138/85 mm Hg
+T15	Relevant_symptoms 334 348	cannon a waves
+T6	Finding 365 386	P-wave rate of 90/min
+T16	Finding 395 416	R-wave rate of 40/min
+T5	No_Finding_Occurence 435 459	relation between the two

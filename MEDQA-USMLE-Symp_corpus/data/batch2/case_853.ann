@@ -1,0 +1,52 @@
+T1	Age_Group 3 14	18-year-old
+T2	Population_Group 15 19	girl
+T3	Sign_or_Symptom 53 67	abdominal pain
+T4	Temporal_Concept 102 113	6 hours ago
+T5	Location 145 164	right lower abdomen
+T6	Temporal_Concept 196 206	last month
+T7	Sign_or_Symptom 180 195	similar episode
+T8	Population_Group 212 225	older brother
+T9	Temporal_Concept 243 254	2 years ago
+T10	Sign_or_Symptom 259 282	perforated appendicitis
+T11	Population_Group 288 294	mother
+T12	Sign_or_Symptom 299 313	diverticulitis
+T13	Sign_or_Symptom 335 357	first menstrual period
+T14	Temporal_Concept 361 367	age 14
+T15	Sign_or_Symptom 373 396	periods occur regularly
+T16	Temporal_Concept 397 410	every 28 days
+T17	Temporal_Concept 442 453	2 weeks ago
+T18	Sign_or_Symptom 416 437	last menstrual period
+T19	Finding 548 576	temperature is 99°F (37.2°C)
+T20	Finding 578 607	blood pressure is 110/74 mmHg
+T21	Finding 609 624	pulse is 89/min
+T22	Finding 630 653	respirations are 14/min
+T23	Finding 662 686	oxygen saturation of 98%
+T24	Sign_or_Symptom 765 804	ower abdominal tenderness with guarding
+T25	Sign_or_Symptom 736 753	moderate distress
+T26	Sign_or_Symptom 835 847	clear mucous
+T27	Location 855 872	vaginal introitus
+T28	Sign_or_Symptom 876 889	mobile uterus
+T29	Sign_or_Symptom 895 905	tenderness
+T30	Location 913 925	right adnexa
+T31	Finding 963 1016	Leukocyte count: 10,000/mm^3 with normal differential
+T32	Finding 1017 1038	Hemoglobin: 13.5 g/dL
+T33	Finding 1039 1067	Platelet count: 200,000/mm^3
+T34	Finding 1068 1110	Beta-human chorionic gonadotropin: Pending
+T35	Sign_or_Symptom 1147 1169	small fluid collection
+T36	Location 1177 1211	cul-de-sac posterior to the uterus
+T37	Age_Group 1267 1278	22-year-old
+T38	Population_Group 1279 1282	man
+T39	Sign_or_Symptom 1351 1394	undressing himself outside in 110°F weather
+T40	Sign_or_Symptom 1408 1439	refuses to answer any questions
+T41	Sign_or_Symptom 1591 1617	polysubstance intoxication
+T42	Temporal_Concept 1575 1586	once before
+T43	Sign_or_Symptom 1631 1658	attempts to assault a nurse
+T44	Sign_or_Symptom 1660 1673	is restrained
+T45	Finding 1799 1826	temperature is 104°F (40°C)
+T46	Finding 1828 1857	blood pressure is 147/98 mmHg
+T47	Finding 1859 1875	pulse is 120/min
+T48	Finding 1877 1900	respirations are 17/min
+T49	Finding 1906 1930	oxygen saturation is 98%
+T50	Sign_or_Symptom 2063 2087	mucous membranes are dry
+T51	Sign_or_Symptom 1947 1980	does not comply with any commands
+T52	Sign_or_Symptom 1992 2057	not possible to freely manipulate his extremities due to rigidity

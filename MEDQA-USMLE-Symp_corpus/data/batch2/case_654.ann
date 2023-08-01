@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	28-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 72 78	1-week
+T4	Sign_or_Symptom 98 117	unusually energetic
+T5	Sign_or_Symptom 144 160	state as “hyper”
+T6	Sign_or_Symptom 188 209	paces around her room
+T7	Sign_or_Symptom 243 256	has not slept
+T8	Temporal_Concept 283 308	2 months and 5 months ago
+T9	Sign_or_Symptom 266 282	similar episodes
+T10	Temporal_Concept 339 360	for the past 8 months
+T11	No_Finding_Occurence 693 704	Vital signs
+T12	No_Finding_Occurence 778 791	abnormalities
+T13	Sign_or_Symptom 827 846	speech is pressured
+T14	Sign_or_Symptom 856 930	suddenly stops talking in the middle of sentences and does not finish them
+T15	Sign_or_Symptom 949 1036	directs her attention to empty corners in the room, as if she were listening to someone
+T16	Temporal_Concept 936 948	occasionally
+T17	Sign_or_Symptom 374 448	has believed she is a famous singer and is going on a world tour next year
+T18	Sign_or_Symptom 582 604	started to hear voices
+T19	Temporal_Concept 559 571	6 months ago

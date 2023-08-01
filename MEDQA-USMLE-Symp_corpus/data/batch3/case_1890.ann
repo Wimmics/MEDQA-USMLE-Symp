@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	29-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 43 53	depression
+T4	Sign_or_Symptom 58 75	suicidal ideation
+T5	Temporal_Concept 87 93	5-year
+T7	Sign_or_Symptom 210 219	abandoned
+T8	Sign_or_Symptom 221 226	empty
+T9	Sign_or_Symptom 232 248	extremely upset.
+T10	Sign_or_Symptom 355 372	gets bored easily
+T6	No_Symptom_Occurence 432 483	changes in appetite, energy level, or concentration
+T11	Sign_or_Symptom 501 557	multiple linear lacerations of varying phases of healing
+T12	Location 576 584	forearms
+T13	Location 589 594	trunk

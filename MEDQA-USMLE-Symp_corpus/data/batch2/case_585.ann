@@ -1,0 +1,21 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 92 111	shortness of breath
+T4	Sign_or_Symptom 116 137	substernal chest pain
+T5	Sign_or_Symptom 151 183	pain is increased by inspiration
+T6	Temporal_Concept 57 91	12 hours after the sudden onset of
+T7	Sign_or_Symptom 203 222	nonproductive cough
+T8	Sign_or_Symptom 224 229	fever
+T9	Sign_or_Symptom 235 242	malaise
+T10	Temporal_Concept 243 262	for the past 5 days
+T11	Finding 308 337	temperature is 38°C (100.4°F)
+T12	Finding 339 355	pulse is 125/min
+T13	Finding 357 380	respirations are 32/min
+T14	Finding 386 415	blood pressure is 85/45 mm Hg
+T15	Sign_or_Symptom 444 464	distended neck veins
+T16	Sign_or_Symptom 530 550	muffled heart sounds
+T17	Sign_or_Symptom 502 525	bilateral basilar rales
+T18	Sign_or_Symptom 565 582	sinus tachycardia
+T19	Finding 584 612	diffuse ST segment elevation
+T20	Finding 614 639	low voltage QRS complexes
+T21	Finding 645 673	fluctuating R wave amplitude

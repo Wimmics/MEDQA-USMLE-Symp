@@ -1,0 +1,28 @@
+T1	No_Symptom_Occurence 344 351	dysuria
+T2	No_Symptom_Occurence 353 364	dyspareunia
+T3	No_Symptom_Occurence 369 378	dyschezia
+T4	Age_Group 2 13	43-year-old
+T5	Population_Group 14 19	woman
+T6	Sign_or_Symptom 59 67	spotting
+T7	Temporal_Concept 86 108	over the past 5 months
+T8	Sign_or_Symptom 121 144	intermenstrual bleeding
+T9	Sign_or_Symptom 229 243	heavy bleeding
+T10	Temporal_Concept 202 214	first 4 days
+T11	Temporal_Concept 176 192	more than a week
+T12	Sign_or_Symptom 164 170	menses
+T13	No_Symptom_Occurence 256 270	abdominal pain
+T14	Sign_or_Symptom 294 331	increasing “pressure-like" discomfort
+T15	Temporal_Concept 435 446	4 days long
+T16	Sign_or_Symptom 407 424	menstrual periods
+T17	Sign_or_Symptom 464 481	moderate bleeding
+T18	Temporal_Concept 380 401	Prior to 5 months ago
+T19	Temporal_Concept 510 523	every 28 days
+T20	Sign_or_Symptom 487 494	periods
+T21	No_Symptom_Occurence 814 843	sexually transmitted diseases
+T22	No_Symptom_Occurence 866 884	abnormal pap smear
+T23	Sign_or_Symptom 972 986	hypothyroidism
+T24	No_Symptom_Occurence 1044 1051	thyroid
+T25	Sign_or_Symptom 1129 1205	firm, mobile, enlarged, irregularly-shaped uterus without adnexal tenderness
+T26	Sign_or_Symptom 712 733	last menstrual period
+T27	Temporal_Concept 738 748	1 week ago
+T28	Finding 616 706	delivered 3 healthy children vaginally without complications, followed by a tubal ligation

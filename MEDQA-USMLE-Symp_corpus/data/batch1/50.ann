@@ -1,0 +1,32 @@
+T1	Location 160 169	right ear
+T2	Location 671 680	right ear
+T3	Location 827 835	left ear
+T6	Relevant_symptoms 137 152	itchy sensation
+T7	Relevant_symptoms 661 665	pain
+T8	No_Symptom_Occurence 489 504	serious illness
+T9	No_Finding_Occurence 531 542	Vital signs
+T10	No_Symptom_Occurence 210 222	hearing loss
+T18	No_Symptom_Occurence 845 858	abnormalities
+T19	Age_Group 2 13	23-year-old
+T20	Population_Group 14 19	woman
+T21	Population_Group 30 57	active-duty enlisted airman
+T13	Temporal_Concept 116 130	4-week history
+T11	No_Symptom_Occurence 187 194	ringing
+T22	Location 202 206	ears
+R1	Related Ent1:T11 Ent2:T22	
+T23	Population_Group 239 254	fuel specialist
+T5	No_Symptom_Occurence 518 529	medications
+T12	Location 604 615	right pinna
+T14	Location 642 651	ear canal
+R3	Related Ent1:T7 Ent2:T12	
+R4	Related Ent1:T7 Ent2:T14	
+T17	Relevant_symptoms 695 707	erythematous
+T24	Relevant_symptoms 712 721	edematous
+T25	Location 727 744	tympanic membrane
+T26	Relevant_symptoms 787 806	presence of cerumen
+R5	Related Ent1:T26 Ent2:T25	
+R6	Related Ent1:T18 Ent2:T3	
+R7	Related Ent1:T17 Ent2:T2	
+R8	Related Ent1:T24 Ent2:T2	
+R9	Related Ent1:T6 Ent2:T1	
+R10	Related Ent1:T6 Ent2:T13	

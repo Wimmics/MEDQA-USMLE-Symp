@@ -1,0 +1,11 @@
+T1	Age_Group 2 13	48-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 80 113	increasingly restless and anxious
+T4	Sign_or_Symptom 148 151	sad
+T5	Sign_or_Symptom 156 165	irritable
+T6	Temporal_Concept 166 187	for the past 4 months
+T7	Sign_or_Symptom 636 649	uncooperative
+T8	Sign_or_Symptom 654 664	dismissive
+T9	Sign_or_Symptom 672 688	mildly tremulous
+T10	No_Symptom_Occurence 716 722	normal
+T11	No_Symptom_Occurence 730 765	oriented to person, place, and time

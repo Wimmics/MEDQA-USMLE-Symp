@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	21-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 56 70	right arm pain
+T4	Sign_or_Symptom 75 98	limited range of motion
+T5	No_Finding_Occurence 120 126	trauma
+T6	Sign_or_Symptom 161 169	diarrhea
+T7	Sign_or_Symptom 174 180	nausea
+T8	Sign_or_Symptom 248 271	pain during intercourse
+T9	Sign_or_Symptom 282 323	vague and diffuse tenderness to palpation
+T10	Location 331 355	four abdominal quadrants
+T11	No_Symptom_Occurence 360 368	erythema
+T12	No_Symptom_Occurence 372 377	edema
+T13	Location 394 403	right arm
+T14	No_Finding_Occurence 409 426	fecal occult test
+T15	Sign_or_Symptom 525 541	similar symptoms
+T16	Temporal_Concept 503 519	in the past year

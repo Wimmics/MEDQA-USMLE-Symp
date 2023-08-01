@@ -1,0 +1,35 @@
+T1	Age_Group 21 32	35-year-old
+T2	Population_Group 33 50	primigravid woman
+T3	Finding 54 73	12 weeks' gestation
+T4	Sign_or_Symptom 110 115	fever
+T5	Sign_or_Symptom 117 136	persistent headache
+T6	Sign_or_Symptom 138 144	nausea
+T7	Sign_or_Symptom 150 170	abdominal discomfort
+T8	Temporal_Concept 171 181	for 1 week
+T9	Sign_or_Symptom 231 266	gums bleed while brushing her teeth
+T10	Finding 332 363	temperature is 39.3°C (102.8°F)
+T11	Finding 365 381	pulse is 104/min
+T12	Finding 383 406	respirations are 24/min
+T13	Finding 412 442	blood pressure is 135/88 mm Hg
+T14	Sign_or_Symptom 473 493	mild scleral icterus
+T15	Sign_or_Symptom 462 468	pallor
+T16	Sign_or_Symptom 521 530	petechiae
+T17	Location 540 545	trunk
+T18	Location 550 554	back
+T19	No_Symptom_Occurence 568 583	lymphadenopathy
+T20	No_Finding_Occurence 630 649	other abnormalities
+T21	Finding 673 697	occult blood is positive
+T22	Finding 724 743	Hemoglobin 8.2 g/dL
+T23	Finding 744 770	Leukocyte count 10,000/mm3
+T24	Finding 771 796	Platelet count 18,000/mm3
+T25	Finding 797 804	INR 1.0
+T26	No_Finding_Occurence 805 817	Coomb's test
+T27	No_Finding_Occurence 827 848	Fibrin split products
+T31	Finding 942 973	Alanine aminotransferase 20 U/L
+T32	Finding 974 1006	Aspartate aminotransferase 16 U/
+T33	Finding 1008 1037	Lactate dehydrogenase 900 U/L
+T34	Finding 1044 1054	Protein 1+
+T35	Finding 1055 1070	WBCs occasional
+T36	Finding 1071 1085	RBCs 50–60/hpf
+T37	No_Finding_Occurence 1086 1098	Bacteria nil
+T38	No_Finding_Occurence 1152 1176	Blood and urine cultures

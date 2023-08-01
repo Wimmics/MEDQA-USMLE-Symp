@@ -1,0 +1,29 @@
+T1	No_Symptom_Occurence 275 286	sore throat
+T2	Relevant_symptoms 178 182	pain
+T4	Sign_or_Symptom 208 225	painful red spots
+T7	Sign_or_Symptom 326 331	pains
+T8	Relevant_symptoms 54 73	shortness of breath
+T10	Relevant_symptoms 560 586	bilateral hilar adenopathy
+T11	Relevant_symptoms 142 160	difficulty walking
+T13	No_Finding_Occurence 517 530	abnormalities
+T14	Temporal_Concept 74 86	for 3 months
+T15	Age_Group 2 13	37-year-old
+T16	Population_Group 14 19	woman
+R1	Related Ent1:T8 Ent2:T14	
+T3	Location 172 177	ankle
+R2	Related Ent1:T2 Ent2:T3	
+T9	Temporal_Concept 184 198	Two months ago
+T5	Location 233 237	legs
+T17	Temporal_Concept 242 255	several weeks
+R3	Related Ent1:T4 Ent2:T9	
+R4	Related Ent1:T4 Ent2:T5	
+R5	Related Ent1:T4 Ent2:T17	
+T18	Finding 337 367	temperature is 37.4°C (99.3°F)
+T19	Finding 369 384	pulse is 90/min
+T20	Finding 386 409	respirations are 18/min
+T21	Finding 415 445	blood pressure is 140/90 mm Hg
+#1	AnnotatorNotes T8	dyspnea
+#2	AnnotatorNotes T10	Lymphadenopathy
+#3	AnnotatorNotes T11	Proximal muscle weakness
+#4	AnnotatorNotes T2	Proximal muscle weakness
+T6	Sign_or_Symptom 316 321	aches

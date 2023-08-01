@@ -1,0 +1,25 @@
+T1	Sign_or_Symptom 56 61	obese
+T2	Population_Group 74 79	woman
+T3	Age_Group 62 73	57-year-old
+T4	Sign_or_Symptom 84 89	fever
+T5	Sign_or_Symptom 91 97	chills
+T6	Sign_or_Symptom 105 113	headache
+T7	Sign_or_Symptom 123 175	right-sided chest pain that increases on inspiration
+T8	Sign_or_Symptom 190 206	productive cough
+T9	Temporal_Concept 207 228	for the last 12 hours
+T10	Sign_or_Symptom 252 263	hypotension
+T11	Temporal_Concept 241 251	episode of
+T12	Sign_or_Symptom 387 404	multiple fibroids
+T13	Location 412 418	uterus
+T14	Temporal_Concept 370 382	16 years ago
+T15	Sign_or_Symptom 490 503	uncomfortable
+T16	Finding 509 538	temperature is 39°C (102.2°F)
+T17	Finding 540 555	pulse is 98/min
+T18	Finding 557 580	respirations are 18/min
+T19	Finding 586 616	blood pressure is 128/82 mm Hg
+T20	Sign_or_Symptom 618 638	Inspiratory crackles
+T21	Location 656 671	right lung base
+T22	No_Symptom_Occurence 677 706	abdomen is soft and nontender
+T23	Location 745 768	below the right ribcage
+T24	Sign_or_Symptom 719 744	healing surgical incision
+T25	No_Finding_Occurence 812 825	abnormalities

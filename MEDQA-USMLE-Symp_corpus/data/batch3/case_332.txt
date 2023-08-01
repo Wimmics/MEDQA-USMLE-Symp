@@ -1,0 +1,16 @@
+A 48-year-old female presents to the emergency room with mental status changes.
+Laboratory analysis of the patient's serum shows:
+Na 122 mEq/L
+K 3.9 mEq/L
+HCO3 24 mEq/L
+BUN 21 mg/dL
+Cr 0.9 mg/dL
+Ca 8.5 mg/dL
+Glu 105 mg/dL
+
+Urinalysis shows:
+Osmolality 334 mOsm/kg
+Na 45 mEq/L
+Glu 0 mg/dL
+
+Which of the following is the most likely diagnosis?

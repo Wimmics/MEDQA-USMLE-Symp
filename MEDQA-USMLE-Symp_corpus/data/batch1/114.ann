@@ -1,0 +1,11 @@
+T2	Temporal_Concept 26 37	progressive
+T1	Age_Group 2 13	23-year-old
+T3	Population_Group 14 19	woman
+T4	Finding 38 113	increase in her serum β-human chorionic gonadotropin (β-hCG) concentrations
+T5	Temporal_Concept 114 130	during an 8-week
+R1	Related Ent1:T4 Ent2:T2	
+R2	Related Ent1:T4 Ent2:T5	
+T6	Relevant_symptoms 141 158	hydatidiform mole
+T7	Finding 179 220	β-hCG concentration continues to increase
+#1	AnnotatorNotes T7	 High maternal serum chorionic gonadotropin
+#2	AnnotatorNotes T4	 High maternal serum chorionic gonadotropin

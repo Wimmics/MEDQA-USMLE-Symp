@@ -1,0 +1,22 @@
+T1	Age_Group 2 12	2-year-old
+T2	Population_Group 13 17	girl
+T3	Sign_or_Symptom 57 77	abdominal distention
+T4	Sign_or_Symptom 82 91	twitching
+T5	Location 99 103	feet
+T6	Temporal_Concept 132 140	week ago
+T7	Sign_or_Symptom 169 184	low-grade fever
+T8	Temporal_Concept 185 195	for 5 days
+T10	Temporal_Concept 230 239	in 3 days
+T11	Finding 304 330	40th percentile for height
+T12	Finding 335 361	20th percentile for weight
+T9	Sign_or_Symptom 205 229	not had a bowel movement
+T13	Finding 367 398	temperature is 38.1°C (100.6°F)
+T14	Finding 400 416	pulse is 128/min
+T15	Finding 422 452	blood pressure is 135/82 mm Hg
+T16	Sign_or_Symptom 475 498	irregular palpable mass
+T17	Location 516 538	midline of the abdomen
+T18	Finding 544 596	liver is palpated 3 cm below the right costal margin
+T19	Sign_or_Symptom 608 625	erratic movements
+T20	Location 633 637	eyes
+T21	Finding 672 731	elevated homovanillic acid and vanillylmandelic acid levels
+T22	Temporal_Concept 641 648	24-hour

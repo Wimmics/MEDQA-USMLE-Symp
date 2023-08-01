@@ -1,0 +1,30 @@
+T1	Sign_or_Symptom 449 459	tenderness
+T2	Location 87 96	abdominal
+T3	Sign_or_Symptom 106 112	nausea
+T4	Relevant_symptoms 97 101	pain
+T5	Sign_or_Symptom 468 487	guarding or rebound
+T7	Relevant_symptoms 137 155	decreased appetite
+T8	Finding 619 634	Ketones present
+T9	Finding 635 656	Urine ketones present
+T11	Age_Group 21 32	18-year-old
+T12	Sign_or_Symptom 13 20	healthy
+T13	Temporal_Concept 2 12	previously
+R1	Related Ent1:T12 Ent2:T13	
+R2	Related Ent1:T4 Ent2:T2	
+T6	Temporal_Concept 113 124	for 6 hours
+R3	Related Ent1:T3 Ent2:T6	
+R4	Related Ent1:T4 Ent2:T6	
+T14	Temporal_Concept 156 173	for the past week
+R5	Related Ent1:T7 Ent2:T14	
+T15	Sign_or_Symptom 203 232	drinks one to two beers daily
+T16	Finding 303 332	temperature is 37.8°C (100°F)
+T17	Finding 334 350	pulse is 120/min
+T18	Finding 352 375	respirations are 24/min
+T19	Finding 381 411	blood pressure is 105/60 mm Hg
+T20	Finding 413 434	Abdominal examination
+T21	Finding 539 558	Serum Na+ 135 mEq/L
+T22	Finding 559 571	Cl− 98 mEq/L
+T23	Finding 572 584	K+ 3.8 mEq/L
+T24	Finding 585 600	HCO3 − 16 mEq/L
+T25	Finding 601 618	Glucose 360 mg/dL
+T26	Finding 657 715	Arterial blood gas analysis on room air shows a pH of 7.30

@@ -1,0 +1,41 @@
+T1	Age_Group 2 13	16-year-old
+T2	Population_Group 14 20	female
+T3	Sign_or_Symptom 67 87	lack of menstruation
+T4	Sign_or_Symptom 254 266	growth spurt
+T5	Temporal_Concept 236 238	13
+T6	Sign_or_Symptom 346 355	headaches
+T7	Temporal_Concept 356 391	every few months over the last year
+T8	Sign_or_Symptom 402 418	photosensitivity
+T9	Sign_or_Symptom 423 429	nausea
+T10	Population_Group 554 560	mother
+T11	Sign_or_Symptom 578 596	migraine headaches
+T12	Sign_or_Symptom 636 652	bipolar disorder
+T13	Population_Group 606 618	older sister
+T14	Sign_or_Symptom 198 222	breasts began developing
+T15	Finding 718 748	temperature is 98.6°F (37.0°C)
+T16	Finding 750 765	pulse is 70/min
+T17	Finding 767 796	blood pressure is 118/65 mmHg
+T18	Finding 802 825	respirations are 13/min
+T19	Finding 831 861	body mass index is 23.8 kg/m^2
+T20	No_Finding_Occurence 903 915	unremarkable
+T21	Finding 917 973	Both breasts are Tanner IV with no expressable discharge
+T22	Finding 975 1024	Pelvic and axillary hair growth is also Tanner IV
+T23	No_Finding_Occurence 1134 1146	unremarkable
+T24	Finding 1202 1216	Na+: 139 mEq/L
+T25	Finding 1217 1230	K+: 4.1 mEq/L
+T26	Finding 1231 1245	Cl-: 100 mEq/L
+T27	Finding 1246 1261	HCO3-: 24 mEq/L
+T28	Finding 1262 1285	Urea nitrogen: 12 mg/dL
+T29	Finding 1286 1303	Glucose: 73 mg/dL
+T30	Finding 1304 1325	Creatinine: 0.9 mg/dL
+T31	Finding 1326 1341	Ca2+: 9.7 mg/dL
+T32	Finding 1342 1357	Mg2+: 1.7 mEq/L
+T33	Finding 1358 1369	AST: 11 U/L
+T34	Finding 1370 1381	ALT: 11 U/L
+T35	Finding 1382 1447	Follicle Stimulating Hormone (FSH): 16.2 mIU/mL (4.7-21.5 mIU/ml)
+T36	Finding 1448 1482	Estrogen: 240 pg/mL (64-357 pg/mL)
+T38	Sign_or_Symptom 669 677	menarche
+T39	Temporal_Concept 681 687	age 15
+T40	No_Symptom_Occurence 1530 1536	normal
+T37	Location 1537 1543	uterus
+T41	Location 1548 1555	ovaries

@@ -1,0 +1,15 @@
+T1	Age_Group 2 13	36-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 55 94	ubacute worsening of chronic chest pain
+T4	Sign_or_Symptom 99 132	shortness of breath with exertion
+T5	No_Symptom_Occurence 149 166	generally healthy
+T6	Finding 217 247	temperature is 97.8°F (36.6°C)
+T7	Finding 249 279	blood pressure is 122/83 mm Hg
+T8	Finding 281 296	pulse is 80/min
+T9	Finding 298 321	respirations are 13/min
+T10	Finding 327 351	oxygen saturation is 98%
+T11	Sign_or_Symptom 396 424	crescendo-decrescendo murmur
+T12	Location 431 496	right of the upper sternal border with radiation into the carotid
+T13	Sign_or_Symptom 512 531	left axis deviation
+T14	Finding 588 620	initial troponin is < 0.01 ng/mL
+T15	Sign_or_Symptom 555 583	left ventricular hypertrophy

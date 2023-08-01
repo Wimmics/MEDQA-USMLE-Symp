@@ -1,0 +1,38 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 57 66	dry mouth
+T4	Temporal_Concept 67 90	for the past few months
+T5	Sign_or_Symptom 148 189	difficult to chew and swallow solid foods
+T6	Sign_or_Symptom 247 261	intense thirst
+T7	Sign_or_Symptom 287 309	foreign body sensation
+T8	Location 313 326	both the eyes
+T9	Temporal_Concept 327 345	for the past month
+T10	No_Symptom_Occurence 362 372	joint pain
+T11	No_Symptom_Occurence 374 379	fever
+T12	No_Symptom_Occurence 381 392	weight loss
+T13	No_Symptom_Occurence 397 421	urinary or bowel changes
+T14	Finding 612 640	temperature is 36.7°C (98°F)
+T15	Finding 642 672	blood pressure is 130/75 mm Hg
+T16	Finding 674 689	pulse is 80/min
+T17	Finding 691 714	respirations are 14/min
+T18	Finding 720 735	BMI is 28 kg/m2
+T19	Sign_or_Symptom 757 788	eyes and oral cavity appear dry
+T20	Sign_or_Symptom 794 807	dental caries
+T21	No_Symptom_Occurence 824 839	lymphadenopathy
+T22	No_Finding_Occurence 850 892	Cardiopulmonary and abdominal examinations
+T23	Finding 965 983	Hemoglobin 10 g/dL
+T24	Finding 984 1007	Leukocytes   13,500/mm3
+T25	Finding 1008 1029	Platelets 170,000/mm3
+T26	Finding 1030 1042	ESR 65 mm/hr
+T27	Finding 1046 1066	Antinuclear antibody
+T28	Finding 1076 1093	Rheumatoid factor
+T29	No_Finding_Occurence 1103 1113	Anti dsDNA
+T30	Finding 1123 1130	Anti Ro
+T31	No_Finding_Occurence 1140 1148	Anti-CCP
+T32	No_Finding_Occurence 1158 1167	Anti Jo 1
+T33	Temporal_Concept 210 230	3–5 times each night
+T34	Population_Group 486 492	mother
+T35	Sign_or_Symptom 497 517	rheumatoid arthritis
+T36	Population_Group 560 566	father
+T37	Sign_or_Symptom 575 594	prostatic carcinoma
+T38	Location 595 606	7 years ago

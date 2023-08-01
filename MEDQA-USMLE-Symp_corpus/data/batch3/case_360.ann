@@ -1,0 +1,10 @@
+T1	Population_Group 2 9	newborn
+T2	Finding 10 39	born at 33 weeks of gestation
+T3	Finding 46 72	respiratory rate of 70/min
+T4	Finding 79 100	heart rate of 148/min
+T5	Temporal_Concept 101 120	2 hours after birth
+T6	Sign_or_Symptom 128 136	grunting
+T7	Sign_or_Symptom 145 182	intercostal and subcostal retractions
+T8	Sign_or_Symptom 191 210	peripheral cyanosis
+T9	Sign_or_Symptom 273 328	fine reticular granulation with ground glass appearance
+T10	Location 332 342	both lungs

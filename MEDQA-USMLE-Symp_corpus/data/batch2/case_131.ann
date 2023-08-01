@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	60-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 100 112	splenomegaly
+T4	Sign_or_Symptom 231 238	fatigue
+T5	Temporal_Concept 239 257	for several months
+T6	No_Symptom_Occurence 282 297	serious illness
+T7	Finding 355 383	temperature is 36.7℃ (98.1℉)
+T8	Finding 385 396	pulse is 68
+T9	Finding 398 421	respirations are 12/min
+T10	Finding 427 457	blood pressure is 125/70 mm Hg
+T11	Finding 488 531	spleen size on percussion is 16 cm (6.2 in)
+T12	No_Finding_Occurence 578 591	abnormalities
+T13	Finding 637 655	Hemoglobin 10 g/dL
+T14	Finding 656 686	Mean corpuscular volume 90 μm3
+T15	Finding 687 713	Leukocyte count 80,000/mm3
+T16	Finding 714 740	Platelet count 450,000/mm3
+T17	Finding 812 880	presence of band cells, myelocytes, promyelocytes, and blasts (< 5%)
+T18	Finding 745 803	peripheral blood smear shows a predominance of neutrophils
+T19	Finding 886 917	cytogenetic study shows t(9;22)

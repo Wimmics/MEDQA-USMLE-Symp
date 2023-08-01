@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 54 60	6-week
+T4	Sign_or_Symptom 72 85	tingling pain
+T5	Location 93 115	sole of his right foot
+T6	Temporal_Concept 218 230	2 months ago
+T7	Sign_or_Symptom 244 311	right calf cramps when he uses the incline feature on the treadmill
+T8	Temporal_Concept 424 430	8-year
+T9	Sign_or_Symptom 442 466	type 2 diabetes mellitus
+T10	Finding 564 579	pulse is 82/min
+T11	Finding 585 615	blood pressure is 170/92 mm Hg
+T12	Sign_or_Symptom 649 655	pallor
+T13	Sign_or_Symptom 660 673	tingling pain
+T14	Location 681 691	right foot
+T15	No_Symptom_Occurence 705 709	pain
+T16	Location 717 721	back
+T17	No_Symptom_Occurence 727 742	muscle strength
+T18	No_Symptom_Occurence 754 768	Femoral pulses
+T19	Sign_or_Symptom 783 812	right pedal pulses are absent

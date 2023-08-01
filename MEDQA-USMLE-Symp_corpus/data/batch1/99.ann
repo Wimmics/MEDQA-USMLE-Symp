@@ -1,0 +1,46 @@
+T1	Relevant_symptoms 81 101	pleuritic chest pain
+T2	Location 208 222	thoracic spine
+T3	Sign_or_Symptom 450 460	tenderness
+T4	Sign_or_Symptom 52 57	fever
+T5	Relevant_symptoms 196 200	pain
+T6	Sign_or_Symptom 59 75	productive cough
+T7	Relevant_symptoms 735 745	osteopenia
+T9	Sign_or_Symptom 655 668	consolidation
+T10	Sign_or_Symptom 387 410	decreased breath sounds
+T11	Relevant_symptoms 360 382	dullness to percussion
+T12	Sign_or_Symptom 694 707	lytic lesions
+T14	Temporal_Concept 113 134	Over the past 2 years
+T15	Age_Group 2 13	70-year-old
+T16	Population_Group 14 17	man
+T17	Temporal_Concept 102 111	for 1 day
+T18	Temporal_Concept 147 167	two similar episodes
+R2	Related Ent1:T1 Ent2:T17	
+R3	Related Ent1:T6 Ent2:T17	
+R4	Related Ent1:T4 Ent2:T17	
+T19	Temporal_Concept 223 234	for 1 month
+T20	Finding 240 271	temperature is 39.2°C (102.6°F)
+T21	Finding 273 288	pulse is 94/min
+T22	Finding 290 313	respirations are 22/min
+T23	Finding 319 349	blood pressure is 110/60 mm Hg
+T24	Location 411 430	over the right base
+R5	Related Ent1:T10 Ent2:T24	
+R6	Related Ent1:T5 Ent2:T2	
+R7	Related Ent1:T5 Ent2:T19	
+T25	Location 468 485	midthoracic spine
+R8	Related Ent1:T3 Ent2:T25	
+T26	Finding 512 526	Hematocrit 34%
+T27	Finding 527 553	Leukocyte count 15,000/mm3
+T28	Finding 554 579	Segmented neutrophils 81%
+T29	Finding 580 588	Bands 4%
+T30	Finding 589 604	Lymphocytes 15%
+T31	Finding 605 629	Serum calcium 10.9 mg/dL
+T32	Location 676 692	right lower lobe
+R9	Related Ent1:T9 Ent2:T32	
+T33	Location 711 713	T8
+T34	Location 718 721	T10
+R10	Related Ent1:T12 Ent2:T33	
+R11	Related Ent1:T12 Ent2:T34	
+#1	AnnotatorNotes T7	Osteopenia
+#2	AnnotatorNotes T1	Bone pain
+#3	AnnotatorNotes T5	Bone pain
+#4	AnnotatorNotes T11	Paresthesia

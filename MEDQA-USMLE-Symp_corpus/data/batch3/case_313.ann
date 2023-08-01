@@ -1,0 +1,36 @@
+T1	Age_Group 2 13	32-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 79 86	2-month
+T4	Sign_or_Symptom 109 128	generalized fatigue
+T5	Sign_or_Symptom 133 148	severe pruritus
+T6	Sign_or_Symptom 157 169	hypertension
+T7	Sign_or_Symptom 174 192	ulcerative colitis
+T8	Temporal_Concept 229 240	5 years ago
+T9	Finding 386 416	temperature is 37.3°C (99.1°F)
+T10	Finding 418 433	pulse is 86/min
+T11	Finding 439 469	blood pressure is 130/84 mm Hg
+T12	Sign_or_Symptom 489 504	scleral icterus
+T13	Sign_or_Symptom 518 531	scratch marks
+T14	Location 539 544	trunk
+T15	Location 549 560	extremities
+T16	No_Finding_Occurence 585 597	auscultation
+T17	Location 566 571	lungs
+T18	No_Symptom_Occurence 614 632	soft and nontender
+T19	Location 603 610	abdomen
+T20	No_Finding_Occurence 676 689	abnormalities
+T21	Finding 716 736	Hemoglobin 11.5 g/dL
+T22	Finding 737 761	Leukocyte count 7500/mm3
+T23	Finding 762 788	Platelet count 280,000/mm3
+T24	Finding 795 808	Na+ 138 mEq/L
+T25	Finding 809 822	Cl- 101 mEq/L
+T26	Finding 823 835	K+ 4.7 mEq/L
+T27	Finding 836 858	Urea nitrogen 18 mg/dL
+T28	Finding 859 875	Glucose 91 mg/dL
+T29	Finding 876 896	Creatinine 0.8 mg/dL
+T30	Finding 940 968	Alkaline phosphatase 460 U/L
+T31	Finding 969 979	AST 75 U/L
+T32	Finding 980 990	ALT 78 U/L
+T33	No_Finding_Occurence 991 1012	Anti-nuclear antibody
+T34	No_Finding_Occurence 1022 1050	Antimitochondrial antibodies
+T35	Sign_or_Symptom 1087 1115	thickening of the bile ducts
+T36	Sign_or_Symptom 1120 1146	focal bile duct dilatation

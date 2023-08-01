@@ -1,0 +1,9 @@
+T1	Age_Group 2 13	69-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 61 77	trouble sleeping
+T4	Sign_or_Symptom 277 297	unable to stay awake
+T5	Temporal_Concept 298 322	past 6 pm in the evening
+T6	Sign_or_Symptom 712 736	irritable bowel syndrome
+T7	No_Symptom_Occurence 597 613	sleep peacefully
+T8	No_Symptom_Occurence 641 668	feels rested when he awakes
+T9	No_Finding_Occurence 820 833	normal limits

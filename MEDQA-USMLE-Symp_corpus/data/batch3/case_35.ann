@@ -1,0 +1,10 @@
+T1	Age_Group 2 13	35-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 56 63	1-month
+T4	Sign_or_Symptom 75 88	double vision
+T5	Sign_or_Symptom 90 116	difficulty climbing stairs
+T6	Sign_or_Symptom 122 160	weakness when trying to brush her hair
+T7	Sign_or_Symptom 298 408	drooping of her right upper eyelid that worsens when the patient is asked to gaze at the ceiling for 2 minutes
+T8	Sign_or_Symptom 419 444	diminished motor strength
+T9	Location 452 469	upper extremities
+T10	No_Finding_Occurence 513 526	abnormalities

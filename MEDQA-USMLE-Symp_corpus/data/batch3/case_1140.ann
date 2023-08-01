@@ -1,0 +1,23 @@
+T1	Finding 29 47	1100-g (2-lb 7-oz)
+T2	Population_Group 48 55	newborn
+T3	Temporal_Concept 0 25	Three days after delivery
+T4	Sign_or_Symptom 62 75	tonic seizure
+T5	Temporal_Concept 87 101	for 25 seconds
+T6	Sign_or_Symptom 118 140	increasingly lethargic
+T7	Temporal_Concept 141 163	over the past 18 hours
+T8	Population_Group 165 168	She
+T9	Finding 173 200	born at 31 weeks' gestation
+T10	Sign_or_Symptom 238 254	chorioamnionitis
+T11	Finding 256 314	Apgar scores were 3 and 6 at 1 and 5 minutes, respectively
+T12	Sign_or_Symptom 328 331	ill
+T13	Finding 337 353	pulse is 123/min
+T14	Finding 355 392	respirations are 50/min and irregular
+T15	Finding 398 427	blood pressure is 60/30 mm Hg
+T16	Sign_or_Symptom 449 474	tense anterior fontanelle
+T17	Sign_or_Symptom 480 526	pupils are equal and react sluggishly to light
+T18	Sign_or_Symptom 546 586	slow, conjugate back and forth movements
+T19	Location 594 598	eyes
+T20	Sign_or_Symptom 600 624	Muscle tone is decreased
+T21	Location 632 643	extremities
+T22	No_Finding_Occurence 668 680	auscultation
+T23	Location 649 654	lungs

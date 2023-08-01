@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	33-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 62 70	weakness
+T4	Sign_or_Symptom 150 177	can hardly care for herself
+T5	Temporal_Concept 88 109	at the end of the day
+T6	Sign_or_Symptom 136 140	weak
+T7	Sign_or_Symptom 123 131	fatigued
+T8	Sign_or_Symptom 229 247	multiple illnesses
+T9	Temporal_Concept 248 256	recently
+T10	Finding 306 336	temperature is 98.0°F (36.7°C)
+T11	Finding 338 367	blood pressure is 124/84 mmHg
+T12	Finding 369 384	pulse is 82/min
+T13	Finding 386 409	respirations are 12/min
+T14	Finding 415 439	oxygen saturation is 98%
+T15	Finding 482 494	2/5 strength
+T16	Location 502 519	upper extremities
+T17	Finding 524 536	4/5 strength
+T18	Location 544 561	lower extremities
+T19	Sign_or_Symptom 590 603	mild diplopia

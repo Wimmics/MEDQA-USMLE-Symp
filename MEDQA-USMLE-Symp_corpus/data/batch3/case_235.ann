@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 116 132	bilious vomiting
+T2	Population_Group 66 72	infant
+T3	Sign_or_Symptom 172 192	abdomen is distended
+T4	Sign_or_Symptom 250 292	absence of Meissner’s and Auerbach’s plexi
+T5	Location 300 310	bowel wall
+T6	Sign_or_Symptom 140 163	unable to pass meconium
+T7	Location 219 233	proximal colon

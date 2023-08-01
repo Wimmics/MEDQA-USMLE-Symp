@@ -1,0 +1,21 @@
+T1	Age_Group 2 13	47-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 64 68	rash
+T4	Temporal_Concept 97 107	last night
+T5	Sign_or_Symptom 346 355	arthritis
+T6	Sign_or_Symptom 372 377	cough
+T7	Location 362 371	new onset
+T8	Finding 383 413	temperature is 99.5°F (37.5°C)
+T9	Finding 415 444	blood pressure is 127/68 mmHg
+T10	Finding 446 462	pulse is 125/min
+T11	Finding 464 487	respirations are 18/min
+T12	Finding 493 517	oxygen saturation is 98%
+T13	Sign_or_Symptom 576 607	coalescing erythematous macules
+T14	Sign_or_Symptom 609 615	bullae
+T15	Sign_or_Symptom 617 629	desquamation
+T16	Sign_or_Symptom 635 644	mucositis
+T17	Location 657 679	upper half of his back
+T18	No_Finding_Occurence 732 745	normal limits
+T19	Sign_or_Symptom 794 800	ulcers
+T20	Sign_or_Symptom 805 813	erythema
+T21	Location 775 785	oropharynx

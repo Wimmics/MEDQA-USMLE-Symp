@@ -1,0 +1,11 @@
+T1	Age_Group 2 13	17-year-old
+T2	Population_Group 14 18	girl
+T3	Sign_or_Symptom 94 98	pain
+T4	Location 83 93	right knee
+T5	Temporal_Concept 134 151	about a month ago
+T6	Sign_or_Symptom 569 582	tonsillectomy
+T7	No_Symptom_Occurence 531 557	chronic medical conditions
+T8	Sign_or_Symptom 697 707	tenderness
+T9	Location 715 743	inferior pole of the patella
+T10	No_Symptom_Occurence 753 787	swelling or overlying skin changes
+T11	Temporal_Concept 182 201	progressively worse

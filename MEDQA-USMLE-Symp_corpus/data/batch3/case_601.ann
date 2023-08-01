@@ -1,0 +1,23 @@
+T1	Age_Group 2 13	59-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 56 63	1-month
+T4	Temporal_Concept 75 83	episodic
+T5	Sign_or_Symptom 84 89	cough
+T6	Sign_or_Symptom 94 113	shortness of breath
+T7	Sign_or_Symptom 119 141	cough is nonproductive
+T8	No_Symptom_Occurence 215 225	chest pain
+T9	No_Symptom_Occurence 229 241	palpitations
+T10	Temporal_Concept 243 258	Eight weeks ago
+T11	Sign_or_Symptom 268 273	fever
+T12	Sign_or_Symptom 275 286	sore throat
+T13	Sign_or_Symptom 292 308	nasal congestion
+T14	Sign_or_Symptom 339 351	hypertension
+T15	Temporal_Concept 320 327	10-year
+T16	Finding 452 467	pulse is 78/min
+T17	Finding 469 492	respirations are 18/min
+T18	Finding 498 528	blood pressure is 145/95 mm Hg
+T19	Finding 566 590	oxygen saturation of 96%
+T20	Sign_or_Symptom 592 622	Diffuse end-expiratory wheezes
+T21	Location 636 645	pulmonary
+T22	No_Finding_Occurence 691 704	abnormalities
+T23	Finding 706 766	Spirometry shows an FEV1:FVC ratio of 65% and an FEV1 of 60%

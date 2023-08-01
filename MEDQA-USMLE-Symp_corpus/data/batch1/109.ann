@@ -1,0 +1,35 @@
+T1	Sign_or_Symptom 109 128	dyspnea on exertion
+T2	Relevant_symptoms 54 61	fatigue
+T3	Sign_or_Symptom 199 212	Crohn disease
+T5	Finding 458 504	Test of the stool for occult blood is negative
+T7	Finding 605 631	Platelet count 500,000/mm3
+T8	Temporal_Concept 183 194	5 years ago
+T10	No_Finding_Occurence 443 456	abnormalities
+T6	Age_Group 2 13	32-year-old
+T11	Population_Group 14 19	woman
+T12	Temporal_Concept 62 74	for 6 months
+T13	Temporal_Concept 129 140	for 6 weeks
+T9	Temporal_Concept 88 101	progressively
+R1	Related Ent1:T1 Ent2:T13	
+R2	Related Ent1:T1 Ent2:T9	
+R3	Related Ent1:T2 Ent2:T12	
+R5	Related Ent1:T3 Ent2:T8	
+T16	Finding 253 281	temperature is 37°C (98.6°F)
+T17	Finding 283 298	pulse is 62/min
+T18	Finding 300 323	respirations are 18/min
+T19	Finding 329 359	blood pressure is 110/65 mm Hg
+T4	Finding 531 548	Hemoglobin 8 g/dL
+T20	Finding 549 579	Mean corpuscular volume 70 μm3
+T21	Finding 580 604	Leukocyte count 9000/mm3
+T22	Location 380 393	thyroid gland
+T23	Location 395 400	lungs
+T24	Location 402 407	heart
+T25	Location 409 416	abdomen
+T26	Location 422 433	extremities
+R6	Related Ent1:T10 Ent2:T26	
+R7	Related Ent1:T10 Ent2:T25	
+R8	Related Ent1:T10 Ent2:T24	
+R9	Related Ent1:T10 Ent2:T23	
+R10	Related Ent1:T10 Ent2:T22	
+#1	AnnotatorNotes T1	Dyspnea
+#2	AnnotatorNotes T2	Fatigue

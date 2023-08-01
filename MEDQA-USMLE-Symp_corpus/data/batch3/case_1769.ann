@@ -1,0 +1,21 @@
+T1	Age_Group 2 11	4-day-old
+T2	Population_Group 12 19	newborn
+T3	Sign_or_Symptom 61 77	generalized rash
+T4	Temporal_Concept 78 87	for 1 day
+T5	Sign_or_Symptom 163 172	gonorrhea
+T6	Population_Group 114 120	mother
+T7	Temporal_Concept 192 203	4 years ago
+T8	Population_Group 209 216	newborn
+T9	Finding 227 265	50th percentile for head circumference
+T10	Finding 267 293	60th percentile for length
+T11	Finding 299 325	55th percentile for weight
+T12	Finding 331 361	temperature is 36.8°C (98.2°F)
+T13	Finding 363 379	pulse is 152/min
+T14	Finding 385 408	respirations are 51/min
+T15	Sign_or_Symptom 431 462	erythematous maculopapular rash
+T16	Sign_or_Symptom 467 501	pustules with an erythematous base
+T17	Location 511 516	trunk
+T18	Location 521 532	extremities
+T19	Location 546 551	palms
+T20	Location 556 561	soles
+T21	No_Finding_Occurence 605 618	abnormalities

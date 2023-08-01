@@ -1,0 +1,12 @@
+T1	Age_Group 24 35	62-year-old
+T2	Population_Group 36 39	man
+T3	Finding 66 84	fecal occult blood
+T4	No_Symptom_Occurence 98 110	asymptomatic
+T5	Population_Group 120 126	father
+T6	Sign_or_Symptom 135 158	large intestinal cancer
+T7	No_Finding_Occurence 191 197	normal
+T8	Sign_or_Symptom 236 241	polyp
+T9	Location 249 265	descending colon
+T10	No_Finding_Occurence 273 292	other abnormalities
+T11	Finding 331 355	75% tubular architecture
+T12	Location 319 324	polyp

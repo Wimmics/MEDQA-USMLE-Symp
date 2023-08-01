@@ -1,0 +1,25 @@
+T3	Relevant_symptoms 226 239	easy bruising
+T4	Temporal_Concept 74 89	2-month history
+T6	Finding 494 520	Platelet count 234,000/mm3
+T7	Relevant_symptoms 166 221	excessive periodontal bleeding while brushing her teeth
+T10	Age_Group 2 13	14-year-old
+T11	Population_Group 14 18	girl
+T8	Relevant_symptoms 93 140	heavy vaginal bleeding during menstrual periods
+R1	Related Ent1:T8 Ent2:T4	
+T1	Temporal_Concept 240 251	for 6 years
+T12	Relevant_symptoms 280 322	extended bleeding after a tooth extraction
+T13	Temporal_Concept 323 334	4 years ago
+R2	Related Ent1:T12 Ent2:T13	
+R3	Related Ent1:T3 Ent2:T1	
+R4	Related Ent1:T7 Ent2:T1	
+T2	Relevant_symptoms 413 430	patchy ecchymoses
+T9	Location 440 467	upper and lower extremities
+T14	Finding 521 541	Bleeding time 17 min
+T15	Finding 542 573	Prothrombin time 12 sec (INR=1)
+T16	Finding 574 608	Partial thromboplastin time 46 sec
+R5	Related Ent1:T2 Ent2:T9	
+#1	AnnotatorNotes T8	Menorrhagia
+#2	AnnotatorNotes T3	Bruising susceptibility
+#3	AnnotatorNotes T2	Subcutaneous hemorrhage
+#4	AnnotatorNotes T12	Persistent bleeding after trauma
+#5	AnnotatorNotes T7	Persistent bleeding after trauma

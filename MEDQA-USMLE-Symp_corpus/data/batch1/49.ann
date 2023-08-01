@@ -1,0 +1,15 @@
+T1	Relevant_symptoms 30 50	painful weeping rash
+T5	No_Finding_Occurence 245 258	abnormalities
+T6	Age_Group 2 13	56-year-old
+T7	Population_Group 14 17	man
+T2	Temporal_Concept 57 67	for 2 days
+R1	Related Ent1:T1 Ent2:T2	
+T3	Sign_or_Symptom 82 94	chemotherapy
+T8	Sign_or_Symptom 99 118	nonHodgkin lymphoma
+T9	Temporal_Concept 119 129	1 year ago
+R2	Related Ent1:T3 Ent2:T9	
+R3	Related Ent1:T8 Ent2:T9	
+T10	Finding 135 163	temperature is 36.7°C (98°F)
+T11	Finding 165 180	pulse is 80/min
+T12	Finding 186 216	blood pressure is 138/76 mm Hg
+T4	Finding 218 229	Examination

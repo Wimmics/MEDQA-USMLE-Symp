@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	26-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 34 46	sudden-onset
+T4	Sign_or_Symptom 47 51	pain
+T5	Location 59 69	lower back
+T6	Sign_or_Symptom 144 154	sharp pain
+T7	Temporal_Concept 110 127	several hours ago
+T8	Location 168 220	radiating down the side of her leg and into her foot
+T9	Finding 272 277	HR 95
+T10	Finding 279 288	BP 120/70
+T11	Finding 290 306	T 37.2 degrees C
+T12	Sign_or_Symptom 316 376	extreme pain shooting down her leg with a straight leg raise
+T13	Sign_or_Symptom 382 441	sensation to light touch and pin-prick is intact throughout

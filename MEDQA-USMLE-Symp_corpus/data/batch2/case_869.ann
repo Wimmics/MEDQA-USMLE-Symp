@@ -1,0 +1,11 @@
+T1	Age_Group 2 12	6-year-old
+T2	Population_Group 13 17	girl
+T3	No_Symptom_Occurence 98 113	serious illness
+T4	Finding 119 147	temperature is 37°C (98.6°F)
+T5	Finding 149 164	pulse is 95/min
+T6	Finding 170 199	blood pressure is 96/52 mm Hg
+T7	Sign_or_Symptom 221 255	2/6 continuous, low-pitched murmur
+T8	Location 265 290	left upper sternal border
+T9	Location 317 321	neck
+T10	Sign_or_Symptom 327 369	murmur disappears when she flexes her neck
+T11	No_Finding_Occurence 413 426	abnormalities

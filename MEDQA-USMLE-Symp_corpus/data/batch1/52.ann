@@ -1,0 +1,21 @@
+T1	Sign_or_Symptom 94 106	burning pain
+T2	Sign_or_Symptom 212 220	cramping
+T3	Sign_or_Symptom 56 80	type 2 diabetes mellitus
+T7	Temporal_Concept 0 11	For 8 weeks
+T8	Age_Group 15 26	52-year-old
+T9	Population_Group 27 30	man
+T10	Temporal_Concept 38 52	5-year history
+R1	Related Ent1:T3 Ent2:T10	
+T4	Location 114 136	ball of his right foot
+R2	Related Ent1:T1 Ent2:T4	
+T11	Location 141 148	big toe
+R3	Related Ent1:T1 Ent2:T11	
+T12	Location 228 238	right calf
+R4	Related Ent1:T2 Ent2:T12	
+T13	Finding 247 270	walks more than 50 feet
+T6	Sign_or_Symptom 154 198	the foot is raised above chest concentration
+T14	Finding 279 315	smoked two packs of cigarettes daily
+T15	Temporal_Concept 316 328	for 30 years
+R5	Related Ent1:T14 Ent2:T15	
+T16	Sign_or_Symptom 330 344	Femoral pulses
+T17	No_Symptom_Occurence 359 371	pedal pulses

@@ -1,0 +1,14 @@
+T1	Age_Group 2 13	72-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 36 58	chronic kidney disease
+T4	Sign_or_Symptom 123 133	chest pain
+T5	Temporal_Concept 113 122	recurrent
+T6	Finding 357 387	temperature is 98.2°F (36.8°C)
+T7	Finding 389 419	blood pressure is 157/98 mm Hg
+T8	Finding 421 436	pulse is 80/min
+T9	Finding 438 461	respirations are 15/min
+T10	Finding 467 491	oxygen saturation is 98%
+T11	No_Symptom_Occurence 560 568	distress
+T12	Sign_or_Symptom 537 542	obese
+T13	No_Finding_Occurence 573 584	initial ECG
+T14	Finding 633 661	first troponin is 0.06 ng/mL

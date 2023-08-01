@@ -1,0 +1,31 @@
+T1	Age_Group 2 13	40-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 66 73	5-month
+T4	Sign_or_Symptom 85 113	worsening bladder discomfort
+T5	Sign_or_Symptom 145 152	voiding
+T6	Temporal_Concept 164 183	10–15 times per day
+T7	Temporal_Concept 197 216	2–3 times per night
+T8	No_Symptom_Occurence 246 271	involuntary loss of urine
+T9	Temporal_Concept 378 382	past
+T10	Sign_or_Symptom 418 434	bipolar disorder
+T11	Sign_or_Symptom 493 532	intercourse has recently become painful
+T12	Finding 575 603	temperature is 37°C (98.6°F)
+T13	Finding 605 620	pulse is 65/min
+T14	Finding 626 656	blood pressure is 110/80 mm Hg
+T15	Sign_or_Symptom 676 699	tenderness to palpation
+T16	Location 707 724	suprapubic region
+T17	Finding 756 762	pH 6.7
+T18	No_Finding_Occurence 744 749	Color
+T19	Finding 763 785	Specific gravity 1.010
+T20	Finding 786 796	Protein 1+
+T21	No_Finding_Occurence 797 804	Glucose
+T22	No_Finding_Occurence 814 821	Ketones
+T23	No_Finding_Occurence 831 836	Blood
+T24	No_Finding_Occurence 846 853	Nitrite
+T25	No_Finding_Occurence 863 881	Leukocyte esterase
+T26	Finding 891 900	WBC 0/hpf
+T27	Finding 901 932	Squamous epithelial cells 2/hpf
+T28	No_Finding_Occurence 933 941	Bacteria
+T29	Finding 975 1007	postvoid residual urine is 25 mL
+T30	No_Symptom_Occurence 1037 1044	urethra
+T31	No_Symptom_Occurence 1056 1070	bladder mucosa

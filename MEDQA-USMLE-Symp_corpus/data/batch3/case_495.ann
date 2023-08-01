@@ -1,0 +1,21 @@
+T1	Age_Group 2 13	54-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 81 99	difficulty walking
+T4	Temporal_Concept 100 124	during the past 3 months
+T5	Sign_or_Symptom 201 228	started to use a wheelchair
+T6	Sign_or_Symptom 133 173	not been able to walk without assistance
+T7	Temporal_Concept 174 192	for the past month
+T8	Sign_or_Symptom 253 273	urinary incontinence
+T9	Temporal_Concept 274 284	for 1 year
+T10	Sign_or_Symptom 318 335	to slur his words
+T11	Sign_or_Symptom 356 379	difficult to understand
+T12	Finding 385 415	temperature is 37.0°C (98.6°F)
+T13	Finding 417 432	pulse is 70/min
+T14	Finding 438 461	respirations are 16/min
+T15	Finding 467 540	blood pressure is 130/80mm Hg while sitting and 110/65mm Hg when standing
+T16	Sign_or_Symptom 548 592	oriented to person and place but not to time
+T17	Sign_or_Symptom 627 638	mild tremor
+T18	Location 646 656	right hand
+T19	Sign_or_Symptom 661 669	rigidity
+T20	Location 677 704	upper and lower extremities
+T21	Sign_or_Symptom 712 765	unable to perform repetitive rotary forearm movements

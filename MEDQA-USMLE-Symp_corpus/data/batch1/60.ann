@@ -1,0 +1,18 @@
+T1	Relevant_symptoms 132 179	symptoms are moderately exacerbated by exertion
+T2	Relevant_symptoms 81 85	pain
+T4	Relevant_symptoms 228 236	erythema
+T6	Relevant_symptoms 90 98	swelling
+T9	Finding 257 301	Capillary refill time is less than 3 seconds
+T10	Relevant_symptoms 250 255	edema
+T11	Age_Group 2 13	32-year-old
+T12	Population_Group 14 17	man
+T13	Population_Group 27 46	jackhammer operator
+T14	Location 106 115	right arm
+T15	Temporal_Concept 120 126	3 days
+R1	Related Ent1:T6 Ent2:T14	
+R2	Related Ent1:T2 Ent2:T14	
+R3	Related Ent1:T6 Ent2:T15	
+R4	Related Ent1:T2 Ent2:T15	
+T3	Location 200 221	right upper extremity
+R5	Related Ent1:T4 Ent2:T3	
+R6	Related Ent1:T10 Ent2:T3	

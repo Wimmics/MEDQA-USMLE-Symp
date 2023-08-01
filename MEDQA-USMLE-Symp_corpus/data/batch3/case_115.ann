@@ -1,0 +1,23 @@
+T1	Age_Group 2 13	62-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 55 70	acute sinusitis
+T4	Temporal_Concept 71 82	for 12 days
+T5	Sign_or_Symptom 99 111	macular rash
+T6	Location 119 123	neck
+T7	Location 125 129	back
+T8	Location 135 140	torso
+T9	Sign_or_Symptom 267 274	fatigue
+T10	Sign_or_Symptom 276 286	flank pain
+T11	Sign_or_Symptom 292 297	fever
+T12	Sign_or_Symptom 379 401	essential hypertension
+T13	Sign_or_Symptom 403 417	hyperlipidemia
+T14	Sign_or_Symptom 423 437	gastric reflux
+T15	Finding 547 575	temperature 37.9°C (100.2°F)
+T16	Finding 577 604	blood pressure 145/90 mm Hg
+T17	Finding 606 626	regular pulse 75/min
+T18	Finding 632 651	respirations 16/min
+T19	No_Finding_Occurence 681 693	unremarkable
+T20	Finding 695 733	Serum urea and creatinine are elevated
+T21	Sign_or_Symptom 752 764	leukocyturia
+T22	No_Finding_Occurence 770 793	urine bacterial culture
+T23	Finding 863 921	3% binucleated cells with eosinophilic, granular cytoplasm

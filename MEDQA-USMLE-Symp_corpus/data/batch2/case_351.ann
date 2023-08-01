@@ -1,0 +1,32 @@
+T1	Finding 1046 1062	Sodium 139 mEq/L
+T2	Finding 1063 1082	Potassium 3.9 mEq/L
+T3	Finding 1083 1100	Calcium 8.5 mg/dL
+T4	No_Finding_Occurence 1123 1135	occult blood
+T5	No_Finding_Occurence 1183 1196	abnormalities
+T6	Age_Group 2 13	26-year-old
+T7	Population_Group 14 19	nurse
+T8	Temporal_Concept 56 63	2-month
+T9	Sign_or_Symptom 75 82	fatigue
+T10	Sign_or_Symptom 242 262	lower abdominal pain
+T11	Temporal_Concept 222 241	several episodes of
+T12	Sign_or_Symptom 362 382	peptic ulcer disease
+T13	Temporal_Concept 383 395	6 months ago
+T14	Sign_or_Symptom 452 456	pale
+T15	Finding 462 494	temperature is 36.5° C (97.7° F)
+T16	Finding 496 512	pulse is 120/min
+T17	Finding 518 547	blood pressure is 90/65 mm Hg
+T18	Sign_or_Symptom 585 590	tired
+T19	Finding 601 615	depressed mood
+T20	Sign_or_Symptom 644 661	pale conjunctivae
+T21	Sign_or_Symptom 666 686	dry mucous membranes
+T22	Sign_or_Symptom 707 713	crusts
+T23	Location 738 752	left arm veins
+T24	Sign_or_Symptom 756 790	grade 2/6 systolic ejection murmur
+T25	Location 800 836	along the right-upper sternal border
+T26	No_Finding_Occurence 869 882	abnormalities
+T27	Sign_or_Symptom 893 913	generalized weakness
+T28	Location 921 937	proximal muscles
+T29	Finding 964 983	Hemoglobin 7.5 g/dL
+T30	Finding 984 1014	Mean corpuscular volume 89 μm3
+T31	Finding 1015 1039	Reticulocyte count 13.3%
+T32	Finding 1040 1045	Serum

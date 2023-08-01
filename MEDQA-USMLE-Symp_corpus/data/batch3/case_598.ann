@@ -1,0 +1,21 @@
+T1	Age_Group 2 13	74-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 60 72	sudden onset
+T4	Sign_or_Symptom 76 90	abdominal pain
+T5	Location 109 129	around the umbilicus
+T6	Temporal_Concept 146 158	16 hours ago
+T7	No_Symptom_Occurence 210 218	vomiting
+T8	Sign_or_Symptom 255 283	bloody loose bowel movements
+T9	Temporal_Concept 235 254	several episodes of
+T10	Sign_or_Symptom 323 350	acute myocardial infarction
+T11	Sign_or_Symptom 363 380	diabetes mellitus
+T12	Temporal_Concept 381 393	for 35 years
+T13	Sign_or_Symptom 398 410	hypertension
+T14	Temporal_Concept 411 423	for 20 years
+T15	Finding 491 521	temperature is 36.9°C (98.4°F)
+T16	Finding 523 552	blood pressure is 95/65 mm Hg
+T17	Finding 558 573	pulse is 95/min
+T18	Sign_or_Symptom 618 629	severe pain
+T19	Sign_or_Symptom 642 671	mild periumbilical tenderness
+T20	Sign_or_Symptom 679 684	bruit
+T21	Location 694 718	over the epigastric area

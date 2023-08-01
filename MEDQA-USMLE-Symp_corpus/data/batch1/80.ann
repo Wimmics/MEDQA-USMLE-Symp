@@ -1,0 +1,22 @@
+T1	No_Symptom_Occurence 351 361	chest pain
+T2	Relevant_symptoms 325 334	dizziness
+T3	Relevant_symptoms 85 92	fainted
+T4	No_Symptom_Occurence 212 232	urinary incontinence
+T5	No_Symptom_Occurence 365 384	shortness of breath
+T6	Sign_or_Symptom 434 448	hyperlipidemia
+T7	Sign_or_Symptom 393 405	hypertension
+T8	No_Symptom_Occurence 236 252	seizure activity
+T9	Sign_or_Symptom 156 167	unconscious
+T11	No_Symptom_Occurence 614 621	murmurs
+T16	Age_Group 2 13	67-year-old
+T17	Population_Group 14 17	man
+T10	Temporal_Concept 69 81	1 hour after
+T18	Temporal_Concept 172 194	approximately 1 minute
+R1	Related Ent1:T9 Ent2:T18	
+R2	Related Ent1:T4 Ent2:T18	
+R3	Related Ent1:T8 Ent2:T18	
+T19	Temporal_Concept 273 295	During the past 2 days
+T14	Finding 476 491	Pulse is 60/min
+T15	Finding 493 516	respirations are 18/min
+T20	Finding 522 552	blood pressure is 100/62 mm Hg
+T21	No_Symptom_Occurence 625 632	gallops

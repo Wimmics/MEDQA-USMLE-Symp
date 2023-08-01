@@ -1,0 +1,33 @@
+T1	Sign_or_Symptom 98 105	redness
+T2	Relevant_symptoms 76 81	fever
+T3	Sign_or_Symptom 270 273	ill
+T4	Sign_or_Symptom 212 234	pneumococcal pneumonia
+T5	Relevant_symptoms 150 158	diarrhea
+T9	Location 106 126	around his right eye
+R1	Related Ent1:T1 Ent2:T9	
+T10	Temporal_Concept 59 72	2-day history
+R2	Related Ent1:T2 Ent2:T10	
+T6	Relevant_symptoms 168 179	candidiasis
+T11	Location 163 167	oral
+R3	Related Ent1:T6 Ent2:T11	
+T12	Finding 279 308	temperature is 39°C (102.2°F)
+T13	Finding 310 326	pulse is 130/min
+T14	Finding 332 355	respirations are 25/min
+T7	Sign_or_Symptom 375 420	violaceous preseptal (periorbital) cellulitis
+T8	Location 425 429	oral
+T15	Relevant_symptoms 430 441	candidiasis
+R4	Related Ent1:T15 Ent2:T8	
+T16	Finding 468 486	Hemoglobin 10 g/dL
+T17	Finding 487 511	Leukocyte count 3000/mm3
+T18	Finding 512 537	Segmented neutrophils 85%
+T19	Finding 538 553	Lymphocytes 15%
+T20	Finding 554 580	Platelet count 350,000/mm3
+T21	Finding 581 599	Serum IgA <5 mg/dL
+T22	Finding 600 613	IgG 300 mg/dL
+T23	Finding 614 626	IgM <5 mg/dL
+T24	Age_Group 2 13	4-month-old
+T25	Population_Group 14 17	boy
+#1	AnnotatorNotes T2	fever
+#2	AnnotatorNotes T5	Diarrhea
+#3	AnnotatorNotes T6	Chronic oral candidiasis
+#4	AnnotatorNotes T15	Chronic oral candidiasis

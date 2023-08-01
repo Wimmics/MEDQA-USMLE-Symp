@@ -1,0 +1,15 @@
+T1	Age_Group 2 13	16-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 62 68	2-hour
+T4	Sign_or_Symptom 93 107	abdominal pain
+T5	Temporal_Concept 80 92	sudden-onset
+T6	Temporal_Concept 174 178	past
+T7	Sign_or_Symptom 215 221	asthma
+T8	Finding 305 335	temperature is 99.3°F (37.4°C)
+T9	Finding 337 366	blood pressure is 120/88 mmHg
+T10	Finding 368 384	pulse is 117/min
+T11	Finding 386 409	respirations are 14/min
+T12	Finding 415 439	oxygen saturation is 99%
+T13	Sign_or_Symptom 482 500	non-tender abdomen
+T14	No_Symptom_Occurence 591 632	scrotum is neither swollen nor discolored
+T15	Sign_or_Symptom 528 582	right testicle which is elevated with a horizontal lie

@@ -1,0 +1,15 @@
+T2	Relevant_symptoms 58 73	bloody diarrhea
+T7	Relevant_symptoms 131 151	inflammatory changes
+T8	Age_Group 2 13	21-year-old
+T9	Population_Group 14 17	man
+T1	Relevant_symptoms 22 33	weight loss
+T4	Relevant_symptoms 120 126	ulcers
+T5	Location 162 205	from the rectum to the mid-transverse colon
+R1	Related Ent1:T7 Ent2:T5	
+R3	Related Ent1:T4 Ent2:T5	
+T3	Relevant_symptoms 273 285	inflammation
+#1	AnnotatorNotes T2	Bloody diarrhea
+#2	AnnotatorNotes T4	Ulcerative colitis
+#3	AnnotatorNotes T7	Gastritis
+#4	AnnotatorNotes T3	Gastritis
+T6	Location 304 310	mucosa

@@ -1,0 +1,17 @@
+T1	Age_Group 2 13	30-year-old
+T2	Population_Group 14 19	woman
+T3	Population_Group 191 198	husband
+T4	Sign_or_Symptom 213 269	difficulties maintaining erection during sexual activity
+T5	Population_Group 52 59	husband
+T6	Sign_or_Symptom 83 131	trying to conceive for 15 months with no success
+T7	Sign_or_Symptom 325 335	discomfort
+T8	Sign_or_Symptom 344 375	pelvic floor muscles tighten up
+T9	Sign_or_Symptom 425 449	body dysmorphic disorder
+T10	Temporal_Concept 377 392	Three years ago
+T11	No_Symptom_Occurence 481 496	serious illness
+T12	Population_Group 463 469	family
+T13	No_Finding_Occurence 561 572	Vital signs
+T14	No_Symptom_Occurence 624 662	normal appearing vulva without redness
+T15	No_Symptom_Occurence 676 693	vaginal discharge
+T16	Sign_or_Symptom 819 829	discomfort
+T17	Sign_or_Symptom 769 798	pelvic floor muscles tense up

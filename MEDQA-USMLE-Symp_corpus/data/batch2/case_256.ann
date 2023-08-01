@@ -1,0 +1,29 @@
+T1	Age_Group 2 12	5-year-old
+T2	Population_Group 13 16	boy
+T3	Sign_or_Symptom 56 72	high-grade fever
+T4	Sign_or_Symptom 77 96	generalized fatigue
+T5	Temporal_Concept 97 107	for 5 days
+T6	Sign_or_Symptom 138 142	rash
+T7	Location 150 155	trunk
+T8	Temporal_Concept 109 121	Two days ago
+T9	No_Finding_Occurence 222 242	immunization records
+T10	Finding 264 295	temperature is 39.8°C (103.6°F)
+T11	Finding 297 313	pulse is 111/min
+T12	Finding 319 348	blood pressure is 96/60 mm Hg
+T13	Sign_or_Symptom 368 397	injection of the conjunctivae
+T14	Sign_or_Symptom 415 450	tongue and pharynx are erythematous
+T15	Location 398 409	bilaterally
+T16	Sign_or_Symptom 459 483	cervical lymphadenopathy
+T17	Location 502 506	left
+T18	Sign_or_Symptom 519 531	macular rash
+T19	Location 541 546	trunk
+T20	Location 551 562	extremities
+T21	Sign_or_Symptom 564 607	Bilateral knee joints are swollen and tende
+T22	Sign_or_Symptom 610 636	range of motion is limited
+T23	No_Finding_Occurence 683 696	abnormalities
+T24	Age_Group 752 763	68-year-old
+T25	Population_Group 764 767	man
+T26	No_Symptom_Occurence 837 847	complaints
+T27	Sign_or_Symptom 1199 1205	lesion
+T28	Location 1221 1226	scalp
+T29	No_Finding_Occurence 1071 1086	medical history

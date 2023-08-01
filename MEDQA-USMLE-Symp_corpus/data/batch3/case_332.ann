@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	48-year-old
+T2	Population_Group 14 20	female
+T3	Sign_or_Symptom 57 78	mental status changes
+T4	Finding 130 142	Na 122 mEq/L
+T5	Finding 143 154	K 3.9 mEq/L
+T6	Finding 155 168	HCO3 24 mEq/L
+T7	Finding 169 181	BUN 21 mg/dL
+T8	Finding 182 194	Cr 0.9 mg/dL
+T9	Finding 195 207	Ca 8.5 mg/dL
+T10	Finding 208 221	Glu 105 mg/dL
+T11	Finding 241 263	Osmolality 334 mOsm/kg
+T12	Finding 264 275	Na 45 mEq/L
+T13	Finding 276 287	Glu 0 mg/dL

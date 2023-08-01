@@ -1,0 +1,20 @@
+T1	Age_Group 2 12	3-year-old
+T2	Population_Group 13 16	boy
+T3	Finding 93 124	was born at 38 weeks' gestation
+T4	Finding 129 155	weighed 2766 g (6 lb 2 oz)
+T5	Finding 164 185	weighs 14 kg (31 lbs)
+T6	Temporal_Concept 160 163	now
+T7	No_Symptom_Occurence 229 244	serious illness
+T8	Finding 250 278	immunizations are up-to-date
+T9	Finding 289 315	60th percentile for height
+T10	Finding 320 346	55th percentile for weight
+T11	No_Finding_Occurence 348 359	Vital signs
+T12	No_Finding_Occurence 409 421	auscultation
+T13	Location 390 395	lungs
+T14	Sign_or_Symptom 425 459	grade 3/6 systolic ejection murmur
+T15	Location 469 505	along the upper left sternal border.
+T16	Sign_or_Symptom 506 559	S2 is widely split and does not vary with respiration
+T17	Sign_or_Symptom 572 602	grade 2/6 mid-diastolic murmur
+T18	Location 603 639	along the lower left sternal border.
+T19	No_Symptom_Occurence 644 673	abdomen is soft and nontender
+T20	No_Symptom_Occurence 687 699	organomegaly

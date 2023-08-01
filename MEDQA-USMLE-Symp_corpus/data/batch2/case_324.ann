@@ -1,0 +1,17 @@
+T1	Age_Group 2 13	15-year-old
+T2	Population_Group 14 18	girl
+T3	Sign_or_Symptom 66 83	painless swelling
+T4	Location 84 108	under the left lower jaw
+T5	Temporal_Concept 109 121	for 5 months
+T6	Population_Group 139 145	sister
+T7	Age_Group 127 138	18-year-old
+T8	Sign_or_Symptom 163 191	acute lymphoblastic leukemia
+T9	Sign_or_Symptom 209 218	remission
+T10	Temporal_Concept 219 231	for 11 years
+T11	Finding 247 275	temperature is 37°C (98.6°F)
+T12	Sign_or_Symptom 305 423	3 × 2 cm swelling on the left side, 4 cm below the base of the mandible and anterior to the sternocleidomastoid muscle
+T13	Sign_or_Symptom 429 459	swelling is soft and fluctuant
+T14	Sign_or_Symptom 605 645	round mass with uniform low echogenicity
+T15	No_Symptom_Occurence 653 672	internal septations
+T16	No_Symptom_Occurence 473 493	move with swallowing
+T17	Sign_or_Symptom 499 585	forced exhalation against a closed glottis does not increase the size of the swelling.

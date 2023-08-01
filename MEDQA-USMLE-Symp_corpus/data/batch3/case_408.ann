@@ -1,0 +1,15 @@
+T1	Age_Group 3 14	11-year-old
+T2	Population_Group 15 19	girl
+T3	Sign_or_Symptom 76 96	mildly pruritic rash
+T4	Location 104 109	trunk
+T5	Location 114 125	extremities
+T6	Temporal_Concept 126 136	for 2 days
+T7	Temporal_Concept 138 150	One week ago
+T8	Sign_or_Symptom 168 183	low-grade fever
+T9	Sign_or_Symptom 185 195	rhinorrhea
+T10	Sign_or_Symptom 201 209	headache
+T11	Sign_or_Symptom 225 236	facial rash
+T12	Temporal_Concept 237 249	4 days later
+T13	Location 287 300	perioral skin
+T14	No_Symptom_Occurence 255 266	facial rash
+T15	Finding 306 336	temperature is 37.4°C (99.3°F)

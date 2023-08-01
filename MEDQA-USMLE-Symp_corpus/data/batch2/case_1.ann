@@ -1,0 +1,30 @@
+T1	Age_Group 2 12	5-year-old
+T2	Population_Group 13 17	girl
+T3	Sign_or_Symptom 103 109	nausea
+T4	Sign_or_Symptom 114 122	vomiting
+T5	Temporal_Concept 82 102	multiple episodes of
+T6	Temporal_Concept 133 146	about 2 hours
+T7	Temporal_Concept 180 192	6–8 episodes
+T8	Sign_or_Symptom 204 212	vomiting
+T9	Sign_or_Symptom 217 231	abdominal pain
+T10	Sign_or_Symptom 262 269	fatigue
+T11	Sign_or_Symptom 237 245	vomiting
+T12	Temporal_Concept 250 261	preceded by
+T13	Temporal_Concept 291 313	between these episodes
+T14	No_Symptom_Occurence 280 290	feels well
+T15	Sign_or_Symptom 416 427	dehydration
+T16	Temporal_Concept 379 411	2 times during the past 6 months
+T17	Sign_or_Symptom 455 463	vomiting
+T18	Sign_or_Symptom 468 474	nausea
+T19	Finding 603 629	60th percentile for height
+T20	Finding 634 660	30th percentile for weight
+T21	Sign_or_Symptom 674 683	emaciated
+T22	Finding 689 719	temperature is 36.8°C (98.8°F)
+T23	Finding 721 736	pulse is 99/min
+T24	Finding 742 771	blood pressure is 82/52 mm Hg
+T25	Sign_or_Symptom 791 811	dry mucous membranes
+T26	No_Finding_Occurence 836 848	auscultation
+T27	Sign_or_Symptom 880 949	soft abdomen with mild diffuse tenderness with no guarding or rebound
+T28	No_Finding_Occurence 1002 1015	abnormalities
+T29	Location 817 822	lungs
+T31	Finding 559 587	immunizations are up-to-date

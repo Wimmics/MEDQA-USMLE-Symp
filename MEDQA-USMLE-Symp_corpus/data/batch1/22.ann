@@ -1,0 +1,16 @@
+T1	No_Symptom_Occurence 456 470	hallucinations
+T3	Relevant_symptoms 309 319	sleepiness
+T11	No_Finding_Occurence 574 587	abnormalities
+T13	No_Finding_Occurence 510 518	problems
+T14	Age_Group 2 13	27-year-old
+T15	Population_Group 14 17	man
+T10	Relevant_symptoms 83 105	loss of muscle control
+T4	Relevant_symptoms 183 197	legs collapsed
+T2	No_Symptom_Occurence 264 282	lose consciousness
+T5	Temporal_Concept 293 305	long history
+R1	Related Ent1:T3 Ent2:T5	
+T12	Relevant_symptoms 344 357	sleep quickly
+T6	No_Finding_Occurence 520 531	Vital signs
+T7	Temporal_Concept 425 432	history
+R2	Related Ent1:T1 Ent2:T7	
+T8	Population_Group 484 490	family

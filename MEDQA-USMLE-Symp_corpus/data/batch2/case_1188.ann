@@ -1,0 +1,17 @@
+T1	Age_Group 2 19	28-year-old woman
+T2	Finding 21 30	gravida 3
+T3	Finding 43 62	34 weeks' gestation
+T4	Temporal_Concept 99 104	1-day
+T5	Sign_or_Symptom 116 123	dyspnea
+T6	Sign_or_Symptom 125 134	dry cough
+T7	Sign_or_Symptom 140 150	chest pain
+T8	Finding 156 172	pulse is 112/min
+T9	Finding 174 197	respirations are 24/min
+T10	Finding 203 233	blood pressure is 108/78 mm Hg
+T11	Finding 271 295	oxygen saturation of 90%
+T12	Sign_or_Symptom 315 340	jugular venous distention
+T13	Sign_or_Symptom 345 368	bilateral pitting edema
+T14	Location 369 416	below the knees that is worse on the right side
+T15	Sign_or_Symptom 427 449	dullness to percussion
+T16	Location 450 474	over the right lung base
+T17	Finding 32 38	para 2

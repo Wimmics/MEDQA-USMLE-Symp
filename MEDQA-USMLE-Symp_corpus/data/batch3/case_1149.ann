@@ -1,0 +1,29 @@
+T1	Age_Group 2 13	58-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 52 64	burning pain
+T4	Location 72 76	neck
+T5	Location 81 85	arms
+T6	Temporal_Concept 86 96	for a year
+T7	Sign_or_Symptom 114 126	paresthesias
+T8	Location 134 139	hands
+T9	Temporal_Concept 140 158	during this period
+T10	Sign_or_Symptom 182 190	weakness
+T11	Location 194 204	both hands
+T12	Temporal_Concept 205 229	during the past 3 months
+T13	Sign_or_Symptom 238 262	type 2 diabetes mellitus
+T14	Sign_or_Symptom 264 284	hypercholesterolemia
+T15	Sign_or_Symptom 290 302	hypertension
+T16	No_Symptom_Occurence 536 571	oriented to time, place, and person
+T17	No_Finding_Occurence 573 584	Vital signs
+T18	No_Symptom_Occurence 615 653	pupils are equal and reactive to light
+T19	Sign_or_Symptom 698 723	decreased muscle strength
+T20	Sign_or_Symptom 725 740	absent reflexes
+T21	Sign_or_Symptom 746 797	decreased hand grip with fasciculations bilaterally
+T22	Location 674 691	upper extremities
+T23	Sign_or_Symptom 799 842	Sensation to temperature and pain is absent
+T24	Location 852 857	chest
+T25	Location 862 882	bilateral upper arms
+T26	No_Symptom_Occurence 884 923	Vibration and joint position sensations
+T27	Location 943 954	upper limbs
+T28	No_Finding_Occurence 991 1005	focal findings
+T29	No_Finding_Occurence 1052 1065	abnormalities

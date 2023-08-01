@@ -1,0 +1,15 @@
+T1	Age_Group 2 13	32-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 108 119	unconscious
+T4	Sign_or_Symptom 305 312	anxious
+T5	Finding 318 333	pulse is 76/min
+T6	Finding 335 358	respirations are 13/min
+T7	Finding 364 394	blood pressure is 114/72 mm Hg
+T8	Sign_or_Symptom 414 434	significant weakness
+T9	Location 442 474	left upper and lower extremities
+T10	Sign_or_Symptom 483 527	unable to plantarflex the ankle while supine
+T11	No_Symptom_Occurence 536 561	able to stand on her toes
+T12	Sign_or_Symptom 567 583	gait is unsteady
+T13	Finding 585 626	Deep tendon reflexes are 3+ and symmetric
+T14	No_Finding_Occurence 659 672	abnormalities
+T15	No_Finding_Occurence 721 734	abnormalities

@@ -1,0 +1,11 @@
+T4	Age_Group 28 35	newborn
+T6	Sign_or_Symptom 222 228	thrill
+T9	Age_Group 12 22	2-week-old
+T10	Population_Group 23 27	male
+T3	Location 97 102	lungs
+T11	Relevant_symptoms 107 112	clear
+R1	Related Ent1:T11 Ent2:T3	
+T5	Relevant_symptoms 120 138	midsystolic murmur
+T8	Location 171 199	left third intercostal space
+R2	Related Ent1:T5 Ent2:T8	
+T1	Relevant_symptoms 40 48	cyanosis

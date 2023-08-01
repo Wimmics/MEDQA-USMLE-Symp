@@ -1,0 +1,14 @@
+T1	Age_Group 2 14	12-month-old
+T2	Population_Group 15 19	girl
+T3	Temporal_Concept 76 112	first time since her 6-month checkup
+T4	Sign_or_Symptom 234 263	not able to stand up or speak
+T5	Finding 292 322	temperature of 98.5°F (36.9°C)
+T6	Finding 324 339	pulse is 96/min
+T7	Finding 341 364	respirations are 20/min
+T8	Finding 370 399	blood pressure is 100/80 mmHg
+T9	Sign_or_Symptom 427 470	difficulty supporting herself while sitting
+T10	No_Finding_Occurence 497 523	abnormal physical findings
+T11	Sign_or_Symptom 580 612	does not respond to her own name
+T12	Sign_or_Symptom 639 658	purposeless motions
+T13	Temporal_Concept 720 727	6-month
+T14	No_Symptom_Occurence 769 788	sitting unsupported

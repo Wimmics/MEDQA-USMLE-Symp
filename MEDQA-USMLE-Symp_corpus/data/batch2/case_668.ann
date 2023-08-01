@@ -1,0 +1,10 @@
+T1	Age_Group 3 15	18-month-old
+T2	Population_Group 16 19	boy
+T3	Temporal_Concept 75 80	2-day
+T4	Sign_or_Symptom 92 97	fever
+T5	Sign_or_Symptom 104 117	pruritic rash
+T6	Location 138 143	trunk
+T7	Location 171 175	face
+T8	Location 180 191	extremities
+T9	No_Finding_Occurence 217 239	childhood vaccinations
+T10	Finding 297 328	temperature is 38.0°C (100.4°F)

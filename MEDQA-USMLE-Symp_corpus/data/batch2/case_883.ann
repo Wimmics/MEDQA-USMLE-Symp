@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	17-year-old
+T2	Population_Group 14 18	girl
+T3	Sign_or_Symptom 98 112	gaining weight
+T4	Location 209 220	extremities
+T5	Sign_or_Symptom 197 204	burning
+T6	Sign_or_Symptom 242 263	last menstrual period
+T7	Temporal_Concept 268 279	3 weeks ago
+T8	Finding 362 388	25th percentile for height
+T9	Finding 390 416	12th percentile for weight
+T10	Finding 422 445	17th percentile for BMI
+T11	Sign_or_Symptom 465 500	bilateral parotid gland enlargement
+T12	Sign_or_Symptom 534 545	perimolysis
+T13	No_Finding_Occurence 589 602	abnormalities

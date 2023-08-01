@@ -1,0 +1,47 @@
+T1	Age_Group 2 13	67-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 62 67	fever
+T4	Sign_or_Symptom 72 93	altered mental status
+T5	Sign_or_Symptom 124 142	Alzheimer dementia
+T6	Sign_or_Symptom 150 170	typically bed bound.
+T7	Sign_or_Symptom 189 232	confused with a warm and flushed complexion
+T8	Sign_or_Symptom 308 316	dementia
+T9	Sign_or_Symptom 318 326	diabetes
+T10	Sign_or_Symptom 332 344	hypertension
+T11	Finding 546 577	temperature is 102.9°F (39.4°C)
+T12	Finding 579 608	blood pressure is 104/64 mmHg
+T13	Finding 610 626	pulse is 170/min
+T14	Finding 628 651	respirations are 22/min
+T15	Finding 657 682	oxygen saturation is 100%
+T16	Sign_or_Symptom 725 745	dry and flushed skin
+T17	Sign_or_Symptom 752 764	confused man
+T18	No_Symptom_Occurence 778 792	skin breakdown
+T19	No_Symptom_Occurence 798 827	flexion of the patient’s neck
+T20	Finding 896 915	Hemoglobin: 15 g/dL
+T21	Finding 916 931	Hematocrit: 45%
+T22	Finding 932 984	Leukocyte count: 4,500/mm^3 with normal differential
+T23	Finding 985 1013	Platelet count: 227,000/mm^3
+T24	Finding 1022 1036	Na+: 139 mEq/L
+T25	Finding 1037 1051	Cl-: 100 mEq/L
+T26	Finding 1052 1065	K+: 4.3 mEq/L
+T27	Finding 1066 1081	HCO3-: 24 mEq/L
+T28	Finding 1082 1095	BUN: 30 mg/dL
+T29	Finding 1096 1113	Glucose: 97 mg/dL
+T30	Finding 1114 1135	Creatinine: 1.5 mg/dL
+T31	Finding 1136 1152	Ca2+: 10.2 mg/dL
+T32	Finding 1153 1164	AST: 12 U/L
+T33	Finding 1165 1176	ALT: 10 U/L
+T34	Finding 1178 1184	Urine:
+T35	Finding 1185 1198	Color: Yellow
+T36	Finding 1199 1215	Bacteria: Absent
+T37	No_Finding_Occurence 1216 1234	Nitrites: Negative
+T38	No_Finding_Occurence 1235 1260	Red blood cells: Negative
+T39	No_Symptom_Occurence 1293 1305	unremarkable
+T40	Location 1273 1278	chest
+T41	Temporal_Concept 1390 1405	Two hours later
+T42	Finding 1411 1439	temperature is 99°F (37.2°C)
+T43	Finding 1441 1470	blood pressure is 154/94 mmHg
+T44	Finding 1472 1488	pulse is 100/min
+T45	Finding 1490 1513	respirations are 17/min
+T46	Finding 1519 1544	oxygen saturation is 100%
+T47	Sign_or_Symptom 1572 1614	mental status is at the patient’s baseline

@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	24-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 64 79	severe headache
+T4	Sign_or_Symptom 186 195	dull pain
+T5	Location 196 222	over the sides of her head
+T6	No_Symptom_Occurence 249 256	healthy
+T7	Finding 306 336	temperature is 97.0°F (36.4°C)
+T8	Finding 338 367	blood pressure is 111/74 mmHg
+T9	Finding 369 384	pulse is 83/min
+T10	Finding 415 439	oxygen saturation is 98%
+T11	Finding 386 409	respirations are 13/min
+T12	Sign_or_Symptom 92 116	it is 10/10 in intensity
+T13	Sign_or_Symptom 133 162	it is associated with chewing
+T14	Sign_or_Symptom 482 486	pain
+T15	Sign_or_Symptom 491 501	tenderness
+T16	Location 502 541	over the mandibular and temporal region

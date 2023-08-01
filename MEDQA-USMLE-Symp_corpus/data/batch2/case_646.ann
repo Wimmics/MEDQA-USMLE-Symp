@@ -1,0 +1,23 @@
+T1	Age_Group 2 13	31-year-old
+T2	Finding 14 23	gravida 2
+T3	Finding 24 30	para 2
+T4	Population_Group 31 36	woman
+T5	Temporal_Concept 91 104	Two weeks ago
+T6	Finding 110 174	gave birth via vaginal delivery to a 9.5 lb (4.3 kg) male infant
+T7	Sign_or_Symptom 210 228	vaginal laceration
+T8	Sign_or_Symptom 372 378	chills
+T9	Sign_or_Symptom 352 367	intense shaking
+T10	Temporal_Concept 393 407	within 1 hour.
+T11	Temporal_Concept 293 310	Immediately after
+T12	Temporal_Concept 459 465	6 days
+T13	Sign_or_Symptom 469 527	malodorous smelling vaginal discharge that is tan in color
+T14	Sign_or_Symptom 550 569	vaginal candidiasis
+T15	Finding 615 645	temperature is 98.8°F (37.1°C)
+T16	Finding 647 676	blood pressure is 122/73 mmHg
+T17	Finding 678 693	pulse is 88/min
+T18	Finding 695 718	respirations are 16/min
+T19	Finding 724 740	BMI is 33 kg/m^2
+T20	Finding 854 880	pH of the discharge is 6.4
+T21	Sign_or_Symptom 766 797	1.5 cm dark red, velvety lesion
+T22	Location 805 827	posterior vaginal wall
+T23	Sign_or_Symptom 835 848	tan discharge

@@ -1,0 +1,20 @@
+T1	Age_Group 2 13	75-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 139 148	knee pain
+T4	Temporal_Concept 128 138	occasional
+T5	No_Symptom_Occurence 106 116	complaints
+T6	Sign_or_Symptom 184 196	hypertension
+T7	Sign_or_Symptom 209 228	knee osteoarthritis
+T8	Temporal_Concept 229 246	for several years
+T9	Population_Group 395 402	brother
+T10	Sign_or_Symptom 436 458	hematologic malignancy
+T11	Finding 464 492	temperature is 36.8℃ (98.2℉)
+T12	Finding 502 532	blood pressure is 125/85 mm Hg
+T13	No_Finding_Occurence 568 581	abnormalities
+T14	Sign_or_Symptom 595 618	reduced range of motion
+T15	Sign_or_Symptom 623 631	crepitus
+T16	Location 635 645	both knees
+T17	Finding 691 709	Hemoglobin 15 g/dL
+T18	Finding 710 736	Leukocyte count 58,000/mm3
+T19	Finding 737 763	Platelet count 250,000/mm3
+T20	Finding 814 853	absolute lymphocyte count of 50,000/mm3

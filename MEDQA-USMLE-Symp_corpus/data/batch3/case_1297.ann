@@ -1,0 +1,23 @@
+T1	Age_Group 2 12	2-week-old
+T2	Population_Group 13 27	female newborn
+T3	Sign_or_Symptom 67 98	increasing yellow discoloration
+T4	Location 106 110	eyes
+T5	Location 115 119	skin
+T6	Temporal_Concept 120 130	for 2 days
+T7	Finding 140 167	born at 39 weeks' gestation
+T8	Finding 172 199	weighed 3066 g (6 lb 12 oz)
+T9	Finding 209 234	weighs 3200 g (7 lb 1 oz)
+T10	Temporal_Concept 205 208	now
+T11	Population_Group 270 283	older brother
+T12	Sign_or_Symptom 284 288	died
+T13	Finding 323 353	temperature is 37.1°C (98.8°F)
+T14	Finding 355 371	pulse is 145/min
+T15	Finding 377 400	respirations are 40/min
+T16	Sign_or_Symptom 420 440	yellow discoloration
+T17	Location 458 463	palms
+T18	Location 468 473	soles
+T19	Finding 479 531	liver is palpated 1 cm below the right costal margin
+T20	Finding 558 572	Hematocrit 51%
+T21	Finding 623 649	Alkaline phosphatase 22 U/
+T22	Finding 651 661	AST 12 U/L
+T23	Finding 662 672	ALT 12 U/L

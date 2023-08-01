@@ -1,0 +1,26 @@
+A 67-year-old man presents to the emergency department with a fever and altered mental status. The patient has a history of Alzheimer dementia and is typically bed bound. His son found him confused with a warm and flushed complexion thus prompting his presentation. The patient has a past medical history of dementia, diabetes, and hypertension and typically has a visiting home nurse come to administer medications. Prior to examination, he is given haloperidol and diphenhydramine as he is combative and will not allow the nurses near him. His temperature is 102.9°F (39.4°C), blood pressure is 104/64 mmHg, pulse is 170/min, respirations are 22/min, and oxygen saturation is 100% on room air. Physical exam is notable for dry and flushed skin and a confused man. There is no skin breakdown, and flexion of the patient’s neck elicits no discomfort. Laboratory studies are drawn as seen below.
+
+Hemoglobin: 15 g/dL
+Hematocrit: 45%
+Leukocyte count: 4,500/mm^3 with normal differential
+Platelet count: 227,000/mm^3
+
+Serum:
+Na+: 139 mEq/L
+Cl-: 100 mEq/L
+K+: 4.3 mEq/L
+HCO3-: 24 mEq/L
+BUN: 30 mg/dL
+Glucose: 97 mg/dL
+Creatinine: 1.5 mg/dL
+Ca2+: 10.2 mg/dL
+AST: 12 U/L
+ALT: 10 U/L
+
+Urine:
+Color: Yellow
+Bacteria: Absent
+Nitrites: Negative
+Red blood cells: Negative
+
+An initial chest radiograph is unremarkable. The patient is given 3 liters of Ringer's lactate and an electric fan to cool off. Two hours later, his temperature is 99°F (37.2°C), blood pressure is 154/94 mmHg, pulse is 100/min, respirations are 17/min, and oxygen saturation is 100% on room air. The patient’s mental status is at the patient’s baseline according to the son. Which of the following is the most likely diagnosis?

@@ -1,0 +1,19 @@
+T1	Age_Group 2 13	47-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 54 69	abnormal vision
+T4	Sign_or_Symptom 383 399	decreased vision
+T5	Sign_or_Symptom 407 415	left eye
+T10	Sign_or_Symptom 323 340	internal bleeding
+T11	Sign_or_Symptom 459 485	poorly controlled diabetes
+T12	Temporal_Concept 435 439	past
+T13	Sign_or_Symptom 487 493	asthma
+T14	Sign_or_Symptom 499 516	atopic dermatitis
+T15	Finding 522 552	temperature is 98.9°F (37.2°C)
+T16	Finding 554 584	blood pressure is 167/108 mmHg
+T17	Finding 586 601	pulse is 90/min
+T18	Finding 603 626	respirations are 14/min
+T19	Finding 632 656	oxygen saturation is 97%
+T20	Finding 699 712	20/200 vision
+T21	Location 730 738	left eye
+T22	Sign_or_Symptom 781 815	left eye appears red and irritated
+T6	Temporal_Concept 116 127	2 weeks ago

@@ -1,0 +1,29 @@
+T1	No_Symptom_Occurence 421 428	dysuria
+T2	Relevant_symptoms 396 415	shortness of breath
+T3	Sign_or_Symptom 25 49	type 2 diabetes mellitus
+T4	Sign_or_Symptom 153 176	urinary tract infection
+T5	Sign_or_Symptom 455 462	anxious
+T6	Finding 233 277	serum creatinine concentration was 1.2 mg/dL
+T7	Finding 779 797	Creatinine 4 mg/dL
+T8	Sign_or_Symptom 642 651	S3 gallop
+T9	Relevant_symptoms 358 366	swelling
+T10	Sign_or_Symptom 576 602	Diffuse bilateral crackles
+T15	Finding 838 868	Hyaline casts moderate numbers
+T17	Age_Group 2 13	52-year-old
+T18	Population_Group 14 19	woman
+T19	Temporal_Concept 99 112	Two weeks ago
+T16	Finding 196 227	blood pressure was 165/98 mm Hg
+T20	Temporal_Concept 314 334	During the past week
+T14	Location 374 391	lower extremities
+R1	Related Ent1:T9 Ent2:T14	
+R2	Related Ent1:T9 Ent2:T20	
+R3	Related Ent1:T2 Ent2:T20	
+R4	Related Ent1:T4 Ent2:T19	
+T21	Finding 464 494	Temperature is 36.8°C (98.2°F)
+T22	Finding 496 512	pulse is 110/min
+T23	Finding 514 537	respirations are 20/min
+T24	Finding 543 574	blood pressure is 185/105 mm Hg
+T25	Relevant_symptoms 671 707	3+ pitting bilateral pretibial edema
+T13	Finding 750 778	Serum Urea nitrogen 45 mg/dL
+T26	Finding 798 826	Urine Specific gravity 1.010
+#1	AnnotatorNotes T2	Dyspnea

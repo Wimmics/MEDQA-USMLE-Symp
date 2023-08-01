@@ -1,0 +1,31 @@
+T1	Relevant_symptoms 192 199	anxiety
+T2	Relevant_symptoms 331 338	anxiety
+T3	Relevant_symptoms 446 453	nervous
+T4	Relevant_symptoms 439 444	tense
+T5	Relevant_symptoms 201 209	insomnia
+T7	No_Symptom_Occurence 657 672	serious illness
+T9	Relevant_symptoms 217 242	preoccupation with cancer
+T10	Relevant_symptoms 362 374	palpitations
+T14	Relevant_symptoms 528 535	worries
+T16	Sign_or_Symptom 860 867	worried
+T20	Relevant_symptoms 102 106	mass
+T21	Sign_or_Symptom 262 266	lump
+T24	Age_Group 2 13	37-year-old
+T25	Population_Group 14 19	woman
+T26	Temporal_Concept 68 81	3 weeks after
+R1	Related Ent1:T20 Ent2:T26	
+T11	Temporal_Concept 268 281	Two weeks ago
+R2	Related Ent1:T2 Ent2:T11	
+T27	Location 356 361	heart
+R3	Related Ent1:T10 Ent2:T27	
+T28	Relevant_symptoms 383 387	fear
+T29	Sign_or_Symptom 468 502	uncomfortable in social situations
+T30	Relevant_symptoms 543 550	fearful
+T23	Relevant_symptoms 569 590	apprehensive of dying
+T8	Relevant_symptoms 777 786	2-cm mass
+T15	Location 794 805	left breast
+R4	Related Ent1:T8 Ent2:T15	
+T12	No_Symptom_Occurence 609 634	history of panic episodes
+T13	No_Symptom_Occurence 636 652	traumatic events
+T32	Location 114 125	left breast
+R5	Related Ent1:T20 Ent2:T32	

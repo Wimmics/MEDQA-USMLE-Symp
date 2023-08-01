@@ -1,0 +1,24 @@
+T1	Age_Group 2 13	50-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 91 110	increasing swelling
+T4	Temporal_Concept 77 90	progressively
+T5	Location 118 134	nape of his neck
+T6	Temporal_Concept 135 147	for 2 months
+T7	No_Symptom_Occurence 168 173	fever
+T8	No_Symptom_Occurence 181 208	discharge from the swelling
+T9	Sign_or_Symptom 239 251	colon cancer
+T10	Temporal_Concept 259 274	age of 43 years
+T11	Sign_or_Symptom 283 307	type 2 diabetes mellitus
+T12	Sign_or_Symptom 309 321	hypertension
+T13	Sign_or_Symptom 327 341	osteoarthritis
+T14	Location 349 358	left knee
+T15	No_Symptom_Occurence 535 542	healthy
+T16	Finding 548 578	temperature is 37.3°C (99.1°F)
+T17	Finding 580 595	pulse is 88/min
+T18	Finding 601 631	blood pressure is 130/86 mm Hg
+T19	Location 652 656	neck
+T20	Sign_or_Symptom 665 712	2.5-cm (1-in) firm, mobile, and painless nodule
+T21	Sign_or_Symptom 718 756	skin over the nodule cannot be pinched
+T22	No_Finding_Occurence 781 793	auscultation
+T23	Location 762 767	lungs
+T24	No_Finding_Occurence 837 850	abnormalities

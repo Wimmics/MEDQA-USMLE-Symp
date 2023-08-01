@@ -1,0 +1,27 @@
+T1	Relevant_symptoms 119 133	abdominal pain
+T5	Sign_or_Symptom 405 417	osteoporosis
+T8	Finding 22 31	gravida 6
+T9	Temporal_Concept 93 108	24-hour history
+T12	No_Symptom_Occurence 352 363	cancer-free
+T15	No_Finding_Occurence 696 709	abnormalities
+T16	Temporal_Concept 183 196	past 2 months
+T17	Finding 33 39	para 6
+T18	Age_Group 3 14	87-year-old
+T19	Population_Group 15 20	woman
+T2	Relevant_symptoms 141 158	inability to void
+R1	Related Ent1:T1 Ent2:T9	
+R2	Related Ent1:T2 Ent2:T9	
+T6	Relevant_symptoms 210 241	difficulty emptying her bladder
+T7	Temporal_Concept 261 275	end of the day
+R3	Related Ent1:T6 Ent2:T16	
+R4	Related Ent1:T6 Ent2:T7	
+T10	Temporal_Concept 386 401	10-year history
+R8	Related Ent1:T5 Ent2:T10	
+T22	No_Finding_Occurence 472 485	complications
+T3	Finding 635 674	urinary catheter drains 700 mL of urine
+T4	Temporal_Concept 277 293	Twenty years ago
+R5	Related Ent1:T12 Ent2:T4	
+T11	Sign_or_Symptom 545 585	cervix protruding 7.5 cm from the vagina
+#1	AnnotatorNotes T1	Abdominal pain
+T13	Sign_or_Symptom 324 337	breast cancer
+R6	Related Ent1:T13 Ent2:T4	

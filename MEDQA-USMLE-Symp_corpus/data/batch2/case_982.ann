@@ -1,0 +1,30 @@
+T1	Age_Group 2 13	50-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 63 86	severe lower chest pain
+T4	Temporal_Concept 87 104	for the past hour
+T5	Sign_or_Symptom 159 165	nausea
+T6	Location 115 135	radiates to the back
+T7	Sign_or_Symptom 194 213	non-bloody vomiting
+T8	Temporal_Concept 178 193	two episodes of
+T9	Temporal_Concept 214 219	since
+T10	Sign_or_Symptom 258 270	hypertension
+T11	Sign_or_Symptom 275 299	type 2 diabetes mellitus
+T12	Finding 448 479	temperature is 38.5°C (101.3°F)
+T13	Finding 481 497	pulse is 110/min
+T14	Finding 503 532	blood pressure is 90/60 mm Hg
+T15	No_Finding_Occurence 557 569	auscultation
+T16	Location 538 543	lungs
+T17	Sign_or_Symptom 591 608	distended abdomen
+T18	Sign_or_Symptom 614 635	epigastric tenderness
+T19	Sign_or_Symptom 640 663	guarding but no rebound
+T20	Sign_or_Symptom 665 691	bowel sounds are decreased
+T21	Finding 718 738	Hemoglobin 14.5 g/dL
+T22	Finding 739 764	Leukocyte count 5,100/mm3
+T23	Finding 765 791	Platelet count 280,000/mm3
+T24	Finding 798 811	Na+ 133 mEq/L
+T25	Finding 812 824	K+ 3.5 mEq/L
+T26	Finding 825 837	Cl- 98 mEq/L
+T27	Finding 838 863	Total bilirubin 1.0 mg/dL
+T28	Finding 864 879	Amylase 160 U/L
+T29	Finding 880 907	Lipase 880 U/L (N = 14–280)
+T30	Sign_or_Symptom 921 938	sinus tachycardia

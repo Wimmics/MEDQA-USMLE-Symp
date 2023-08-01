@@ -1,0 +1,17 @@
+T1	Age_Group 2 13	47-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 62 77	intense itching
+T4	Location 85 103	right thigh region
+T5	Temporal_Concept 104 125	for the past few days
+T6	Sign_or_Symptom 142 172	‘red bumps’ just began to form
+T7	Sign_or_Symptom 284 296	hypertension
+T8	Sign_or_Symptom 298 313	diabetes type 2
+T9	Sign_or_Symptom 319 333	hyperlipidemia
+T10	No_Finding_Occurence 416 422	vitals
+T11	Sign_or_Symptom 482 512	linear line with 3 red papules
+T12	Location 524 566	along the medial aspect of his right thigh
+T13	Sign_or_Symptom 592 611	small rows of bumps
+T14	Location 619 627	left leg
+T15	Location 632 645	right forearm
+T16	Sign_or_Symptom 647 659	Excoriations
+T17	Location 685 696	same region

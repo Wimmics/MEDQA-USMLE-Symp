@@ -1,0 +1,38 @@
+T1	Age_Group 2 13	17-year-old
+T2	Population_Group 14 17	boy
+T3	Sign_or_Symptom 57 72	increasing pain
+T4	Sign_or_Symptom 77 85	swelling
+T5	Location 93 103	right knee
+T6	Temporal_Concept 104 115	for 12 days
+T7	Sign_or_Symptom 140 159	pain with urination
+T8	Temporal_Concept 160 171	for 3 weeks
+T9	Sign_or_Symptom 182 215	painful, swollen left ankle joint
+T10	Temporal_Concept 248 260	one week ago
+T11	Population_Group 266 272	mother
+T12	Sign_or_Symptom 277 297	rheumatoid arthritis
+T13	Sign_or_Symptom 388 395	anxious
+T14	Finding 401 430	temperature is 38°C (100.4°F)
+T15	Finding 432 447	pulse is 68/min
+T16	Finding 453 483	blood pressure is 100/80 mm Hg
+T17	Sign_or_Symptom 503 544	bilateral inflammation of the conjunctiva
+T18	Sign_or_Symptom 550 597	right knee is tender, erythematous, and swollen
+T19	Sign_or_Symptom 599 633	range of motion is limited by pain
+T20	Sign_or_Symptom 644 654	tenderness
+T21	Location 662 697	left Achilles tendon insertion site
+T22	No_Finding_Occurence 728 741	abnormalities
+T23	Finding 768 788	Hemoglobin 14.5 g/dL
+T24	Finding 789 815	Leukocyte count 12,300/mm3
+T25	Finding 816 842	Platelet count 310,000/mm3
+T26	Finding 843 881	Erythrocyte sedimentation rate 38 mm/h
+T27	Finding 888 910	Urea nitrogen 18 mg/dL
+T28	Finding 911 927	Glucose 89 mg/dL
+T29	Finding 928 948	Creatinine 1.0 mg/dL
+T30	No_Finding_Occurence 955 962	Protein
+T31	No_Finding_Occurence 972 977	Blood
+T32	Finding 987 1000	WBC 12–16/hpf
+T33	Finding 1001 1012	RBC 1–2/hpf
+T34	No_Finding_Occurence 1031 1034	HIV
+T35	Sign_or_Symptom 1076 1100	synovial fluid is cloudy
+T36	No_Finding_Occurence 1107 1117	Gram stain
+T37	Finding 1170 1199	leukocyte count of 26,000/mm3
+T38	Finding 1204 1219	75% neutrophils

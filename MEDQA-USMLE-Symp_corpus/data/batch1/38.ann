@@ -1,0 +1,29 @@
+T1	Relevant_symptoms 479 498	shortness of breath
+T2	Sign_or_Symptom 517 525	cyanosis
+T3	Sign_or_Symptom 147 153	asthma
+T4	Location 702 719	intravenous sites
+T5	Finding 318 368	fetal heart rate is reactive with no decelerations
+T6	Relevant_symptoms 557 600	pulse and blood pressure cannot be detected
+T7	Finding 21 30	gravida 3
+T9	Finding 32 38	para 2
+T11	Finding 410 442	prolonged deceleration to 60/min
+T12	Sign_or_Symptom 539 551	unresponsive
+T14	Age_Group 2 13	32-year-old
+T15	Population_Group 14 19	woman
+T16	Sign_or_Symptom 94 106	active labor
+T17	Finding 43 62	41 weeks' gestation
+T13	Sign_or_Symptom 216 237	second stage of labor
+T18	Finding 243 283	cervix is 100% effaced and 10 cm dilated
+T8	Finding 289 312	vertex is at -1 station
+T19	Temporal_Concept 370 386	After 10 minutes
+T20	Sign_or_Symptom 390 397	pushing
+R1	Related Ent1:T20 Ent2:T19	
+R2	Related Ent1:T11 Ent2:T19	
+T21	Temporal_Concept 638 656	Five minutes later
+T22	Sign_or_Symptom 667 675	bleeding
+T23	Location 685 689	nose
+T24	Location 691 696	mouth
+R3	Related Ent1:T22 Ent2:T23	
+R4	Related Ent1:T22 Ent2:T24	
+R5	Related Ent1:T22 Ent2:T4	
+R6	Related Ent1:T22 Ent2:T21	

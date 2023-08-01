@@ -1,0 +1,21 @@
+T1	Age_Group 2 13	22-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 61 75	abdominal pain
+T4	Sign_or_Symptom 194 206	contractions
+T5	Sign_or_Symptom 214 238	bloody vaginal discharge
+T6	Sign_or_Symptom 313 330	10 weeks pregnant
+T7	Sign_or_Symptom 374 386	constipation
+T8	Sign_or_Symptom 388 395	anxiety
+T9	Sign_or_Symptom 401 416	substance abuse
+T10	Temporal_Concept 350 354	past
+T11	Finding 467 497	temperature is 99.5°F (37.5°C)
+T12	Finding 499 528	blood pressure is 107/58 mmHg
+T13	Finding 530 545	pulse is 90/min
+T14	Finding 547 570	respirations are 17/min
+T15	Finding 576 600	oxygen saturation is 98%
+T16	Sign_or_Symptom 645 669	bloody vaginal discharge
+T17	Sign_or_Symptom 677 688	open cervix
+T18	Sign_or_Symptom 1146 1157	lacerations
+T19	Location 1167 1173	wrists
+T20	Sign_or_Symptom 914 919	angry
+T21	Sign_or_Symptom 924 934	aggressive

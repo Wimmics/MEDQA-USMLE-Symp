@@ -1,0 +1,16 @@
+T3	Sign_or_Symptom 30 34	mass
+T7	Age_Group 2 13	19-year-old
+T8	Population_Group 14 19	woman
+T9	Location 42 53	left breast
+T10	Temporal_Concept 54 65	2 weeks ago
+R1	Related Ent1:T3 Ent2:T9	
+R2	Related Ent1:T3 Ent2:T10	
+T5	Sign_or_Symptom 197 216	large dense breasts
+T1	Location 263 302	upper outer quadrant of the left breast
+T11	No_Symptom_Occurence 317 346	changes in the skin or nipple
+T12	No_Symptom_Occurence 364 392	palpable axillary adenopathy
+T14	Relevant_symptoms 226 243	firm, mobile mass
+T2	Population_Group 115 121	mother
+T13	Sign_or_Symptom 130 154	metastatic breast cancer
+T15	Sign_or_Symptom 122 126	died
+R3	Related Ent1:T14 Ent2:T1	

@@ -1,0 +1,21 @@
+T1	Age_Group 2 13	59-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 62 110	sudden-onset sensation that the room is spinning
+T4	Temporal_Concept 137 156	several episodes of
+T5	Sign_or_Symptom 157 163	nausea
+T6	Sign_or_Symptom 168 176	vomiting
+T7	Temporal_Concept 350 371	for roughly 3 minutes
+T8	Sign_or_Symptom 344 349	dizzy
+T9	Temporal_Concept 317 323	before
+T10	No_Symptom_Occurence 294 316	never experienced this
+T11	No_Symptom_Occurence 434 441	healthy
+T12	Sign_or_Symptom 468 474	eczema
+T13	Finding 480 510	temperature is 97.7°F (36.5°C)
+T14	Finding 512 541	blood pressure is 134/85 mmHg
+T15	Finding 543 558	pulse is 85/min
+T16	Finding 560 583	respirations are 13/min
+T17	Finding 589 613	oxygen saturation is 98%
+T18	No_Symptom_Occurence 677 688	normal gait
+T19	Sign_or_Symptom 720 729	nystagmus
+T20	No_Symptom_Occurence 760 772	unremarkable
+T21	Sign_or_Symptom 871 911	severe symptoms with a nystagmus notable

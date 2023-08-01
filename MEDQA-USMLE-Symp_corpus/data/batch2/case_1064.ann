@@ -1,0 +1,14 @@
+T1	Age_Group 2 12	4-year-old
+T2	Population_Group 13 16	boy
+T3	Temporal_Concept 58 65	1-month
+T4	Sign_or_Symptom 89 96	fatigue
+T5	Sign_or_Symptom 136 141	fever
+T6	Sign_or_Symptom 146 161	severe leg pain
+T7	Sign_or_Symptom 211 248	cervical and axillary lymphadenopathy
+T8	Finding 254 306	liver is palpated 4 cm below the right costal margin
+T9	Finding 315 367	spleen is palpated 3 cm below the left costal margin
+T10	Finding 373 410	hemoglobin concentration is 10.2 g/dL
+T11	Finding 412 441	leukocyte count is 64,500/mm3
+T12	Finding 447 475	platelet count is 29,000/mm3
+T13	Finding 520 578	immature cells that stain positive for CD10, CD19, and TdT
+T14	Location 479 490	bone marrow

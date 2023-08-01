@@ -1,0 +1,18 @@
+T1	No_Symptom_Occurence 191 206	serious illness
+T4	Sign_or_Symptom 69 91	rough, painless lesion
+T5	Sign_or_Symptom 115 151	lesion has increased rapidly in size
+T6	Sign_or_Symptom 302 322	solitary 2-cm lesion
+T8	No_Finding_Occurence 429 442	abnormalities
+T10	Age_Group 3 14	82-year-old
+T11	Population_Group 15 18	man
+T12	Temporal_Concept 42 55	1 month after
+T14	Location 99 109	right hand
+R1	Related Ent1:T4 Ent2:T14	
+R3	Related Ent1:T4 Ent2:T12	
+T9	Temporal_Concept 152 168	during this time
+R5	Related Ent1:T5 Ent2:T9	
+T2	Population_Group 236 251	works on a farm
+T16	Location 330 348	dorsum of the hand
+R2	Related Ent1:T6 Ent2:T16	
+T3	Location 272 293	right upper extremity
+R4	Related Ent1:T6 Ent2:T3	

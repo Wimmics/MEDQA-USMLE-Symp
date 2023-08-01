@@ -1,0 +1,32 @@
+T1	Age_Group 2 13	44-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 62 71	confusion
+T4	Temporal_Concept 81 93	this morning
+T5	Sign_or_Symptom 147 161	abdominal pain
+T6	Sign_or_Symptom 163 171	diarrhea
+T7	Sign_or_Symptom 177 197	fatigue after eating
+T8	Sign_or_Symptom 207 214	vomited
+T9	Temporal_Concept 215 222	3 times
+T10	Sign_or_Symptom 248 261	more confused
+T11	Temporal_Concept 227 240	progressively
+T12	Sign_or_Symptom 303 317	morbid obesity
+T13	Temporal_Concept 267 271	past
+T14	Sign_or_Symptom 319 327	diabetes
+T15	Sign_or_Symptom 329 341	hypertension
+T16	Sign_or_Symptom 343 355	dyslipidemia
+T19	Sign_or_Symptom 395 436	depression with multiple suicide attempts
+T20	Finding 442 472	temperature is 98.0°F (36.7°C)
+T21	Finding 474 503	blood pressure is 104/54 mmHg
+T22	Finding 505 521	pulse is 120/min
+T23	Finding 523 546	respirations are 15/min
+T24	Finding 552 576	oxygen saturation is 98%
+T25	Sign_or_Symptom 623 644	generalized confusion
+T26	Finding 699 713	Na+: 139 mEq/L
+T27	Finding 714 728	Cl-: 100 mEq/L
+T28	Finding 729 742	K+: 3.9 mEq/L
+T29	Finding 743 758	HCO3-: 24 mEq/L
+T30	Finding 759 772	BUN: 22 mg/dL
+T31	Finding 773 790	Glucose: 41 mg/dL
+T32	Finding 791 812	Creatinine: 1.1 mg/dL
+T33	Finding 813 829	Ca2+: 10.2 mg/dL
+T34	No_Finding_Occurence 830 845	C-peptide level

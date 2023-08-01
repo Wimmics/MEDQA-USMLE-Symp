@@ -1,0 +1,25 @@
+T1	Relevant_symptoms 235 257	diffuse abdominal pain
+T2	Relevant_symptoms 330 348	diffuse tenderness
+T3	Relevant_symptoms 160 181	joint and muscle pain
+T4	Sign_or_Symptom 118 126	vomiting
+T5	No_Symptom_Occurence 362 369	ascites
+T14	Finding 445 483	increased urea nitrogen and creatinine
+T15	Population_Group 14 17	man
+T16	Age_Group 2 13	47-year-old
+T17	Temporal_Concept 54 68	1-week history
+T7	Finding 72 102	temperatures to 38.3°C (101°F)
+T18	Temporal_Concept 142 156	1-year history
+T20	Temporal_Concept 202 217	1-month history
+R1	Related Ent1:T1 Ent2:T20	
+R2	Related Ent1:T7 Ent2:T17	
+R3	Related Ent1:T4 Ent2:T17	
+T8	Location 189 195	calves
+R4	Related Ent1:T3 Ent2:T8	
+R5	Related Ent1:T3 Ent2:T18	
+T9	Finding 263 295	temperature now is 37.2°C (99°F)
+T12	Relevant_symptoms 393 405	occult blood
+#2	AnnotatorNotes T1	Abdominal pain
+T10	Temporal_Concept 107 117	occasional
+R6	Related Ent1:T4 Ent2:T10	
+T6	Location 297 306	Abdominal
+R7	Related Ent1:T2 Ent2:T6	

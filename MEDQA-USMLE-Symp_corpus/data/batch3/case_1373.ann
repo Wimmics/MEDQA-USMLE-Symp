@@ -1,0 +1,11 @@
+T1	Age_Group 2 13	72-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 52 59	fatigue
+T4	Sign_or_Symptom 66 90	5-kg (11-lb) weight loss
+T5	Temporal_Concept 91 113	over the past 6 months
+T6	No_Symptom_Occurence 124 137	good appetite
+T7	Sign_or_Symptom 231 249	hepatosplenomegaly
+T8	Sign_or_Symptom 254 288	diffuse, nontender lymphadenopathy
+T9	Finding 316 351	hemoglobin concentration of 11 g/dL
+T10	Finding 358 387	leukocyte count of 16,000/mm3
+T11	Finding 391 436	direct antiglobulin (Coombs) test is positive

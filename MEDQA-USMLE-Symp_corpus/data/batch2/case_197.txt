@@ -1,0 +1,18 @@
+A 40-year-old woman presents to her primary care physician for a checkup. She has felt weaker lately and has lost some weight. She denies any urinary issues. Her BUN at her last visit 4 months ago was 45 mg/dL, and her creatinine was 2.0 mg/dL. Her laboratory studies this visit are seen below:
+
+Hemoglobin: 8 g/dL
+Hematocrit: 29%
+Leukocyte count: 9,500/mm^3 with normal differential
+Platelet count: 197,000/mm^3
+
+Serum:
+Na+: 139 mEq/L
+Cl-: 100 mEq/L
+K+: 5.9 mEq/L
+HCO3-: 17 mEq/L
+BUN: 59 mg/dL
+Glucose: 99 mg/dL
+Creatinine: 2.3 mg/dL
+Ca2+: 9.0 mg/dL
+
+Which of the following is the most likely diagnosis?

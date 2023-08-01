@@ -1,0 +1,17 @@
+T1	Age_Group 2 13	29-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 62 118	fever, headache, and rash, which have gradually worsened
+T6	Sign_or_Symptom 184 188	rash
+T7	Temporal_Concept 198 213	after 2 days of
+T8	Sign_or_Symptom 214 219	fever
+T9	Temporal_Concept 119 139	over the past 6 days
+T10	Location 245 251	wrists
+T11	Sign_or_Symptom 225 229	rash
+T12	Location 256 262	ankles
+T13	Location 296 301	trunk
+T14	Location 303 308	palms
+T15	Location 314 319	soles
+T16	Sign_or_Symptom 359 377	maculopapular rash
+T17	Finding 426 457	temperature of 39.4°C (103.0°F)
+T18	Finding 461 491	blood pressure of 110/70 mm Hg
+T19	Finding 499 519	pulse rate of 86/min

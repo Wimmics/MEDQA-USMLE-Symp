@@ -1,0 +1,23 @@
+T1	Age_Group 2 14	13-month-old
+T2	Population_Group 15 18	boy
+T3	Sign_or_Symptom 69 84	rectal bleeding
+T4	Temporal_Concept 99 119	earlier that morning
+T5	Sign_or_Symptom 146 180	several itchy and red skin lesions
+T6	Location 201 227	scalp and spread downwards
+T7	Temporal_Concept 271 283	six episodes
+T8	Temporal_Concept 310 321	since birth
+T9	Sign_or_Symptom 287 309	bilateral otitis media
+T10	Finding 370 407	3rd percentile for height and weight.
+T11	No_Finding_Occurence 412 423	vital signs
+T12	Sign_or_Symptom 468 494	several eczematous lesions
+T13	Location 504 509	scalp
+T14	Location 511 515	neck
+T15	Location 521 548	upper and lower extremities
+T16	Sign_or_Symptom 561 579	multiple red spots
+T17	No_Finding_Occurence 663 676	abnormalities
+T18	Finding 703 722	Hemoglobin 9.4 g/dL
+T19	Finding 723 749	Leukocyte count 11,500/mm3
+T20	Finding 750 775	Platelet count 30,000/mm3
+T21	Finding 776 799	Prothrombin time 14 sec
+T22	Finding 800 834	Partial thromboplastin time 33 sec
+T23	Finding 327 355	immunizations are up-to-date

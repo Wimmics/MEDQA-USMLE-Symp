@@ -1,0 +1,26 @@
+T1	Age_Group 2 13	56-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 54 61	2-month
+T4	Sign_or_Symptom 73 87	worsening pain
+T5	Location 95 107	left buttock
+T6	No_Symptom_Occurence 206 212	trauma
+T7	Sign_or_Symptom 136 151	deep, dull ache
+T8	Sign_or_Symptom 221 235	hyperlipidemia
+T9	Sign_or_Symptom 429 439	tenderness
+T10	Location 449 468	left gluteal region
+T11	Temporal_Concept 169 174	night
+T12	Sign_or_Symptom 549 652	4-cm, poorly defined, osteolytic lesion in the left ilium with a moth-eaten pattern of bone destruction
+T13	Sign_or_Symptom 654 693	multiple well-defined sclerotic lesions
+T14	Sign_or_Symptom 702 732	aggressive periosteal reaction
+T15	No_Finding_Occurence 816 829	abnormalities
+T16	No_Finding_Occurence 881 894	abnormalities
+T17	Age_Group 950 961	19-year-old
+T18	Population_Group 962 965	man
+T19	Sign_or_Symptom 1015 1068	facial acne presents with increased inguinal pruritis
+T20	Sign_or_Symptom 1191 1204	pruritic rash
+T21	No_Symptom_Occurence 1229 1237	negative
+T22	Sign_or_Symptom 1276 1311	erythematous, well-demarcated patch
+T23	Location 1319 1329	left thigh
+T24	Location 1340 1352	pubic region
+T25	Location 1373 1381	perineum
+T26	No_Symptom_Occurence 1387 1404	scrotum is spared

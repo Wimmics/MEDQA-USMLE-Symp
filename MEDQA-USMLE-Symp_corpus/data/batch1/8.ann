@@ -1,0 +1,21 @@
+T1	Relevant_symptoms 103 113	chest pain
+T2	Relevant_symptoms 212 219	painful
+T3	Relevant_symptoms 96 101	fever
+T4	Sign_or_Symptom 119 131	sore muscles
+T5	Temporal_Concept 0 17	Three weeks after
+T6	Age_Group 69 80	32-year-old
+T7	Population_Group 81 84	man
+T8	Temporal_Concept 133 147	Two days later
+T9	Relevant_symptoms 149 167	red tender nodules
+T10	Location 182 187	shins
+R1	Related Ent1:T9 Ent2:T8	
+R2	Related Ent1:T9 Ent2:T10	
+T11	Location 197 208	right ankle
+R3	Related Ent1:T2 Ent2:T11	
+T12	Relevant_symptoms 224 230	tender
+R4	Related Ent1:T12 Ent2:T11	
+T13	Relevant_symptoms 262 283	left pleural effusion
+#1	AnnotatorNotes T1	Chest pain
+#2	AnnotatorNotes T3	Fever
+#3	AnnotatorNotes T13	Exudative pleural effusion
+#4	AnnotatorNotes T9	Indurated nodule

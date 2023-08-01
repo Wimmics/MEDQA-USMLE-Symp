@@ -1,0 +1,18 @@
+T1	Age_Group 2 13	31-year-old
+T2	Population_Group 14 20	female
+T3	Sign_or_Symptom 43 63	significant swelling
+T4	Sign_or_Symptom 68 75	redness
+T5	Location 83 90	fingers
+T6	Sign_or_Symptom 111 127	significant pain
+T7	Sign_or_Symptom 158 184	stiff and slightly swollen
+T8	Location 133 143	right knee
+T9	Temporal_Concept 185 205	for the past 6 weeks
+T10	Sign_or_Symptom 214 230	overall fatigued
+T11	Sign_or_Symptom 239 263	difficulty moving around
+T12	Sign_or_Symptom 341 401	distal interphalangeal joints are swollen, warm, and painful
+T13	Sign_or_Symptom 407 435	nails are pitted and cracked
+T14	Sign_or_Symptom 452 484	rough, erythematous skin patches
+T15	Location 499 505	elbows
+T16	Temporal_Concept 530 553	for the last few months
+T17	Population_Group 578 584	father
+T18	Sign_or_Symptom 591 608	similar condition

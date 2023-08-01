@@ -1,0 +1,26 @@
+T1	Age_Group 2 13	27-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 61 65	pain
+T4	Location 69 84	multiple joints
+T5	Sign_or_Symptom 114 134	symmetric joint pain
+T6	Temporal_Concept 148 157	yesterday
+T7	Sign_or_Symptom 171 180	worsening
+T8	Location 202 208	wrists
+T9	Location 210 216	elbows
+T10	Location 222 231	shoulders
+T11	Sign_or_Symptom 253 269	subjective fever
+T12	Sign_or_Symptom 279 286	fatigue
+T13	No_Symptom_Occurence 302 316	other symptoms
+T14	Population_Group 341 354	schoolteacher
+T15	Finding 470 499	temperature is 100°F (37.8°C)
+T16	Finding 501 530	blood pressure is 122/85 mmHg
+T17	Finding 532 547	pulse is 88/min
+T18	Finding 549 572	respirations are 14/min
+T19	Finding 578 602	oxygen saturation is 99%
+T20	Sign_or_Symptom 693 708	joint stiffness
+T21	Sign_or_Symptom 713 717	pain
+T22	Location 806 811	wrist
+T23	Location 739 764	metacarpophalangeal (MCP)
+T24	Location 766 796	proximal interphalangeal (PIP)
+T25	Sign_or_Symptom 937 959	symptoms have improved
+T26	Temporal_Concept 855 871	Four weeks later

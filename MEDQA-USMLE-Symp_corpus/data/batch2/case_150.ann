@@ -1,0 +1,18 @@
+T1	Age_Group 2 13	48-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 54 61	4-month
+T4	Sign_or_Symptom 73 116	persistent cough productive of white phlegm
+T5	Sign_or_Symptom 266 299	shortness of breath with exertion
+T6	Temporal_Concept 240 248	recently
+T7	No_Finding_Occurence 199 207	triggers
+T8	Temporal_Concept 141 159	throughout the day
+T9	No_Symptom_Occurence 333 338	fever
+T10	No_Symptom_Occurence 343 349	chills
+T11	No_Symptom_Occurence 320 331	weight loss
+T12	Temporal_Concept 375 384	last year
+T13	Temporal_Concept 399 413	about 6 months
+T14	Sign_or_Symptom 358 374	similar symptoms
+T15	Sign_or_Symptom 422 434	hypertension
+T16	No_Finding_Occurence 577 588	Vital signs
+T17	Sign_or_Symptom 636 657	end-expiratory wheeze
+T18	Location 669 683	all lung zones

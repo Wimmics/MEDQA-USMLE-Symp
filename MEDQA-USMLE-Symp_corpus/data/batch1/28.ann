@@ -1,0 +1,32 @@
+T2	Relevant_symptoms 37 56	primary infertility
+T4	Relevant_symptoms 321 333	dysmenorrhea
+T5	Finding 199 218	normal sperm counts
+T8	Finding 14 25	nulligravid
+T9	No_Symptom_Occurence 290 302	asymptomatic
+T12	Age_Group 2 13	36-year-old
+T13	Population_Group 26 31	woman
+T11	Relevant_symptoms 105 123	unable to conceive
+T14	Temporal_Concept 124 136	for 10 years
+R1	Related Ent1:T11 Ent2:T14	
+T15	Sign_or_Symptom 220 226	Menses
+T16	Temporal_Concept 244 260	28-day intervals
+T17	Temporal_Concept 265 281	last 5 to 6 days
+R2	Related Ent1:T15 Ent2:T16	
+R3	Related Ent1:T15 Ent2:T17	
+T6	Sign_or_Symptom 393 414	secretory endometrium
+T10	Temporal_Concept 438 448	1 year ago
+T3	No_Symptom_Occurence 591 605	adnexal masses
+#1	AnnotatorNotes T2	Decreased fertility
+#2	AnnotatorNotes T11	Decreased fertility
+#3	AnnotatorNotes T4	Dysmenorrhea
+T1	Population_Group 154 161	husband
+T7	No_Finding_Occurence 463 471	findings
+T18	No_Symptom_Occurence 500 506	normal
+T19	Location 507 513	vagina
+T20	Location 518 524	cervix
+R4	Related Ent1:T18 Ent2:T19	
+R5	Related Ent1:T18 Ent2:T20	
+R6	Related Ent1:T7 Ent2:T10	
+T21	Location 568 574	uterus
+T22	No_Finding_Occurence 555 567	normal-sized
+R7	Related Ent1:T22 Ent2:T21	

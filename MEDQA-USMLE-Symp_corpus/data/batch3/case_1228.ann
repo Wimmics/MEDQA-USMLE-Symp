@@ -1,0 +1,38 @@
+T1	Age_Group 3 13	8-year-old
+T2	Population_Group 14 17	boy
+T3	Sign_or_Symptom 65 78	short stature
+T4	Sign_or_Symptom 160 191	frequently bumps into obstacles
+T5	Sign_or_Symptom 218 227	headaches
+T6	Temporal_Concept 231 236	night
+T7	Sign_or_Symptom 251 273	thirsty for cold water
+T8	Sign_or_Symptom 287 296	urinating
+T9	Temporal_Concept 297 312	more frequently
+T10	Temporal_Concept 314 329	Three years ago
+T11	Sign_or_Symptom 341 354	asthma attack
+T12	Population_Group 426 432	mother
+T13	Sign_or_Symptom 437 460	Hashimoto's thyroiditis
+T14	Sign_or_Symptom 469 487	precocious puberty
+T15	Population_Group 493 501	mother's
+T16	Finding 502 531	height is 147 cm (4 ft 10 in)
+T17	Finding 549 577	height is 160 cm (5 ft 3 in)
+T18	Population_Group 540 548	father's
+T19	Finding 592 616	5th percentile for heigh
+T20	Finding 622 647	5th percentile for weight
+T21	Finding 653 681	temperature is 37°C (98.6°F)
+T22	Finding 683 698	pulse is 98/min
+T23	Finding 700 723	respirations are 16/min
+T24	Finding 729 759	blood pressure is 100/64 mm Hg
+T25	No_Symptom_Occurence 781 807	soft and nontender abdomen
+T26	Finding 813 860	genitals and pubic hair are both Tanner stage 1
+T27	No_Finding_Occurence 862 875	Axillary hair
+T28	Finding 887 923	Patellar reflexes are 1+ bilaterally
+T29	Finding 950 963	Na+ 145 mEq/L
+T30	Finding 964 976	K+ 4.1 mEq/L
+T31	Finding 977 990	Cl- 102 mEq/L
+T32	Finding 991 1005	HCO3- 25 mEq/L
+T33	Finding 1006 1020	Ca2+ 9.4 mg/dL
+T34	Finding 1021 1038	Glucose 110 mg/dL
+T35	Finding 1039 1076	Thyroid-stimulating hormone 0.3 μU/mL
+T36	Finding 1077 1096	Thyroxine 3.9 μg/dL
+T37	Finding 1097 1151	Insulin-like growth factor 1 24 ng/mL (N=61–356 ng/mL)
+T38	Finding 1152 1225	Insulin-like growth factor binding protein 3 2.1 mcg/mL (N=1.6–6.5 μg/mL)

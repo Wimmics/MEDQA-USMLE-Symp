@@ -1,0 +1,13 @@
+T1	Age_Group 21 32	75-year-old
+T2	Population_Group 33 36	man
+T3	Sign_or_Symptom 86 93	fatigue
+T4	Temporal_Concept 67 74	6-month
+T5	Sign_or_Symptom 95 106	weight loss
+T6	Sign_or_Symptom 112 126	abdominal pain
+T7	No_Symptom_Occurence 13 20	healthy
+T8	Temporal_Concept 2 12	previously
+T9	Population_Group 196 203	retired
+T10	Sign_or_Symptom 317 327	tenderness
+T11	Location 296 316	right upper quadrant
+T12	Finding 333 375	liver edge is palpable 2 cm below the ribs
+T13	Finding 407 470	pleomorphic spindle cells that express PECAM-1 on their surface

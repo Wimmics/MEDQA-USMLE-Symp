@@ -1,0 +1,32 @@
+T1	Age_Group 2 12	2-year-old
+T2	Population_Group 13 16	boy
+T3	Sign_or_Symptom 63 69	pallor
+T4	Sign_or_Symptom 74 93	increasing lethargy
+T5	Temporal_Concept 94 104	for 2 days
+T6	Sign_or_Symptom 135 149	abdominal pain
+T7	Sign_or_Symptom 151 159	vomiting
+T8	Sign_or_Symptom 165 180	bloody diarrhea
+T9	Temporal_Concept 106 118	One week ago
+T10	Finding 384 412	immunizations are up-to-date
+T11	Sign_or_Symptom 425 429	pale
+T12	Finding 435 466	temperature is 38.4°C (101.1°F)
+T13	Finding 468 484	pulse is 130/min
+T14	Finding 486 509	respirations are 35/min
+T15	Finding 515 544	blood pressure is 95/50 mm Hg
+T16	Sign_or_Symptom 564 579	scleral icterus
+T17	No_Symptom_Occurence 585 614	abdomen is soft and nontender
+T18	No_Symptom_Occurence 628 635	rebound
+T19	No_Symptom_Occurence 639 647	guarding
+T20	Sign_or_Symptom 649 677	Bowel sounds are hyperactive
+T21	No_Finding_Occurence 721 734	abnormalities
+T22	Finding 761 780	Hemoglobin 8.5 g/dL
+T23	Finding 781 811	Mean corpuscular volume 94 μm3
+T24	Finding 812 838	Leukocyte count 18,000/mm3
+T25	Finding 839 864	Platelet count 45,000/mm3
+T26	Finding 865 888	Prothrombin time 12 sec
+T27	Finding 889 923	Partial thromboplastin time 34 sec
+T28	Finding 924 929;930 952	Serum Urea nitrogen 28 mg/dL
+T29	Finding 953 973	Creatinine 1.6 mg/dL
+T30	Finding 974 983;984 999;1000 1016	Bilirubin Total 2.5 mg/dL Direct 0.1 mg/dL
+T31	Finding 1017 1047	Lactate dehydrogenase 1658 U/L
+T32	Sign_or_Symptom 1068 1080	schistocytes

@@ -1,0 +1,13 @@
+T1	Age_Group 2 12	4-year-old
+T2	Population_Group 13 16	boy
+T3	Sign_or_Symptom 70 90	generalized weakness
+T4	Sign_or_Symptom 95 113	difficulty walking
+T5	Temporal_Concept 114 132	for the past month
+T6	Finding 160 196	hemoglobin concentration of 6.6 g/dL
+T7	Finding 198 231	mean corpuscular volume of 74 μm3
+T8	Finding 233 262	platelet count of 150,000/mm3
+T9	Finding 268 300	serum total bilirubin of 2 mg/dl
+T10	Sign_or_Symptom 328 348	low signal intensity
+T11	Location 352 372	all vertebral bodies
+T12	Sign_or_Symptom 379 446	small epidural mass compressing the spinal canal at the level of L1
+T13	Finding 573 645	erythroid colonies with an abundance of megakaryocytes and myeloid cells

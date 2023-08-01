@@ -1,0 +1,18 @@
+T1	Age_Group 2 13	67-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 41 50	arthritis
+T4	Temporal_Concept 51 63	16 years ago
+T5	Sign_or_Symptom 89 97	swelling
+T6	Sign_or_Symptom 102 106	pain
+T7	Location 78 88	right knee
+T8	Temporal_Concept 136 149	few weeks ago
+T9	Sign_or_Symptom 126 133	swollen
+T10	Location 112 121	left knee
+T11	Sign_or_Symptom 164 184	both joints affected
+T12	Location 155 158	now
+T13	Sign_or_Symptom 193 211	difficulty walking
+T14	Sign_or_Symptom 216 232	feels frustrated
+T15	Sign_or_Symptom 246 255	back pain
+T16	Sign_or_Symptom 348 385	pain significantly improves with rest
+T17	Sign_or_Symptom 408 416	dandruff
+T18	Sign_or_Symptom 489 509	pitting of his nails

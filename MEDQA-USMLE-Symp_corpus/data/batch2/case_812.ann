@@ -1,0 +1,17 @@
+T1	Age_Group 2 13	45-year-old
+T2	Population_Group 14 36	African-American woman
+T3	Sign_or_Symptom 80 90	hemoptysis
+T4	Temporal_Concept 69 78	episode o
+T5	Sign_or_Symptom 130 149	nonproductive cough
+T6	Sign_or_Symptom 151 158	fatigue
+T7	Sign_or_Symptom 166 190	9-kg (20-lb) weight loss
+T8	Temporal_Concept 92 114	Over the past 8 months
+T9	Sign_or_Symptom 272 284	hypertension
+T10	Sign_or_Symptom 289 303	osteoarthritis
+T11	Population_Group 399 409	accountant
+T12	Finding 415 445	temperature is 37.0°C (98.6°F)
+T13	Finding 447 462	pulse is 94/min
+T14	Finding 468 498	blood pressure is 130/90 mm Hg
+T15	Location 500 505	Lungs
+T16	No_Finding_Occurence 519 531	auscultation
+T17	Sign_or_Symptom 563 669	2.5-cm nodule with irregular borders at the apex of the left lung with no mediastinal or hilar enlargement

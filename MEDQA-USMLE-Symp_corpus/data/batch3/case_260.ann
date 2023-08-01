@@ -1,0 +1,12 @@
+T1	Age_Group 2 13	22-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 54 83	progressive swelling and pain
+T4	Location 91 108	right ring finger
+T5	Temporal_Concept 109 128	for the past 2 days
+T6	Sign_or_Symptom 283 312	right ring finger is extended
+T7	Sign_or_Symptom 323 327	pain
+T8	Sign_or_Symptom 332 340	swelling
+T9	Location 348 376	distal interphalangeal joint
+T10	Sign_or_Symptom 424 455	right ring finger does not flex
+T11	Location 463 491	distal interphalangeal joint
+T12	Sign_or_Symptom 502 517	no joint laxity

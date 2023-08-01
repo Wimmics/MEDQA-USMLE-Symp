@@ -1,0 +1,51 @@
+Finding,Frequency in MEDQUA-USMLE-Symp,Gold Low Term,Gold High Term,Low value Boundary,Low value Female Boundary,High value Boundary,High value Female Boundary,Unit,Sources
+Blood pressure,141,Hypotension,Hypertension,90/60,,120/80,,mm Hg,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Temperature,131,Hypothermia,Fever,36.5,,37.3,,°C,https://medlineplus.gov/ency/article/002341.htm
+Pulse,131,Bradycardia,Tachycardia,60,,100,,beats per minute,https://emedicine.medscape.com/article/2172316-overview
+Respirations,86,Bradypnea,Tachypnea,12,,18,,breaths per minute,
+Erythrocyte sedimentation rate,77,-,Increased / Inflammation,0,0,15,20,mm/hour,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Hemoglobin,41,Anemia,Polycythemia,14,12,17,16,g/dL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Oxygen saturation,41,Hypoxemia,Hyperoxia,85,,–,,%,https://www.msdmanuals.com/professional/SearchResults?query=Oxygen+saturation&page=1
+Leukocyte count,40,Leukopenia,Leukocytosis,5000,,10000,,mm3,"https://emedicine.medscape.com/article/2054452-overview#:~:text=The%20reference%20range%20for%20adults,)%20%2D%205000%2D10%2C000%2Fmm&text=Total%20leukocytes%20(children%20aged%202,)%20%2D%206200%2D17%2C000%2Fmm"
+Platelet count,37,Thrombocytopenia,Thrombocytosis,150,,350,,10^3/mcL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Weight,27,Underweight,Overweight,,,,,,
+Heart rate,25,Bradycardia,Tachycardia,60,,100,,bmp,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Ureal level,20,Hypoureaemia,Hyperazotemia,0,,2,,ng/mL,
+Prothrombin time,8,Decreased prothrombin time,Prolonged prothrombin time,11,,13,,seconds,
+Gravidity (number of pregnancies),16,Nulliparous,Multiparous,0,,1,,,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Glucose (Glu),16,Hypoglycemia,Hyperglycemia,70,,140,,mg/dL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Creatinine (Cr),15,Hypocreatinemia,Hypercreatininemia,0.7,0.5,1.2,1,mg/dL,https://ltd.aruplab.com/Tests/Pub/0099592
+Anti Jo-1,14,Negative,Indeterminate/Borderline,29,,30-40,,AU/mL,
+Height percentile,14,Extremely short stature,Very tall,5,,95,,percentile,https://www.msdmanuals.com/professional/SearchResults?query=Hearing+in+the+left+ear&page=1
+Hearing in the left ear,13,-,Hearing loss,-10,,–,,dB,https://www.msdmanuals.com/professional/SearchResults?query=BMI
+BMI,12,Underweight,Overweight,18.5,,24.9,,,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Parathyroid hormone level,10,Hypoparathyroidism,Hyperparathyroidism,10,,65,,pg/mL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Hematocrit,9,Decreased hematocrit,Increased hematocrit,41,36,51,47,%,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Total serum protein,9,Hypoproteinemia,Hyperproteinemia,6,,7.8,,g/dL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Total bilirubin,9,Hypobilirubinemia,Hyperbilirubinemia,0.3,,1.2,,mg/dL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Aspartate amino-transferase (AST),9,Lower than normal range,Higher than normal range,0,,35,,U/L,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Muscle mass,3,Amyotrophy,-,0,,5,,,https://www.msdmanuals.com/professional/SearchResults?query=Muscle+strength
+Leukocyte esterase,1,Negative,Positive,0,,0.001,,Units,
+Urine Protein,1,-,Abnormal,–,,100,,mg/24 hours,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/urine-tests-normal-values
+HIV,1,Negative,Positive,,,,,,https://www.msdmanuals.com/professional/infectious-diseases/human-immunodeficiency-virus-hiv/human-immunodeficiency-virus-hiv-infection?query=hiv%20antibody%20test%20results
+Fecal occult blood,1,Negative,Positive,,,,,,https://www.msdmanuals.com/professional/gastrointestinal-disorders/tumors-of-the-gastrointestinal-tract/colorectal-cancer?query=Fecal%20occult%20blood
+Head circumference percentile,1,Microcephaly,Macrocephaly,2,,98,,percentile,https://www.msdmanuals.com/professional/SearchResults?query=Head+circumference+percentile#
+Vision,1,-,Reduced visual acuity,,,,,,https://www.msdmanuals.com/professional/SearchResults?query=visual+acuity&page=1
+Free T4,1,Hypothyroidism,Hyperthyroidism,0.9,,2.4,,ng/dL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Liver palpation,1,-,Hepatomegaly,7.5,4,13.5,10,cm,"https://www.ncbi.nlm.nih.gov/books/NBK421/#:~:text=By%20percussion%2C%20the%20mean%20liver,g%20in%20the%20adult%20man."
+C-peptide level,1,increased,decreased,0.9,,4.3,,ng/mL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Abduction,1,Hypoabduction,-,,,,,,
+Lymphocyte count,2,Lymphocytopenia,Hyperlymphocytosis,0.77,,4.5,,10^3 cells/mcL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Hepatitis B core IgG antibody (anti-HBc),1,Negative,Positive,640,,1430,,mg/dL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Lower extremities strength,3,No contraction seen,Full range of motion,0,,5,,,
+Anti dsDNA,1,Negative,Positive,–,,25,,IU,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+CRP,1,No inflammation,inflammation,–,,0.8,,mg/dL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Hepatitis B envelope antigen (HBeAg),1,Negative,Positive,–,,–,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371426/
+Age,1,Adult age,Senior age,,,,,,
+pH of discharge,8,Acidosis,Alkaline,4,,4.5,,,
+Weight percentile,2,Underweight,Healthy weight,5,,85,,percentile,https://www.msdmanuals.com/professional/SearchResults?query=Weight+percentile&page=1#
+Toxoplasma gondii IgG,2,Negative,Positive,4,,8,,IU/ml,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2446631/
+Urine RBC,1,Negative,Positive,0,,2,,RBCs/hpf,https://emedicine.medscape.com/article/2074001-overview
+Immunoglobulin concentration,1,Hypogammaglobulinemia,Hypergammaglobulinemia,20,,140,,mg/dL,https://www.msdmanuals.com/professional/resources/normal-laboratory-values/blood-tests-normal-values
+Cryptococcal antigen,1,Negative,Positive,,,,,,
+Pulse oximetry,1,Hypoxemia,Hyperoxia,85,,–,,%,https://www.msdmanuals.com/professional/SearchResults?query=Oxygen+saturation&page=1

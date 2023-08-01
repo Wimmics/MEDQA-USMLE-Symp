@@ -1,0 +1,22 @@
+T1	Age_Group 2 13	44-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 66 77	small bumps
+T4	Location 85 95	left thigh
+T5	Sign_or_Symptom 101 125	lesions are non-pruritic
+T6	Temporal_Concept 148 169	for the last 3 weeks.
+T7	Sign_or_Symptom 202 209	malaise
+T8	Sign_or_Symptom 181 197	feeling fatigued
+T9	Temporal_Concept 210 233	for the past few months
+T10	Finding 383 403	heart rate is 82/min
+T11	Finding 409 435	respiratory rate is 14/min
+T12	Finding 441 471	temperature is 36.7°C (98.1°F)
+T13	Finding 481 511	blood pressure is 126/80 mm Hg
+T14	No_Symptom_Occurence 550 557	murmurs
+T15	Location 533 538	heart
+T17	Sign_or_Symptom 604 647	Three 2-3 mm, dome-shaped, hardened papules
+T18	Location 665 675	left thigh
+T19	Sign_or_Symptom 741 776	non-tender cervical lymphadenopathy
+T20	Sign_or_Symptom 677 697	Central umbilication
+T21	Location 717 728	each papule
+T16	Location 559 564	Lungs
+T22	No_Symptom_Occurence 578 603	auscultation bilaterally.

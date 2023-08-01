@@ -1,0 +1,21 @@
+T1	Age_Group 2 13	27-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 60 69	dizziness
+T4	Sign_or_Symptom 102 173	sustained sensation of the room spinning that is low grade and constant
+T5	Temporal_Concept 174 192	since this morning
+T6	Sign_or_Symptom 225 233	nauseous
+T7	No_Symptom_Occurence 324 341	generally healthy
+T8	Sign_or_Symptom 436 440	cold
+T9	Temporal_Concept 450 462	few days ago
+T10	Finding 468 498	temperature is 98.7°F (37.1°C)
+T11	Finding 500 529	blood pressure is 122/81 mmHg
+T12	Finding 531 546	pulse is 82/min
+T13	Finding 548 571	respirations are 15/min
+T14	Finding 577 601	oxygen saturation is 99%
+T15	No_Symptom_Occurence 646 653	healthy
+T16	No_Symptom_Occurence 789 797	symptoms
+T17	Sign_or_Symptom 837 846	nystagmus
+T18	Sign_or_Symptom 891 918	bilateral decreased hearing
+T19	Sign_or_Symptom 934 957	tandem gait is unstable
+T20	No_Symptom_Occurence 972 985	baseline gait
+T21	Sign_or_Symptom 1044 1076	sustained sensation of imbalance

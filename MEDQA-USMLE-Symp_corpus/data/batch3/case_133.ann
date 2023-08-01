@@ -1,0 +1,12 @@
+T1	Age_Group 2 13	53-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 81 102	loss of consciousness
+T4	Temporal_Concept 103 113	1 hour ago
+T5	Temporal_Concept 67 80	an episode of
+T6	No_Symptom_Occurence 346 366	urinary incontinence
+T7	No_Symptom_Occurence 386 391	alert
+T8	No_Symptom_Occurence 396 404	oriented
+T9	No_Finding_Occurence 443 456	abnormalities
+T10	No_Finding_Occurence 490 504	focal findings
+T11	Finding 530 598	glucose, creatinine, and electrolytes are within the reference range
+T12	No_Finding_Occurence 630 643	abnormalities

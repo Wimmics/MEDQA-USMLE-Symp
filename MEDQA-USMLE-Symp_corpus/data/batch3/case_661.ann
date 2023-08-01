@@ -1,0 +1,15 @@
+T1	Age_Group 2 13	69-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 61 79	pain when he walks
+T4	Location 125 139	left great toe
+T5	Location 167 171	hips
+T6	Location 176 181	knees
+T7	Sign_or_Symptom 100 104	pain
+T8	Temporal_Concept 305 332	over the past several years
+T9	Temporal_Concept 343 347	past
+T10	Sign_or_Symptom 367 374	obesity
+T11	Sign_or_Symptom 376 401	type II diabetes mellitus
+T12	Sign_or_Symptom 416 428	hypertension
+T13	Location 687 702	lower extremity
+T14	Sign_or_Symptom 714 718	pain
+T15	Sign_or_Symptom 729 796	crepitus of the patient's hip when his thigh is flexed and extended

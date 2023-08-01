@@ -1,0 +1,14 @@
+T1	Age_Group 3 13	8-year-old
+T2	Population_Group 14 18	girl
+T3	Sign_or_Symptom 73 92	difficulty sleeping
+T4	Temporal_Concept 94 119	One to two times per week
+T5	Temporal_Concept 120 141	for the past 2 months
+T6	Sign_or_Symptom 151 197	woken up frightened in the middle of the night
+T7	Sign_or_Symptom 199 206	yelling
+T8	Sign_or_Symptom 211 217	crying
+T9	No_Symptom_Occurence 275 285	consolable
+T10	No_Symptom_Occurence 290 314	able to fall back asleep
+T11	Sign_or_Symptom 425 434	bad dream
+T12	Sign_or_Symptom 439 470	looks for ways to delay bedtime
+T13	Finding 508 540	developmental milestones to date
+T14	No_Finding_Occurence 572 585	abnormalities

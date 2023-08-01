@@ -1,0 +1,20 @@
+T1	Age_Group 2 13	50-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 54 62	blisters
+T4	Location 70 77	forearm
+T5	Temporal_Concept 92 102	3 days ago
+T6	Temporal_Concept 232 253	for the past 6 months
+T7	No_Symptom_Occurence 227 231	sick
+T8	Sign_or_Symptom 403 415	hypertension
+T9	Sign_or_Symptom 420 434	osteoarthritis
+T10	Sign_or_Symptom 544 561	pernicious anemia
+T11	Sign_or_Symptom 566 581	Graves' disease
+T12	Population_Group 526 532	family
+T13	No_Finding_Occurence 597 608	vital signs
+T14	Sign_or_Symptom 655 681	multiple, flaccid blisters
+T15	Location 689 717	volar surface of the forearm
+T16	Sign_or_Symptom 722 728	ulcers
+T17	Finding 736 771	buccal, gingival, and vulvar mucosa
+T18	Sign_or_Symptom 777 844	epidermis on the forearm separates when the skin is lightly stroked
+T19	Finding 850 924	total body surface area involvement of the blisters is estimated to be 10%
+T20	No_Finding_Occurence 968 981	abnormalities

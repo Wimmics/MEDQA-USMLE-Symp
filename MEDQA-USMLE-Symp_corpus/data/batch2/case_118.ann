@@ -1,0 +1,21 @@
+T1	Age_Group 2 13	56-year-old
+T2	Population_Group 14 17	man
+T3	Temporal_Concept 73 79	1-year
+T4	Sign_or_Symptom 101 120	shortness of breath
+T5	Sign_or_Symptom 125 136	weight loss
+T6	Finding 293 323	blood pressure is 130/78 mm Hg
+T7	Finding 325 345	pulse rate is 90/min
+T8	Finding 347 373	respiratory rate is 17/min
+T9	Finding 383 398	BMI is 31 kg/m2
+T10	Finding 432 464	oxygen saturation at rest is 95%
+T11	No_Symptom_Occurence 415 423	afebrile
+T12	Sign_or_Symptom 514 547	mildly prolonged expiratory phase
+T13	No_Symptom_Occurence 556 576	wheezing or crackles
+T14	Finding 709 730	FEV1/FVC ratio of 60%
+T15	Finding 735 769	FEV1 of 50% of the predicted value
+T16	Finding 795 841	total lung capacity of 110% of predicted value
+T17	Finding 845 887	residual volume of 115% of predicted value
+T19	Finding 895 925	DLCO of 60% of predicted value
+T18	Temporal_Concept 656 669	2 weeks later
+T20	Population_Group 153 172	construction worker
+T21	Population_Group 238 251	active smoker

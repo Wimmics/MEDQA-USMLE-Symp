@@ -1,0 +1,24 @@
+T1	Age_Group 2 13	69-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 54 59	cough
+T4	Temporal_Concept 60 81	for the past 3 months
+T5	Sign_or_Symptom 87 106	cough is mostly dry
+T6	Sign_or_Symptom 172 199	mucus with dark red streaks
+T7	Temporal_Concept 134 148	recent episode
+T8	Sign_or_Symptom 213 218	tired
+T9	Temporal_Concept 227 242	past few months
+T10	Temporal_Concept 244 263	Over the past month
+T11	Sign_or_Symptom 276 289	poor appetite
+T12	Sign_or_Symptom 296 320	5-kg (11-lb) weight loss
+T13	Sign_or_Symptom 345 354	back pain
+T14	Temporal_Concept 334 344	occasional
+T15	No_Finding_Occurence 511 517	vitals
+T16	Sign_or_Symptom 578 586	wheezing
+T17	Location 594 617	lower right lung field.
+T18	No_Symptom_Occurence 630 656	peripheral lymphadenopathy
+T19	Sign_or_Symptom 695 717	spleen is not palpable
+T20	Location 662 667	liver
+T21	Finding 745 782	hemoglobin concentration of 13.5 g/dL
+T22	Finding 784 825	serum calcium concentration of 12.3 mg/dL
+T23	Finding 833 864	total serum protein of 7.0 g/dL
+T24	No_Symptom_Occurence 674 685	normal size

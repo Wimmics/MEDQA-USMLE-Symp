@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	26-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 80 109	bizarre and agitated behavior
+T4	Temporal_Concept 110 130	for the last 6 weeks
+T5	Sign_or_Symptom 243 252	withdrawn
+T6	Sign_or_Symptom 266 275	depressed
+T7	Temporal_Concept 276 297	for the past 3 months
+T8	No_Finding_Occurence 514 527	abnormalities
+T9	Sign_or_Symptom 565 573	confused
+T10	Sign_or_Symptom 578 588	suspicious
+T11	Sign_or_Symptom 594 622	marked psychomotor agitation
+T12	Sign_or_Symptom 628 650	speech is disorganized
+T13	Sign_or_Symptom 659 675	affect is labile

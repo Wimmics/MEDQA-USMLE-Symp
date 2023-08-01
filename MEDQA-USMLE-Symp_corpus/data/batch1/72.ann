@@ -1,0 +1,36 @@
+T1	Sign_or_Symptom 130 138	lethargy
+T2	Relevant_symptoms 123 128	fever
+T3	Relevant_symptoms 305 314	petechiae
+T4	Relevant_symptoms 408 422	motor weakness
+T5	Relevant_symptoms 144 153	confusion
+T6	Finding 501 518	Hemoglobin 9 g/dL
+T8	Temporal_Concept 106 119	2-day history
+T10	Relevant_symptoms 431 474	oriented to person but not to place or time
+T11	Finding 586 611	Platelet count 15,000/mm3
+T12	No_Finding_Occurence 877 890	abnormalities
+T14	Age_Group 21 32	40-year-old
+T15	Population_Group 33 38	woman
+R1	Related Ent1:T2 Ent2:T8	
+R2	Related Ent1:T1 Ent2:T8	
+R3	Related Ent1:T5 Ent2:T8	
+T7	Finding 159 188	temperature is 38°C (100.4°F)
+T16	Finding 190 205	pulse is 80/min
+T17	Finding 207 230	respirations are 18/min
+T18	Finding 236 266	blood pressure is 140/90 mm Hg
+T19	Sign_or_Symptom 319 329	ecchymoses
+T20	Location 339 356	lower extremities
+T21	Finding 519 533	Hematocrit 27%
+T22	Finding 534 558	Leukocyte count 8000/mm3
+T23	Finding 612 645	Prothrombin time 12 sec (INR=1.1)
+T24	Finding 646 680	Partial thromboplastin time 30 sec
+T25	Finding 681 709	Serum Urea nitrogen 25 mg/dL
+T26	Finding 710 740	Lactate dehydrogenase 1000 U/L
+T27	Finding 743 809	peripheral blood smear shows 3+ polychromasia and 3+ schistocytes.
+T28	Finding 856 867	chest x-ray
+R4	Related Ent1:T19 Ent2:T20	
+R5	Related Ent1:T3 Ent2:T20	
+T9	Finding 810 852	Urine and blood cultures grow no organisms
+#2	AnnotatorNotes T10	Confusion
+#4	AnnotatorNotes T4	Generalized muscle weakness
+#1	AnnotatorNotes T2	Fever
+#3	AnnotatorNotes T5	Confusion

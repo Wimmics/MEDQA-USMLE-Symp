@@ -1,0 +1,28 @@
+T1	Age_Group 2 13	72-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 90 110	yellow discoloration
+T4	Temporal_Concept 68 89	gradually progressive
+T5	Location 118 122	skin
+T6	Sign_or_Symptom 127 147	generalized pruritus
+T7	Temporal_Concept 148 168	for the past 2 weeks
+T8	Sign_or_Symptom 194 216	appetite has decreased
+T9	Sign_or_Symptom 234 260	6.3-kg (14-lb) weight loss
+T10	Sign_or_Symptom 282 300	stool appears pale
+T11	Sign_or_Symptom 309 327	urine is very dark
+T12	Sign_or_Symptom 367 393	acute upper abdominal pain
+T13	Temporal_Concept 329 344	Three years ago
+T14	Temporal_Concept 353 366	an episode of
+T15	No_Finding_Occurence 620 631	vital signs
+T16	Sign_or_Symptom 685 694	yellowing
+T17	Location 702 714	conjunctivae
+T18	Location 719 723	skin
+T19	No_Symptom_Occurence 729 758	abdomen is soft and nontender
+T20	Location 799 819	right upper quadrant
+T21	Sign_or_Symptom 762 779	soft, cystic mass
+T22	Finding 885 913	Alkaline phosphatase 192 U/L
+T23	Finding 914 924	AST 32 U/L
+T24	Finding 925 935	ALT 34 U/L
+T25	Location 999 1016	subhepatic region
+T26	Sign_or_Symptom 971 991	anechoic cystic mass
+T27	Sign_or_Symptom 1021 1029	dilation
+T28	Location 1037 1077	intrahepatic and extrahepatic bile ducts

@@ -1,0 +1,29 @@
+T1	Age_Group 2 13	47-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 56 62	3-week
+T4	Sign_or_Symptom 74 93	generalized fatigue
+T5	Sign_or_Symptom 95 105	mild fever
+T6	Sign_or_Symptom 107 121	abdominal pain
+T7	Sign_or_Symptom 127 133	nausea
+T8	Sign_or_Symptom 309 331	darkening of her urine
+T9	Sign_or_Symptom 401 425	type 2 diabetes mellitus
+T10	Sign_or_Symptom 600 605	tired
+T11	Finding 611 642	temperature is 38.1°C (100.6°F)
+T12	Finding 644 659	pulse is 99/min
+T13	Finding 665 695	blood pressure is 110/74 mm Hg
+T14	Sign_or_Symptom 715 735	mild scleral icterus
+T15	Finding 741 809	liver is palpated 2–3 cm below the right costal margin and is tender
+T16	Finding 836 856	Hemoglobin 10.6 g/dL
+T17	Finding 857 882	Leukocyte count 11600/mm3
+T18	Finding 883 909	Platelet count 221,000/mm3
+T19	Finding 916 938	Urea nitrogen 26 mg/dL
+T20	Finding 939 956	Glucose 122 mg/dL
+T21	Finding 957 977	Creatinine 1.3 mg/dL
+T22	Finding 1031 1058	Alkaline phosphatase 72 U/L
+T23	Finding 1059 1070	AST 488 U/L
+T24	Finding 1071 1082	ALT 798 U/L
+T25	Finding 1083 1117	Hepatitis A IgG antibody (HAV-IgG)
+T26	Finding 1127 1162	Hepatitis B surface antigen (HBsAg)
+T27	Finding 1172 1212	Hepatitis B core IgG antibody (anti-HBc)
+T28	Finding 1222 1258	Hepatitis B envelope antigen (HBeAg)
+T29	No_Finding_Occurence 1268 1299	Hepatitis C antibody (anti-HCV)

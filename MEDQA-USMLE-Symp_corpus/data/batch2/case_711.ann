@@ -1,0 +1,16 @@
+T1	Age_Group 3 13	8-year-old
+T2	Population_Group 14 17	boy
+T3	Sign_or_Symptom 61 81	excessively dry skin
+T4	Temporal_Concept 131 156	since he was 6 months old
+T5	Sign_or_Symptom 115 130	dry, scaly skin
+T6	Sign_or_Symptom 167 210	it is worse in winter and better in summer.
+T7	No_Symptom_Occurence 234 241	itching
+T8	No_Symptom_Occurence 243 250	redness
+T9	No_Symptom_Occurence 255 264	discharge
+T10	Sign_or_Symptom 286 326	generalized fine scales with coarse skin
+T11	Location 327 344	all over the body
+T12	No_Symptom_Occurence 360 384	skin creases of the neck
+T13	No_Symptom_Occurence 396 424	cubital and popliteal fossae
+T14	Sign_or_Symptom 448 475	multiple papular elevations
+T15	Location 483 505	base of hair follicles
+T16	Sign_or_Symptom 510 553	darkening of the palmar and plantar creases

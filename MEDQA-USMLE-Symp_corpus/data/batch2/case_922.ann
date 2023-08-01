@@ -1,0 +1,26 @@
+T1	Finding 405 433	immunizations are up-to-date
+T2	Age_Group 2 12	3-year-old
+T3	Population_Group 13 16	boy
+T4	Sign_or_Symptom 67 89	recurrent skin lesions
+T5	Temporal_Concept 130 145	age of 2 months
+T6	Sign_or_Symptom 107 114	lesions
+T7	Sign_or_Symptom 250 278	respiratory tract infections
+T8	Sign_or_Symptom 280 300	enlarged lymph nodes
+T9	Sign_or_Symptom 306 322	recurrent fevers
+T10	Temporal_Concept 323 334	since birth
+T11	Sign_or_Symptom 383 389	asthma
+T12	Population_Group 365 378	older brother
+T13	Finding 448 473	5th percentile for length
+T14	Finding 478 504	10th percentile for weight
+T15	Sign_or_Symptom 517 520	ill
+T16	Finding 526 555	temperature is 38°C (100.4°F)
+T17	Finding 557 573	pulse is 100/min
+T18	Finding 579 609	blood pressure is 100/60 mm Hg
+T19	Sign_or_Symptom 637 684	raised, erythematous lesions of different sizes
+T20	Location 694 698	face
+T21	Location 700 704	neck
+T22	Location 706 712	groins
+T23	Location 718 729	extremities
+T24	Sign_or_Symptom 736 747	secrete pus
+T25	Sign_or_Symptom 749 808	Cervical and axillary lymph nodes are enlarged bilaterally.
+T26	No_Finding_Occurence 851 864	abnormalities

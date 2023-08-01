@@ -1,0 +1,16 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 52 59	fatigue
+T4	Sign_or_Symptom 64 88	worsening abdominal pain
+T5	Temporal_Concept 89 100	for 4 weeks
+T6	Sign_or_Symptom 118 140	excessive night sweats
+T7	Sign_or_Symptom 147 173	5.4-kg (12-lb) weight loss
+T8	Temporal_Concept 174 190	during this time
+T9	Sign_or_Symptom 201 214	neck swelling
+T10	Temporal_Concept 215 225	for 4 days
+T11	Sign_or_Symptom 256 313	nontender, enlarged, and fixed supraclavicular lymph node
+T12	Sign_or_Symptom 324 336	splenomegaly
+T13	Sign_or_Symptom 380 446	massively enlarged axillary, mediastinal, and cervical lymph nodes
+T14	Location 355 361	thorax
+T15	Location 366 373	abdomen
+T16	Finding 497 569	lymphocytes with a high proliferative index that stain positive for CD20

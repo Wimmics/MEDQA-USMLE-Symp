@@ -1,0 +1,18 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 34	African American man
+T3	Sign_or_Symptom 77 99	central chest pressure
+T4	Temporal_Concept 122 134	1 day before
+T5	Location 226 229	jaw
+T6	Location 234 247	left shoulder
+T7	Sign_or_Symptom 275 295	difficulty breathing
+T8	Sign_or_Symptom 140 218	pain was initially intermittent in nature but has become constant and radiates
+T9	Sign_or_Symptom 338 350	hypertension
+T10	Temporal_Concept 351 361	1 year ago
+T11	Finding 494 525	blood pressure is 230/130 mm Hg
+T12	Location 529 538	both arms
+T13	Finding 544 574	temperature is 36.9°C (98.4°F)
+T14	Finding 584 599	pulse is 90/min
+T15	Sign_or_Symptom 611 635	diffuse T wave inversion
+T16	Finding 640 670	ST depression in lateral leads
+T17	Finding 710 727	elevated troponin
+T18	Sign_or_Symptom 657 664	lateral

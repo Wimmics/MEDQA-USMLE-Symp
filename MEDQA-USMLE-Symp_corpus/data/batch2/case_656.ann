@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	55-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 67 88	severe abdominal pain
+T4	Temporal_Concept 89 108	for the past 1 hour
+T5	Sign_or_Symptom 204 224	peptic ulcer disease
+T6	Sign_or_Symptom 302 320	vomited repeatedly
+T7	Temporal_Concept 329 349	last couple of hours
+T8	Sign_or_Symptom 355 387	vomitus being brown/red in color
+T9	Finding 393 421	temperature is 98.6°F (37°C)
+T10	Finding 423 449	respiratory rate is 16/min
+T11	Finding 451 466	pulse is 97/min
+T12	Finding 472 502	blood pressure is 100/68 mm Hg
+T13	Sign_or_Symptom 530 602	tense abdomen with a board like rigidity and positive rebound tenderness

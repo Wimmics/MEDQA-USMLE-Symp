@@ -1,0 +1,17 @@
+T1	Age_Group 3 14	9-month-old
+T2	Population_Group 15 21	infant
+T3	Sign_or_Symptom 63 91	generalized nonpruritic rash
+T4	Temporal_Concept 92 102	for 2 days
+T5	Location 126 131	trunk
+T6	Location 150 161	extremities
+T7	Temporal_Concept 163 176	Five days ago
+T8	Sign_or_Symptom 224 229	fever
+T9	Finding 233 249	40.5°C (104.9°F)
+T10	Sign_or_Symptom 265 297	generalized tonic-clonic seizure
+T11	Temporal_Concept 256 264	1-minute
+T12	No_Symptom_Occurence 342 357	serious illness
+T13	Finding 363 391	immunizations are up-to-date
+T14	Finding 440 470	temperature is 37.2°C (99.0°F)
+T15	Finding 475 491	pulse is 120/min
+T16	Sign_or_Symptom 513 557	maculopapular rash that blanches on pressure
+T17	Sign_or_Symptom 594 629	Posterior auricular lymphadenopathy

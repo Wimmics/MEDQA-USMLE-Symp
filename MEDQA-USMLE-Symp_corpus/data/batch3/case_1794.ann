@@ -1,0 +1,46 @@
+T1	Age_Group 138 146	66 years
+T2	Population_Group 155 173	M, self-identified
+T3	Population_Group 185 201	African-American
+T4	Sign_or_Symptom 354 372	frequent urination
+T5	Temporal_Concept 336 342	1-year
+T6	Temporal_Concept 382 412	every 2–3 hours during the day
+T7	Location 435 451	3 times at night
+T8	Sign_or_Symptom 485 493	cystitis
+T9	Temporal_Concept 471 484	2 episodes of
+T10	Sign_or_Symptom 546 565	weak urinary stream
+T11	No_Symptom_Occurence 623 642	pain with urination
+T12	No_Symptom_Occurence 646 669	ejaculatory dysfunction
+T13	Temporal_Concept 670 674	Past
+T14	Sign_or_Symptom 692 716	type 2 diabetes mellitus
+T15	Sign_or_Symptom 717 732	nephrolithiasis
+T16	Sign_or_Symptom 776 792	essential tremor
+T17	Finding 1099 1103	37°C
+T18	Finding 1104 1112	(98.6°F)
+T19	Finding 1113 1119	72/min
+T20	Finding 1120 1126	16/min
+T21	Finding 1127 1139	134/81 mm Hg
+T22	Finding 1142 1148	183 cm
+T23	Finding 1149 1155	(6 ft)
+T24	Finding 1156 1162	105 kg
+T25	Finding 1163 1171	(231 lb)
+T26	Finding 1172 1180	31 kg/m2
+T27	No_Symptom_Occurence 1196 1210	acute distress
+T28	No_Finding_Occurence 1231 1243	auscultation
+T29	Finding 1244 1302	Cardiac: regular rate and rhythm; normal S1, S2; S4 gallop
+T30	Sign_or_Symptom 1314 1324	overweight
+T31	No_Symptom_Occurence 1329 1339	tenderness
+T32	No_Symptom_Occurence 1341 1349	guarding
+T33	No_Symptom_Occurence 1351 1357	masses
+T34	No_Symptom_Occurence 1359 1365	bruits
+T35	No_Symptom_Occurence 1370 1388	hepatosplenomegaly
+T36	Location 1303 1312	Abdominal
+T37	Location 1389 1400	Extremities
+T38	No_Symptom_Occurence 1405 1419	joint erythema
+T39	No_Symptom_Occurence 1421 1426	edema
+T40	No_Symptom_Occurence 1431 1437	warmth
+T41	No_Finding_Occurence 1439 1488	dorsalis pedis, radial, and femoral pulses intact
+T42	Sign_or_Symptom 1536 1581	slightly enlarged, smooth, nontender prostate
+T43	No_Symptom_Occurence 1594 1599	alert
+T44	No_Symptom_Occurence 1604 1612	oriented
+T45	No_Finding_Occurence 1614 1643	cranial nerves grossly intact
+T46	No_Finding_Occurence 1648 1673	focal neurologic deficits

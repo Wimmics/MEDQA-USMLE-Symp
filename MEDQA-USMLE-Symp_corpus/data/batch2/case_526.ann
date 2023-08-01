@@ -1,0 +1,13 @@
+T1	Age_Group 2 13	35-year-old
+T2	Population_Group 14 19	woman
+T3	Temporal_Concept 67 72	3-day
+T4	Sign_or_Symptom 84 88	pain
+T5	Location 96 106	left cheek
+T6	Temporal_Concept 124 139	every few hours
+T7	Temporal_Concept 147 160	30–60 seconds
+T8	Sign_or_Symptom 226 252	pain with a vesicular rash
+T9	Temporal_Concept 280 292	one year ago
+T10	Sign_or_Symptom 305 332	upper respiratory infection
+T11	Temporal_Concept 333 344	2 weeks ago
+T12	No_Finding_Occurence 376 389	abnormalities
+T13	Location 266 279	axillary area

@@ -1,0 +1,34 @@
+T1	Relevant_symptoms 161 181	recurrent nosebleeds
+T2	Relevant_symptoms 345 365	recurrent nosebleeds
+T3	Sign_or_Symptom 118 132	abdominal pain
+T4	Sign_or_Symptom 85 92	fatigue
+T6	Sign_or_Symptom 322 328	anemia
+T8	Finding 594 613	Hemoglobin 7.1 g/dL
+T11	Sign_or_Symptom 527 533	pallor
+T13	Finding 675 701	Platelet count 250,000/mm3
+T14	No_Finding_Occurence 544 557	abnormalities
+T15	Temporal_Concept 73 84	progressive
+T18	Age_Group 2 13	27-year-old
+T19	Population_Group 14 17	man
+T5	Temporal_Concept 97 105	episodes
+R1	Related Ent1:T3 Ent2:T5	
+R2	Related Ent1:T4 Ent2:T15	
+T9	Temporal_Concept 54 69	1-month history
+R3	Related Ent1:T4 Ent2:T9	
+R4	Related Ent1:T3 Ent2:T9	
+T10	Temporal_Concept 143 157	4-year history
+T16	Temporal_Concept 192 214	increased in frequency
+T17	Temporal_Concept 268 280	6 months ago
+R5	Related Ent1:T1 Ent2:T10	
+R6	Related Ent1:T1 Ent2:T16	
+T20	Relevant_symptoms 370 393	heavy menstrual periods
+T21	Relevant_symptoms 408 429	postpartum hemorrhage
+T7	Finding 471 507	vital signs are within normal limits
+T22	Finding 614 647	Erythrocyte count 2.1 million/mm3
+T23	Finding 648 674	Leukocyte count 13,500/mm3
+T24	Finding 702 733	Prothrombin time 12 sec (INR=1)
+T25	Finding 734 768	Partial thromboplastin time 45 sec
+#1	AnnotatorNotes T1	Prolonged bleeding time
+#2	AnnotatorNotes T20	Menorrhagia
+#3	AnnotatorNotes T2	Prolonged bleeding time
+#4	AnnotatorNotes T21	Abnormality of coagulation

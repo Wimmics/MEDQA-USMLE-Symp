@@ -1,0 +1,15 @@
+T1	Age_Group 2 13	38-year-old
+T2	Population_Group 14 19	woman
+T3	Sign_or_Symptom 76 97	epigastric discomfort
+T4	Sign_or_Symptom 102 115	cramping pain
+T5	Temporal_Concept 116 136	for the past 2 hours
+T6	Sign_or_Symptom 174 186	similar pain
+T7	Temporal_Concept 187 198	in the past
+T8	Sign_or_Symptom 361 378	lost a few pounds
+T9	Temporal_Concept 386 407	last couple of months
+T10	Sign_or_Symptom 507 524	chronic knee pain
+T11	Finding 580 608	temperature is 37°C (98.6°F)
+T12	Finding 610 636	respiratory rate is 16/min
+T13	Finding 638 653	pulse is 77/min
+T14	Finding 659 689	blood pressure is 120/89 mm Hg
+T15	No_Symptom_Occurence 720 732	unremarkable

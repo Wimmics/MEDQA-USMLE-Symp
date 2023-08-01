@@ -1,0 +1,25 @@
+T1	Age_Group 2 11	5-day-old
+T2	Population_Group 12 24	male newborn
+T3	Sign_or_Symptom 78 101	yellowish discoloration
+T4	Location 109 113	skin
+T5	Temporal_Concept 114 123	for 1 day
+T6	Location 165 169	face
+T7	Location 193 198	trunk
+T8	No_Symptom_Occurence 234 246	bowel habits
+T9	No_Symptom_Occurence 250 259	urination
+T10	Finding 268 330	born at 38 weeks’ gestation via uncomplicated vaginal delivery
+T11	Sign_or_Symptom 350 359	breastfed
+T12	Temporal_Concept 360 375	every 2–3 hours
+T13	Sign_or_Symptom 395 423	scleral icterus and jaundice
+T14	Location 431 435	face
+T15	Location 437 442	chest
+T16	Location 448 455	abdomen
+T17	Finding 482 502	Hemoglobin 17.6 g/dL
+T18	Finding 503 521	Reticulocytes 0.3%
+T19	Finding 522 544	Maternal blood group A
+T20	Finding 546 557	Rh-negative
+T21	Finding 558 577	Fetal blood group 0
+T22	Finding 579 590	Rh-positive
+T23	Finding 597 621	Bilirubin, total 7 mg/dL
+T24	Finding 622 638	Direct 0.6 mg/dL
+T25	Finding 639 654	Free T4 7 μg/dL

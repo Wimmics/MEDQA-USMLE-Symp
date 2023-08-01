@@ -1,0 +1,19 @@
+T1	Age_Group 21 32	20-year-old
+T2	Population_Group 33 38	woman
+T3	Sign_or_Symptom 73 99	recurrent abdominal cramps
+T4	Sign_or_Symptom 101 109	bloating
+T5	Sign_or_Symptom 115 123	diarrhea
+T6	Temporal_Concept 124 136	for 4 months
+T7	Sign_or_Symptom 156 211	stools as greasy, foul-smelling, and difficult to flush
+T8	Sign_or_Symptom 244 270	6-kg (13.2-lb) weight loss
+T9	No_Symptom_Occurence 313 328	serious illness
+T10	Sign_or_Symptom 357 363	pallor
+T11	Sign_or_Symptom 368 377	cheilitis
+T12	Finding 405 440	hemoglobin concentration of 11 g/dL
+T13	No_Finding_Occurence 442 478	Serum concentrations of electrolytes
+T14	No_Finding_Occurence 480 493	urea nitrogen
+T15	No_Finding_Occurence 499 509	creatinine
+T16	No_Finding_Occurence 564 576	occult blood
+T17	No_Finding_Occurence 621 630	pathogens
+T18	No_Finding_Occurence 638 648	leukocytes
+T19	Finding 664 702	24-hour stool sample shows 12 g of fat

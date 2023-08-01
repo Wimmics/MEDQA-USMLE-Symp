@@ -1,0 +1,28 @@
+T1	Age_Group 2 13	34-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 23 27	AIDS
+T4	Temporal_Concept 64 69	2-day
+T5	Sign_or_Symptom 81 98	decreasing vision
+T6	Sign_or_Symptom 103 121	seeing black spots
+T7	Location 129 138	right eye
+T8	No_Symptom_Occurence 150 154	pain
+T9	No_Symptom_Occurence 175 187	asymptomatic
+T10	Location 163 171	left eye
+T11	Sign_or_Symptom 208 226	fungal esophagitis
+T12	Temporal_Concept 227 239	6 months ago
+T13	Sign_or_Symptom 280 296	Kaposi's sarcoma
+T14	Temporal_Concept 297 308	2 years ago
+T15	Finding 471 494	170 cm (5 ft 7 in) tall
+T16	Finding 499 520	weighs 45 kg (99 lbs)
+T17	Finding 521 538	BMI is 15.6 kg/m2
+T18	Finding 544 572	temperature is 37°C (98.6°F)
+T19	Finding 574 589	pulse is 89/min
+T20	Finding 595 625	blood pressure is 110/70 mm Hg
+T21	Sign_or_Symptom 645 669	cervical lymphadenopathy
+T22	Sign_or_Symptom 681 708	multiple violaceous plaques
+T23	Location 723 728	trunk
+T24	Location 733 744	extremities
+T25	Sign_or_Symptom 776 807	granular yellow-white opacities
+T26	Location 808 834	around the retinal vessels
+T27	Sign_or_Symptom 839 877	multiple areas of dot-blot hemorrhages
+T28	Finding 883 916	CD4+ T-lymphocyte count is 36/mm3

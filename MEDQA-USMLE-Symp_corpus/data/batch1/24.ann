@@ -1,0 +1,30 @@
+T1	Sign_or_Symptom 477 495	diffuse tenderness
+T5	Relevant_symptoms 115 119	pain
+T6	No_Symptom_Occurence 161 175	abdominal pain
+T7	No_Symptom_Occurence 229 233	pain
+T8	No_Symptom_Occurence 177 185	vomiting
+T9	No_Symptom_Occurence 190 198	diarrhea
+T11	Sign_or_Symptom 545 553	erythema
+T12	No_Finding_Occurence 342 353	Vital signs
+T20	No_Finding_Occurence 411 424	abnormalities
+T22	Finding 609 659	The left testicle is lower than the right testicle
+T16	Sign_or_Symptom 661 726	Cremasteric reflex is present on the left and absent on the right
+T17	Sign_or_Symptom 467 472	edema
+T10	Location 516 529	right scrotum
+R1	Related Ent1:T17 Ent2:T10	
+R2	Related Ent1:T1 Ent2:T10	
+T18	Location 95 114	right-sided scrotal
+R4	Related Ent1:T5 Ent2:T18	
+T14	Temporal_Concept 70 84	6-hour history
+R5	Related Ent1:T5 Ent2:T14	
+T13	Age_Group 2 13	16-year-old
+T19	Population_Group 14 17	boy
+T2	No_Symptom_Occurence 154 159	fever
+T4	No_Symptom_Occurence 143 152	discharge
+T15	Location 136 142	penile
+R6	Related Ent1:T4 Ent2:T15	
+T21	Temporal_Concept 210 217	history
+R7	Related Ent1:T7 Ent2:T21	
+T24	No_Symptom_Occurence 241 247	trauma
+R8	Related Ent1:T24 Ent2:T21	
+R9	Related Ent1:T24 Ent2:T18	

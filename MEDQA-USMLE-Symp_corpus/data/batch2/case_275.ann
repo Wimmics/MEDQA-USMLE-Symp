@@ -1,0 +1,20 @@
+T1	Age_Group 2 13	78-year-old
+T2	Population_Group 14 17	man
+T3	Sign_or_Symptom 71 83	hearing loss
+T4	Location 87 96	both ears
+T5	Temporal_Concept 97 115	over the past year
+T6	Sign_or_Symptom 124 182	difficulties understanding conversations in crowded places
+T7	Sign_or_Symptom 187 235	when more than one person talks at the same time
+T8	No_Symptom_Occurence 247 256	dizziness
+T9	No_Symptom_Occurence 258 271	ear discharge
+T10	No_Symptom_Occurence 273 286	ringing noise
+T11	No_Symptom_Occurence 291 299	ear pain
+T12	Sign_or_Symptom 321 333	hypertension
+T13	Sign_or_Symptom 335 355	hypercholesterolemia
+T14	Sign_or_Symptom 361 385	type 2 diabetes mellitus
+T15	No_Finding_Occurence 447 458	Vital signs
+T16	Sign_or_Symptom 513 583	pearly gray, translucent tympanic membranes with a normal light reflex
+T18	No_Finding_Occurence 864 954	lateralization when a vibrating 512 Hz tuning fork is placed in the middle of the forehead
+T17	Finding 587 653	vibrating 512 Hz tuning fork is placed on the left mastoid process
+T19	Finding 655 784	Once the patient no longer hears a tone, the fork is held over the ipsilateral ear and the patient reports to hear the tone again
+T20	Finding 790 850	same test is repeated on the right side with similar results
